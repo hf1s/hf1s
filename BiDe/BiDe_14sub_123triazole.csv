@@ -1,0 +1,60 @@
+cas,name,smi,product_id,pack_size_min,price,availability,price_per_gram,NH2_num,term_acetylene_num,N3_num,14sub_123triazole_num
+1887095-82-0,RapaLink-1,CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@@H](C)C[C@@H]2CC[C@@H](OCCOCc3cn(CCOCCOCCOCCOCCOCCOCCOCCOCCC(=O)NCCCCn4nc(-c5ccc6oc(N)nc6c5)c5c(N)ncnc54)nn3)[C@H](OC)C2)CC(=O)[C@@H](C)/C=C(\C)[C@H](O)[C@H](OC)C(=O)C[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C,BD00800734,5mg,1434.55,InStock,286910.0,2.0,0.0,0.0,1.0
+2239273-34-6,"3-(2-Amino-6-(1-((6-(2-hydroxypropan-2-yl)pyridin-2-yl)methyl)-1H-1,2,3-triazol-4-yl)pyrimidin-4-yl)-2-methylbenzonitrile",Cc1c(C#N)cccc1-c1cc(-c2cn(Cc3cccc(C(C)(C)O)n3)nn2)nc(N)n1,BD01154349,25mg,547.3,InStock,21892.0,1.0,0.0,0.0,1.0
+760981-83-7,"(3aS,4R,7S,9R,10R,11R,13R,15R,15aR)-1-(4-(4-(3-Aminophenyl)-1H-1,2,3-triazol-1-yl)butyl)-10-(((2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)-4-ethyl-7-fluoro-11-methoxy-3a,7,9,11,13,15-hexamethyloctahydro-1H-[1]oxacyclotetradecino[4,3-d]oxazole-2,6,8,14(7H,9H)-tetraone",CC[C@H]1OC(=O)[C@@](C)(F)C(=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@H]2N(CCCCn3cc(-c4cccc(N)c4)nn3)C(=O)O[C@]12C,BD435005,25mg,169.0,InStock,6760.0,1.0,0.0,0.0,1.0
+1334179-85-9,"2-(4-((Bis((1-(tert-butyl)-1H-1,2,3-triazol-4-yl)methyl)amino)methyl)-1H-1,2,3-triazol-1-yl)acetic acid",CC(C)(C)n1cc(CN(Cc2cn(CC(=O)O)nn2)Cc2cn(C(C)(C)C)nn2)nn1,BD517893,100mg,1739.4,InStock,17394.0,0.0,0.0,0.0,3.0
+129027-65-2,"1-(tert-Butyl)-1H-1,2,3-triazole-4-carbaldehyde",CC(C)(C)n1cc(C=O)nn1,BD521637,100mg,555.75,InStock,5557.5,0.0,0.0,0.0,1.0
+16681-70-2,"1H-[1,2,3]Triazole-4-carboxylic acid",O=C(O)c1c[nH]nn1,BD52799,250mg,42.9,InStock,171.6,0.0,0.0,0.0,1.0
+51720-20-8,"2-(4-Phenyl-1H-1,2,3-triazol-1-yl)acetic acid",O=C(O)Cn1cc(-c2ccccc2)nn1,BD554456,250mg,638.3,InStock,2553.2,0.0,0.0,0.0,1.0
+1341039-29-9,"1-(4-(Chloromethyl)phenyl)-1H-1,2,3-triazole",ClCc1ccc(-n2ccnn2)cc1,BD570240,100mg,359.45,InStock,3594.5,0.0,0.0,0.0,1.0
+4314-22-1,"2-(1H-1,2,3-Triazol-1-yl)acetic acid",O=C(O)Cn1ccnn1,BD58560,100mg,81.9,InStock,819.0,0.0,0.0,0.0,1.0
+16681-65-5,"1-Methyl-1H-1,2,3-triazole",Cn1ccnn1,BD59300,1g,31.2,InStock,31.2,0.0,0.0,0.0,1.0
+1257633-67-2,"1-(tert-Butyl)-4-(diethoxymethyl)-1H-1,2,3-triazole",CCOC(OCC)c1cn(C(C)(C)C)nn1,BD627866,100mg,293.8,InStock,2938.0,0.0,0.0,0.0,1.0
+872700-72-6,"(4-Phenyl-1H-1,2,3-triazol-1-yl)methyl pivalate",CC(C)(C)C(=O)OCn1cc(-c2ccccc2)nn1,BD749121,100mg,861.25,InStock,8612.5,0.0,0.0,0.0,1.0
+1643543-43-4,"4-Bromo-1H-1,2,3-triazole",Brc1c[nH]nn1,BD751992,100mg,571.35,InStock,5713.5,0.0,0.0,0.0,1.0
+499132-20-6,"1-Isopropyl-1H-1,2,3-triazole",CC(C)n1ccnn1,BD754071,250mg,92.95,InStock,371.8,0.0,0.0,0.0,1.0
+4368-68-7,"1-Benzyl-1H-1,2,3-triazole",c1ccc(Cn2ccnn2)cc1,BD754072,100mg,77.35,InStock,773.5,0.0,0.0,0.0,1.0
+89789-07-1,"Benzhydryl (2S,3S,5R)-3-((1H-1,2,3-triazol-1-yl)methyl)-3-methyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate 4,4-dioxide",C[C@]1(Cn2ccnn2)[C@H](C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)C[C@H]2S1(=O)=O,BD763738,1g,182.0,InStock,182.0,0.0,0.0,0.0,1.0
+1312782-34-5,"Pyrrolidin-1-yl(1H-1,2,3-triazol-1-yl)methanone",O=C(N1CCCC1)n1ccnn1,BD767660,5mg,582.4,InStock,116480.0,0.0,0.0,0.0,1.0
+78910-06-2,"1-Ethyl-1H-1,2,3-triazole",CCn1ccnn1,BD00736401,100mg,45.5,InStock,455.0,0.0,0.0,0.0,1.0
+118175-11-4,"2-Amino-3-methyl-3-sulfino-4-(1H-1,2,3-triazol-1-yl)butanoic acid",CC(Cn1ccnn1)(C(N)C(=O)O)S(=O)O,BD00791363,100mg,2925.0,InStock,29250.0,1.0,0.0,0.0,1.0
+760952-88-3,Tris(3-hydroxypropyltriazolylmethyl)amine,OCCCC(c1c[nH]nn1)N(C(CCCO)c1c[nH]nn1)C(CCCO)c1c[nH]nn1,BD00811998,100mg,158.6,InStock,1586.0,0.0,0.0,0.0,3.0
+1393532-87-0,"4-Bromo-1-ethyl-1H-1,2,3-triazole",CCn1cc(Br)nn1,BD00868400,100mg,545.35,InStock,5453.5,0.0,0.0,0.0,1.0
+216959-87-4,"4-(1H-1,2,3-Triazol-1-yl)benzoic acid",O=C(O)c1ccc(-n2ccnn2)cc1,BD00971313,250mg,100.75,InStock,403.0,0.0,0.0,0.0,1.0
+1564993-15-2,"3-(1-Methyl-1H-1,2,3-triazol-4-yl)propan-1-ol",Cn1cc(CCCO)nn1,BD00991569,100mg,595.4,InStock,5954.0,0.0,0.0,0.0,1.0
+1342762-99-5,"N-Ethyl-1H-1,2,3-triazole-4-carboxamide",CCNC(=O)c1c[nH]nn1,BD01012949,100mg,636.35,InStock,6363.5,0.0,0.0,0.0,1.0
+1803604-38-7,"3-(1H-1,2,3-Triazol-1-yl)propanoic acid hydrochloride",Cl.O=C(O)CCn1ccnn1,BD01016076,100mg,99.45,InStock,994.5,0.0,0.0,0.0,1.0
+1341215-17-5,"3-(4-((Bis((1-(tert-butyl)-1H-1,2,3-triazol-4-yl)methyl)amino)methyl)-1H-1,2,3-triazol-1-yl)propan-1-ol",CC(C)(C)n1cc(CN(Cc2cn(CCCO)nn2)Cc2cn(C(C)(C)C)nn2)nn1,BD01156128,50mg,902.2,InStock,18044.0,0.0,0.0,0.0,3.0
+1437325-71-7,"(2-Aminophenyl)(1-(3-isopropylphenyl)-1H-1,2,3-triazol-4-yl)methanone",CC(C)c1cccc(-n2cc(C(=O)c3ccccc3N)nn2)c1,BD01201330,100mg,1506.7,InStock,15067.0,1.0,0.0,0.0,1.0
+1279680-68-0,"4-((S)-2-(4-Aminobutyl)-35-(4-((4-((2,5-dioxo-2,5-dihydro-1H-pyrrol-1-yl)methyl)cyclohexanecarboxamido)methyl)-1H-1,2,3-triazol-1-yl)-4,8-dioxo-6,12,15,18,21,24,27,30,33-nonaoxa-3,9-diazapentatriacontanamido)benzyl ((S)-4,11-diethyl-9-hydroxy-3,14-dioxo-3,4,12,14-tetrahydro-1H-pyrano[3',4':6,7]indolizino[1,2-b]quinolin-4-yl) carbonate",CCc1c2c(nc3ccc(O)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@@]3(CC)OC(=O)OCc1ccc(NC(=O)[C@H](CCCCN)NC(=O)COCC(=O)NCCOCCOCCOCCOCCOCCOCCOCCOCCn2cc(CNC(=O)C3CCC(CN4C(=O)C=CC4=O)CC3)nn2)cc1,BD01207520,5mg,981.5,InStock,196300.0,1.0,0.0,0.0,1.0
+1021869-28-2,"Methyl 3-(dimethylamino)-2-(1H-1,2,3-triazol-1-yl)acrylate",COC(=O)C(=CN(C)C)n1ccnn1,BD01384292,100mg,364.0,InStock,3640.0,0.0,0.0,0.0,1.0
+1093949-56-4,"4,4',4''-((4,4',4''-(Nitrilotris(methylene))tris(1H-1,2,3-triazole-4,1-diyl))tris(methylene))tribenzoic acid",O=C(O)c1ccc(Cn2cc(CN(Cc3cn(Cc4ccc(C(=O)O)cc4)nn3)Cc3cn(Cc4ccc(C(=O)O)cc4)nn3)nn2)cc1,BD01396464,25mg,161.2,InStock,6448.0,0.0,0.0,0.0,3.0
+1403744-65-9,"5,5'-(1H-1,2,3-Triazole-1,4-diyl)diisophthalic acid",O=C(O)c1cc(C(=O)O)cc(-c2cn(-c3cc(C(=O)O)cc(C(=O)O)c3)nn2)c1,BD01412313,100mg,701.35,InStock,7013.5,0.0,0.0,0.0,1.0
+1257633-69-4,"2-(4-((Bis((1-(tert-butyl)-1H-1,2,3-triazol-4-yl)methyl)amino)methyl)-1H-1,2,3-triazol-1-yl)ethan-1-ol",CC(C)(C)n1cc(CN(Cc2cn(CCO)nn2)Cc2cn(C(C)(C)C)nn2)nn1,BD01419088,100mg,850.2,InStock,8502.0,0.0,0.0,0.0,3.0
+27808-16-8,"4-Methyl-1H-1,2,3-triazole",Cc1c[nH]nn1,BD163248,100mg,270.4,InStock,2704.0,0.0,0.0,0.0,1.0
+944901-58-0,"1-(3-Chlorophenyl)-1H-1,2,3-triazole-4-carboxylic acid",O=C(O)c1cn(-c2cccc(Cl)c2)nn1,BD170893,100mg,148.2,InStock,1482.0,0.0,0.0,0.0,1.0
+4967-77-5,"Methyl 1H-1,2,3-triazole-4-carboxylate",COC(=O)c1c[nH]nn1,BD174203,250mg,18.2,InStock,72.8,0.0,0.0,0.0,1.0
+13273-53-5,"4-Bromo-1-methyl-1H-1,2,3-triazole",Cn1cc(Br)nn1,BD212941,250mg,37.7,InStock,150.8,0.0,0.0,0.0,1.0
+1453-81-2,"1-Phenyl-1H-1,2,3-triazole",c1ccc(-n2ccnn2)cc1,BD221862,100mg,288.6,InStock,2886.0,0.0,0.0,0.0,1.0
+156113-56-3,"trans-4-(1H-1,2,3-Triazol-1-yl)pyrrolidin-3-ol hydrochloride",Cl.O[C@@H]1CNC[C@H]1n1ccnn1,BD01529380,100mg,638.95,InStock,6389.5,0.0,0.0,0.0,1.0
+1883190-87-1,"2-Cyano-3-(1-methyl-1H-1,2,3-triazol-4-yl)acrylic acid",Cn1cc(C=C(C#N)C(=O)O)nn1,BD01766464,100mg,473.2,InStock,4732.0,0.0,0.0,0.0,1.0
+137156-41-3,"Ethyl 1-Hydroxy-1,2,3-triazole-4-carboxylate",CCOC(=O)c1cn(O)nn1,BD127893,1g,39.0,InStock,39.0,0.0,0.0,0.0,1.0
+5301-96-2,"4-(p-Tolyl)-1H-1,2,3-triazole",Cc1ccc(-c2c[nH]nn2)cc1,BD154384,100mg,462.15,InStock,4621.5,0.0,0.0,0.0,1.0
+1788044-10-9,"3-(1-(4-Aminobutyl)-1H-1,2,3-triazol-4-yl)aniline trihydrochloride",Cl.Cl.Cl.NCCCCn1cc(-c2cccc(N)c2)nn1,BD303589,250mg,50.05,InStock,200.2,2.0,0.0,0.0,1.0
+1572414-83-5,"N-(4-(1H-1,2,3-Triazol-1-yl)benzyl)-2-(2-isopropylphenyl)-5-methylpyrimidin-4-amine",Cc1cnc(-c2ccccc2C(C)C)nc1NCc1ccc(-n2ccnn2)cc1,BD305629,25mg,590.2,InStock,23608.0,0.0,0.0,0.0,1.0
+16279-88-2,"1-(4-Amino-phenyl)-1,2,3-triazole",Nc1ccc(-n2ccnn2)cc1,BD307452,100mg,105.95,InStock,1059.5,1.0,0.0,0.0,1.0
+1450824-22-2,"(2R,2'R,3R,3'R,4S,4'S,5R,5'R,6S,6'S)-6,6'-Thiobis(4-(4-(3-fluorophenyl)-1H-1,2,3-triazol-1-yl)-2-(hydroxymethyl)tetrahydro-2H-pyran-3,5-diol)",OC[C@H]1O[C@@H](S[C@@H]2O[C@H](CO)[C@H](O)[C@H](n3cc(-c4cccc(F)c4)nn3)[C@H]2O)[C@H](O)[C@@H](n2cc(-c3cccc(F)c3)nn2)[C@H]1O,BD318868,25mg,816.4,InStock,32656.0,0.0,0.0,0.0,2.0
+120241-79-4,"3-(1H-1,2,3-Triazol-4-yl)pyridine",c1cncc(-c2c[nH]nn2)c1,BD333400,100mg,397.8,InStock,3978.0,0.0,0.0,0.0,1.0
+1101174-00-8,"1-(4-(4,4,5,5-Tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)-1H-1,2,3-triazole",CC1(C)OB(c2ccc(-n3ccnn3)cc2)OC1(C)C,BD336332,50mg,318.5,InStock,6370.0,0.0,0.0,0.0,1.0
+89786-04-9,"(2S,3S,5R)-3-((1H-1,2,3-Triazol-1-yl)methyl)-3-methyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid 4,4-dioxide",C[C@]1(Cn2ccnn2)[C@H](C(=O)O)N2C(=O)C[C@H]2S1(=O)=O,BD40438,100mg,61.1,InStock,611.0,0.0,0.0,0.0,1.0
+1260665-09-5,"1-(tert-Butyl)-1H-1,2,3-triazole-4-carboxylic acid",CC(C)(C)n1cc(C(=O)O)nn1,BD444040,250mg,26.0,InStock,104.0,0.0,0.0,0.0,1.0
+98013-35-5,"Ethyl 1-(tert-butyl)-1H-1,2,3-triazole-4-carboxylate",CCOC(=O)c1cn(C(C)(C)C)nn1,BD444086,100mg,166.4,InStock,1664.0,0.0,0.0,0.0,1.0
+510758-28-8,"Tris((1-benzyl-1H-1,2,3-triazol-4-yl)methyl)amine",c1ccc(Cn2cc(CN(Cc3cn(Cc4ccccc4)nn3)Cc3cn(Cc4ccccc4)nn3)nn2)cc1,BD224886,250mg,97.5,InStock,390.0,0.0,0.0,0.0,3.0
+16681-71-3,"1-Methyl-1H-1,2,3-triazole-4-carboxylic acid",Cn1cc(C(=O)O)nn1,BD237740,100mg,468.0,InStock,4680.0,0.0,0.0,0.0,1.0
+166196-11-8,"1-(2,6-Difluorobenzyl)-1H-1,2,3-triazole-4-carboxylic acid",O=C(O)c1cn(Cc2c(F)cccc2F)nn1,BD259481,100mg,117.0,InStock,1170.0,0.0,0.0,0.0,1.0
+217448-86-7,"Methyl 1-(2,6-difluorobenzyl)-1H-1,2,3-triazole-4-carboxylate",COC(=O)c1cn(Cc2c(F)cccc2F)nn1,BD262803,100mg,288.6,InStock,2886.0,0.0,0.0,0.0,1.0
+103755-58-4,"(1-Phenyl-1H-1,2,3-triazol-4-yl)methanol",OCc1cn(-c2ccccc2)nn1,BD262863,250mg,137.8,InStock,551.2,0.0,0.0,0.0,1.0
+60166-43-0,"1,4-Dimethyl-1H-1,2,3-triazole",Cc1cn(C)nn1,BD264612,100mg,115.7,InStock,1157.0,0.0,0.0,0.0,1.0
+16681-69-9,"1-Methyl-1H-1,2,3-triazole-4-carbaldehyde",Cn1cc(C=O)nn1,BD281074,1g,65.0,InStock,65.0,0.0,0.0,0.0,1.0
+288-36-8,"1H-1,2,3-Triazole",c1c[nH]nn1,BD28275,1g,9.75,InStock,9.75,0.0,0.0,0.0,1.0
+81581-05-7,"Ethyl 1-(4-methoxybenzyl)-1H-1,2,3-triazole-4-carboxylate",CCOC(=O)c1cn(Cc2ccc(OC)cc2)nn1,BD286224,100mg,77.35,InStock,773.5,0.0,0.0,0.0,1.0

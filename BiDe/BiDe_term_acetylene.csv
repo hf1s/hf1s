@@ -1,0 +1,684 @@
+cas,name,smi,product_id,pack_size_min,price,availability,price_per_gram,NH2_num,term_acetylene_num,N3_num,14sub_123triazole_num
+55947-46-1,Sodium prop-2-yne-1-sulfonate,C#CCS(=O)(=O)[O-].[Na+],BD78424,10g,24.7,InStock,2.47,0.0,1.0,0.0,0.0
+173306-82-6,Methyl 2-((tert-butoxycarbonyl)amino)pent-4-ynoate,C#CCC(NC(=O)OC(C)(C)C)C(=O)OC,BD78652,100mg,294.45,InStock,2944.5,0.0,1.0,0.0,0.0
+556112-20-0,"1,2-Dichloro-4-ethynylbenzene",C#Cc1ccc(Cl)c(Cl)c1,BD81783,250mg,101.4,InStock,405.6,0.0,1.0,0.0,0.0
+107-54-0,"3,5-Dimethylhex-1-yn-3-ol",C#CC(C)(O)CC(C)C,BD82776,25g,24.05,InStock,0.96,0.0,1.0,0.0,0.0
+29171-20-8,"3,7-Dimethyloct-6-en-1-yn-3-ol",C#CC(C)(O)CCC=C(C)C,BD83142,5g,64.35,InStock,12.87,0.0,1.0,0.0,0.0
+108575-32-2,3-Methylpent-1-yn-3-amine hydrochloride,C#CC(C)(N)CC.Cl,BD84065,100mg,48.1,InStock,481.0,1.0,1.0,0.0,0.0
+705-28-2,1-Ethynyl-3-(trifluoromethyl)benzene,C#Cc1cccc(C(F)(F)F)c1,BD86711,100mg,18.2,InStock,182.0,0.0,1.0,0.0,0.0
+768-70-7,3-Ethynylanisole,C#Cc1cccc(OC)c1,BD86713,1g,41.6,InStock,41.6,0.0,1.0,0.0,0.0
+171290-53-2,3-Ethynylbenzonitrile,C#Cc1cccc(C#N)c1,BD86716,100mg,60.45,InStock,604.5,0.0,1.0,0.0,0.0
+2510-23-8,3-Ethynylpyridine,C#Cc1cccnc1,BD86718,250mg,15.6,InStock,62.4,0.0,1.0,0.0,0.0
+67237-53-0,3-Ethynylthiophene,C#Cc1ccsc1,BD86719,1g,45.5,InStock,45.5,0.0,1.0,0.0,0.0
+5651-86-5,4-(Prop-2-yn-1-yloxy)benzaldehyde,C#CCOc1ccc(C=O)cc1,BD91579,1g,57.2,InStock,57.2,0.0,1.0,0.0,0.0
+78592-82-2,(But-3-yn-1-yloxy)(tert-butyl)dimethylsilane,C#CCCO[Si](C)(C)C(C)(C)C,BD91614,1g,45.5,InStock,45.5,0.0,1.0,0.0,0.0
+42472-69-5,1-(4-Ethynylphenyl)ethanone,C#Cc1ccc(C(C)=O)cc1,BD93470,100mg,33.8,InStock,338.0,0.0,1.0,0.0,0.0
+84284-70-8,4'-Benzyloxyphenyl acetylene,C#Cc1ccc(OCc2ccccc2)cc1,BD94537,250mg,124.15,InStock,496.6,0.0,1.0,0.0,0.0
+38771-21-0,4-Bromo-1-butyne,C#CCCBr,BD94666,1g,24.7,InStock,24.7,0.0,1.0,0.0,0.0
+351002-93-2,4-Ethynyl-1-fluoro-2-methylbenzene,C#Cc1ccc(F)c(C)c1,BD97044,250mg,139.75,InStock,559.0,0.0,1.0,0.0,0.0
+3034-86-4,Methyl 4-ethynylbenzoate,C#Cc1ccc(C(=O)OC)cc1,BD97049,100mg,8.45,InStock,84.5,0.0,1.0,0.0,0.0
+144693-65-2,Sodium 4-ethynylbenzoate,C#Cc1ccc(C(=O)[O-])cc1.[Na+],BD97050,100mg,55.25,InStock,552.5,0.0,1.0,0.0,0.0
+3032-92-6,4-Ethynylbenzonitrile,C#Cc1ccc(C#N)cc1,BD97051,250mg,11.7,InStock,46.8,0.0,1.0,0.0,0.0
+10602-04-7,(4-Ethynylphenyl)methanol,C#Cc1ccc(CO)cc1,BD97052,100mg,22.75,InStock,227.5,0.0,1.0,0.0,0.0
+2200-91-1,4-Ethynylphenol,C#Cc1ccc(O)cc1,BD97053,50mg,616.85,InStock,12337.0,0.0,1.0,0.0,0.0
+2510-22-7,4-Ethynylpyridine,C#Cc1ccncc1,BD97055,100mg,41.6,InStock,416.0,0.0,1.0,0.0,0.0
+352530-29-1,4-Ethynylpyridine hydrochloride,C#Cc1ccncc1.Cl,BD97056,250mg,14.3,InStock,57.2,0.0,1.0,0.0,0.0
+5390-04-5,4-Pentyn-1-ol,C#CCCCO,BD99861,1g,12.35,InStock,12.35,0.0,1.0,0.0,0.0
+16520-62-0,4-Phenyl-1-butyne,C#CCCc1ccccc1,BD99918,250mg,59.8,InStock,239.2,0.0,1.0,0.0,0.0
+936446-61-6,N-(3-Ethynylphenyl)-7-methoxy-6-(3-morpholinopropoxy)quinazolin-4-amine,C#Cc1cccc(Nc2ncnc3cc(OC)c(OCCCN4CCOCC4)cc23)c1,BD00967203,100mg,573.3,InStock,5733.0,0.0,1.0,0.0,0.0
+53016-31-2,"(8R,9S,10R,13S,14S,17R,E)-13-ethyl-17-ethynyl-17-hydroxy-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3(2H)-one oxime",C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=C/C(=N/O)CC[C@@H]4[C@H]3CC[C@@]21CC,BD123562,5mg,362.7,InStock,72540.0,0.0,1.0,0.0,0.0
+54024-22-5,"(8S,9S,10R,13S,14S,17R)-13-Ethyl-17-ethynyl-11-methylene-2,3,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-ol",C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3C(=C)C[C@@]21CC,BD123836,100mg,349.7,InStock,3497.0,0.0,1.0,0.0,0.0
+434-03-7,"(8R,9S,10R,13S,14S,17R)-17-Ethynyl-17-hydroxy-10,13-dimethyl-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3(2H)-one",C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,BD127691,5g,50.05,InStock,10.01,0.0,1.0,0.0,0.0
+54048-10-1,Etonogestrel,C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3C(=C)C[C@@]21CC,BD129875,250mg,256.1,InStock,1024.4,0.0,1.0,0.0,0.0
+60282-87-3,"(8R,9S,10R,13S,14S,17R)-13-Ethyl-17-ethynyl-17-hydroxy-6,7,8,9,10,11,12,13,14,17-decahydro-1H-cyclopenta[a]phenanthren-3(2H)-one",C#C[C@]1(O)C=C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21CC,BD132001,250mg,293.15,InStock,1172.6,0.0,1.0,0.0,0.0
+797-63-7,"(8R,9S,10R,13S,14S,17R)-13-Ethyl-17-ethynyl-17-hydroxy-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3(2H)-one",C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21CC,BD136604,250mg,63.7,InStock,254.8,0.0,1.0,0.0,0.0
+72-33-3,Mestranol,C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(OC)ccc4[C@H]3CC[C@@]21C,BD137552,250mg,120.9,InStock,483.6,0.0,1.0,0.0,0.0
+68-22-4,"(8R,9S,10R,13S,14S,17R)-17-Ethynyl-17-hydroxy-13-methyl-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3(2H)-one",C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21C,BD145460,1g,29.25,InStock,29.25,0.0,1.0,0.0,0.0
+3836-23-5,Norethisterone enanthate,C#CC1(OC(=O)CCCCCC)CCC2C3CCC4=CC(=O)CCC4C3CCC21C,BD145461,250mg,50.7,InStock,202.8,0.0,1.0,0.0,0.0
+158353-15-2,"1-(3-Chloro-4,5,6,7-tetrahydropyrazolo[1,5-a]pyridin-2-yl)-5-(methyl(prop-2-yn-1-yl)amino)-1H-pyrazole-4-carbonitrile",C#CCN(C)c1c(C#N)cnn1-c1nn2c(c1Cl)CCCC2,BD315352,5mg,1448.2,InStock,289640.0,0.0,1.0,0.0,0.0
+57-63-6,"(8R,9S,13S,14S,17R)-17-Ethynyl-13-methyl-7,8,9,11,12,13,14,15,16,17-decahydro-6H-cyclopenta[a]phenanthrene-3,17-diol",C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C,BD34146,1g,47.45,InStock,47.45,0.0,1.0,0.0,0.0
+297-76-7,"(3S,8R,9S,10R,13S,14S,17R)-17-Ethynyl-13-methyl-2,3,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthrene-3,17-diyl diacetate",C#C[C@]1(OC(C)=O)CC[C@H]2[C@@H]3CCC4=C[C@@H](OC(C)=O)CC[C@@H]4[C@H]3CC[C@@]21C,BD56129,100mg,40.95,InStock,409.5,0.0,1.0,0.0,0.0
+42969-65-3,(R)-But-3-yn-2-ol,C#C[C@@H](C)O,BD47084,250mg,18.2,InStock,72.8,0.0,1.0,0.0,0.0
+136236-51-6,"(R)-N-(2-Propynyl)-2,3-dihydroinden-1-amine",C#CCN[C@@H]1CCc2ccccc21,BD47369,100mg,41.6,InStock,416.0,0.0,1.0,0.0,0.0
+96439-99-5,3-Bromo-2-ethynylpyridine,C#Cc1ncccc1Br,BD480879,100mg,128.7,InStock,1287.0,0.0,1.0,0.0,0.0
+2914-69-4,(S)-3-Butyn-2-ol,C#C[C@H](C)O,BD48094,1g,59.15,InStock,59.15,0.0,1.0,0.0,0.0
+1777-03-3,(Triethylsilyl)acetylene,C#C[Si](CC)(CC)CC,BD49362,5g,40.3,InStock,8.06,0.0,1.0,0.0,0.0
+56862-34-1,N-(1-Phenylethyl)prop-2-yn-1-amine,C#CCNC(C)c1ccccc1,BD495361,250mg,261.3,InStock,1045.2,0.0,1.0,0.0,0.0
+9001-77-8,Acid phosphatase,C#CCOCC(C)O,BD50276,100mg,264.55,InStock,2645.5,0.0,1.0,0.0,0.0
+749874-24-6,2-Ethynyl-4-fluorobenzaldehyde,C#Cc1cc(F)ccc1C=O,BD517774,100mg,127.4,InStock,1274.0,0.0,1.0,0.0,0.0
+1309565-97-6,5-Chloro-2-ethynylbenzaldehyde,C#Cc1ccc(Cl)cc1C=O,BD517775,100mg,313.3,InStock,3133.0,0.0,1.0,0.0,0.0
+160602-48-2,3-Amino-6-ethynylpicolinonitrile,C#Cc1ccc(N)c(C#N)n1,BD525206,100mg,227.5,InStock,2275.0,1.0,1.0,0.0,0.0
+7567-63-7,"1,3,5-Triethynylbenzene",C#Cc1cc(C#C)cc(C#C)c1,BD53641,250mg,20.15,InStock,80.6,0.0,3.0,0.0,0.0
+1785-61-1,"1,3-Diethynylbenzene",C#Cc1cccc(C#C)c1,BD54053,250mg,22.1,InStock,88.4,0.0,2.0,0.0,0.0
+935-14-8,p-Diethynylbenzene,C#Cc1ccc(C#C)cc1,BD54647,250mg,26.65,InStock,106.6,0.0,2.0,0.0,0.0
+53963-03-4,"1,5-Decadiyne",C#CCCC#CCCCC,BD54858,100mg,124.15,InStock,1241.5,0.0,1.0,0.0,0.0
+871-84-1,"Octa-1,7-diyne",C#CCCCCC#C,BD55136,1g,93.6,InStock,93.6,0.0,2.0,0.0,0.0
+1349199-60-5,3-Ethynyl-1-tosylazetidin-3-ol,C#CC1(O)CN(S(=O)(=O)c2ccc(C)cc2)C1,BD556217,100mg,520.0,InStock,5200.0,0.0,1.0,0.0,0.0
+2774-84-7,Undec-10-yn-1-ol,C#CCCCCCCCCCO,BD55754,250mg,54.6,InStock,218.4,0.0,1.0,0.0,0.0
+18202-10-3,Dodec-11-yn-1-ol,C#CCCCCCCCCCCO,BD55820,250mg,13.0,InStock,52.0,0.0,1.0,0.0,0.0
+1268810-09-8,tert-Butyl (1-ethynylcyclopropyl)carbamate,C#CC1(NC(=O)OC(C)(C)C)CC1,BD560621,100mg,106.6,InStock,1066.0,0.0,1.0,0.0,0.0
+1310456-99-5,3-Ethynylbenzenesulfonamide,C#Cc1cccc(S(N)(=O)=O)c1,BD561886,100mg,135.85,InStock,1358.5,1.0,1.0,0.0,0.0
+101597-25-5,"1,1-Bis(4-methoxyphenyl)prop-2-yn-1-ol",C#CC(O)(c1ccc(OC)cc1)c1ccc(OC)cc1,BD566221,250mg,42.25,InStock,169.0,0.0,1.0,0.0,0.0
+766-46-1,2'-Bromophenylacetylene,C#Cc1ccccc1Br,BD5677,1g,58.5,InStock,58.5,0.0,1.0,0.0,0.0
+766-81-4,3-Bromophenylacetylene,C#Cc1cccc(Br)c1,BD5678,1g,22.1,InStock,22.1,0.0,1.0,0.0,0.0
+766-96-1,1-Bromo-4-ethynylbenzene,C#Cc1ccc(Br)cc1,BD5679,250mg,11.05,InStock,44.2,0.0,1.0,0.0,0.0
+873-31-4,1-Chloro-2-ethynylbenzene,C#Cc1ccccc1Cl,BD5699,1g,43.55,InStock,43.55,0.0,1.0,0.0,0.0
+766-83-6,3-Chlorophenyl acetylene,C#Cc1cccc(Cl)c1,BD5700,1g,18.2,InStock,18.2,0.0,1.0,0.0,0.0
+766-98-3,1-Ethynyl-4-fluorobenzene,C#Cc1ccc(F)cc1,BD5722,1g,18.2,InStock,18.2,0.0,1.0,0.0,0.0
+766-49-4,1-Ethynyl-2-fluorobenzene,C#Cc1ccccc1F,BD5723,1g,28.6,InStock,28.6,0.0,1.0,0.0,0.0
+2561-17-3,3-Fluorophenylacetylene,C#Cc1cccc(F)c1,BD5724,1g,12.35,InStock,12.35,0.0,1.0,0.0,0.0
+937-31-5,1-Ethynyl-4-nitrobenzene,C#Cc1ccc([N+](=O)[O-])cc1,BD5785,250mg,15.6,InStock,62.4,0.0,1.0,0.0,0.0
+764-93-2,1-Decyne,C#CCCCCCCCC,BD58113,5g,141.05,InStock,28.21,0.0,1.0,0.0,0.0
+79887-16-4,1-Eth-1-ynyl-4-(pentyloxy)benzene,C#Cc1ccc(OCCCCC)cc1,BD58160,1g,39.0,InStock,39.0,0.0,1.0,0.0,0.0
+39604-97-2,1-Ethynyl-4-propoxybenzene,C#Cc1ccc(OCCC)cc1,BD58163,1g,105.95,InStock,105.95,0.0,1.0,0.0,0.0
+127896-08-6,(9H-Fluoren-9-yl)methyl prop-2-yn-1-ylcarbamate,C#CCNC(=O)OCC1c2ccccc2-c2ccccc21,BD582083,250mg,56.55,InStock,226.2,0.0,1.0,0.0,0.0
+205877-26-5,"4-Ethynyl-N,N-diphenylaniline",C#Cc1ccc(N(c2ccccc2)c2ccccc2)cc1,BD582484,250mg,61.1,InStock,244.4,0.0,1.0,0.0,0.0
+769-26-6,"2-Ethynyl-1,3,5-trimethylbenzene",C#Cc1c(C)cc(C)cc1C,BD58331,100mg,133.25,InStock,1332.5,0.0,1.0,0.0,0.0
+16433-96-8,1-Ethynyl-2-nitrobenzene,C#Cc1ccccc1[N+](=O)[O-],BD58335,100mg,20.8,InStock,208.0,0.0,1.0,0.0,0.0
+171290-52-1,"3,5-Dimethoxyphenylacetylene",C#Cc1cc(OC)cc(OC)c1,BD58336,100mg,10.4,InStock,104.0,0.0,1.0,0.0,0.0
+931-49-7,1-Ethynylcyclohexene,C#CC1=CCCCC1,BD58343,1g,31.85,InStock,31.85,0.0,1.0,0.0,0.0
+1094679-27-2,4-Ethynylpyridin-2-amine,C#Cc1ccnc(N)c1,BD585951,100mg,205.4,InStock,2054.0,1.0,1.0,0.0,0.0
+1192472-59-5,tert-Butyl (5-ethynylpyridin-3-yl)carbamate,C#Cc1cncc(NC(=O)OC(C)(C)C)c1,BD586144,100mg,202.15,InStock,2021.5,0.0,1.0,0.0,0.0
+1196145-21-7,3-Ethynyl-2-methoxypyridine,C#Cc1cccnc1OC,BD586155,100mg,281.45,InStock,2814.5,0.0,1.0,0.0,0.0
+1196145-93-3,tert-Butyl (4-ethynylpyridin-2-yl)carbamate,C#Cc1ccnc(NC(=O)OC(C)(C)C)c1,BD586156,100mg,83.85,InStock,838.5,0.0,1.0,0.0,0.0
+1239605-12-9,3-Ethynylpyridin-4-amine,C#Cc1cnccc1N,BD586353,100mg,238.55,InStock,2385.5,1.0,1.0,0.0,0.0
+7383-19-9,Hept-1-yn-3-ol,C#CC(O)CCCC,BD58697,1g,57.85,InStock,57.85,0.0,1.0,0.0,0.0
+105-31-7,Hex-1-yn-3-ol,C#CC(O)CCC,BD58729,1g,59.8,InStock,59.8,0.0,1.0,0.0,0.0
+45813-02-3,1-Methyl-4-prop-2-ynyl-piperazine,C#CCN1CCN(C)CC1,BD59527,100mg,144.95,InStock,1449.5,0.0,1.0,0.0,0.0
+629-89-0,1-Octadecyne,C#CCCCCCCCCCCCCCCCC,BD59949,250mg,111.8,InStock,447.2,0.0,1.0,0.0,0.0
+61514-53-2,"4-Ethynyl-1,3-dimethyl-1H-pyrazole",C#Cc1cn(C)nc1C,BD599590,100mg,283.4,InStock,2834.0,0.0,1.0,0.0,0.0
+818-72-4,Oct-1-yn-3-ol,C#CC(O)CCCCC,BD59973,5g,42.25,InStock,8.45,0.0,1.0,0.0,0.0
+4187-86-4,1-Pentyn-3-ol,C#CC(O)CC,BD60051,1g,19.5,InStock,19.5,0.0,1.0,0.0,0.0
+4187-87-5,1-Phenyl-2-propyn-1-ol,C#CC(O)c1ccccc1,BD60150,1g,14.3,InStock,14.3,0.0,1.0,0.0,0.0
+4378-23-8,1-Phenylbut-3-yn-2-ol,C#CC(O)Cc1ccccc1,BD60211,100mg,271.05,InStock,2710.5,0.0,1.0,0.0,0.0
+52070-67-4,1-(Prop-2-yn-1-yl)piperazine,C#CCN1CCNCC1,BD60313,100mg,149.5,InStock,1495.0,0.0,1.0,0.0,0.0
+765-10-6,1-Tetradecyne,C#CCCCCCCCCCCCC,BD60506,1g,89.7,InStock,89.7,0.0,1.0,0.0,0.0
+40365-61-5,2-(But-3-yn-1-yloxy)tetrahydro-2H-pyran,C#CCCOC1CCCCO1,BD61712,1g,54.6,InStock,54.6,0.0,1.0,0.0,0.0
+14235-81-5,4-Ethynylaniline,C#Cc1ccc(N)cc1,BD6179,250mg,15.6,InStock,62.4,1.0,1.0,0.0,0.0
+100330-50-5,Methyl 3-oxohept-6-ynoate,C#CCCC(=O)CC(=O)OC,BD627879,250mg,88.4,InStock,353.6,0.0,1.0,0.0,0.0
+1450754-40-1,1-Hydroxyhept-6-yn-3-one,C#CCCC(=O)CCO,BD627880,100mg,228.15,InStock,2281.5,0.0,1.0,0.0,0.0
+1450754-41-2,2-(3-But-3-ynyl-3H-diazirin-3-yl)-ethanol,C#CCCC1(CCO)N=N1,BD627884,50mg,705.25,InStock,14105.0,0.0,1.0,0.0,0.0
+1450754-38-7,3-(But-3-yn-1-yl)-3-(2-iodoethyl)-3H-diazirine,C#CCCC1(CCI)N=N1,BD627886,50mg,384.8,InStock,7696.0,0.0,1.0,0.0,0.0
+69022-70-4,3-(Prop-2-yn-1-yloxy)pyridine,C#CCOc1cccnc1,BD628013,250mg,59.8,InStock,239.2,0.0,1.0,0.0,0.0
+1196155-24-4,5-Ethynyl-2-(trifluoromethyl)pyridine,C#Cc1ccc(C(F)(F)F)nc1,BD628147,100mg,193.7,InStock,1937.0,0.0,1.0,0.0,0.0
+3623-15-2,1-Phenylprop-2-yn-1-one,C#CC(=O)c1ccccc1,BD628666,100mg,109.85,InStock,1098.5,0.0,1.0,0.0,0.0
+252771-08-7,5-Ethynyl-2-hydroxybenzaldehyde,C#Cc1ccc(O)c(C=O)c1,BD628775,100mg,224.25,InStock,2242.5,0.0,1.0,0.0,0.0
+1372103-91-7,2-Ethynyl-3-fluoro-5-methylpyridine,C#Cc1ncc(C)cc1F,BD636478,100mg,328.25,InStock,3282.5,0.0,1.0,0.0,0.0
+1372103-93-9,2-Ethynyl-5-fluoro-3-methylpyridine,C#Cc1ncc(F)cc1C,BD636479,100mg,520.65,InStock,5206.5,0.0,1.0,0.0,0.0
+1374115-62-4,2-Ethynyl-5-methoxypyrazine,C#Cc1cnc(OC)cn1,BD636480,100mg,537.55,InStock,5375.5,0.0,1.0,0.0,0.0
+668970-91-0,"4-Ethynyl-3,5-dimethylisoxazole",C#Cc1c(C)noc1C,BD659288,100mg,289.25,InStock,2892.5,0.0,1.0,0.0,0.0
+87462-63-3,Hept-6-yn-1-yl 4-methylbenzenesulfonate,C#CCCCCCOS(=O)(=O)c1ccc(C)cc1,BD671368,250mg,137.15,InStock,548.6,0.0,1.0,0.0,0.0
+116511-28-5,"Prop-2-yn-1-yl 1-methyl-1,2,5,6-tetrahydropyridine-3-carboxylate hydrobromide",Br.C#CCOC(=O)C1=CCCN(C)C1,BD680686,100mg,850.2,InStock,8502.0,0.0,1.0,0.0,0.0
+90347-86-7,4-Ethynylbenzamide,C#Cc1ccc(C(N)=O)cc1,BD694783,50mg,512.85,InStock,10257.0,1.0,1.0,0.0,0.0
+307537-95-7,S-4-Ethynylbenzyl ethanethioate,C#Cc1ccc(CSC(C)=O)cc1,BD717461,100mg,258.7,InStock,2587.0,0.0,1.0,0.0,0.0
+704-41-6,1-Ethynyl-2-(trifluoromethyl)benzene,C#Cc1ccccc1C(F)(F)F,BD7195,250mg,35.1,InStock,140.4,0.0,1.0,0.0,0.0
+705-31-7,4-(Trifluoromethyl)phenylacetylene,C#Cc1ccc(C(F)(F)F)cc1,BD7196,250mg,23.4,InStock,93.6,0.0,1.0,0.0,0.0
+38846-64-9,2-Ethynylbenzaldehyde,C#Cc1ccccc1C=O,BD7327,250mg,20.15,InStock,80.6,0.0,1.0,0.0,0.0
+77123-56-9,3-Ethynylbenzaldehyde,C#Cc1cccc(C=O)c1,BD7328,100mg,52.65,InStock,526.5,0.0,1.0,0.0,0.0
+63697-96-1,4-Ethynylbenzaldehyde,C#Cc1ccc(C=O)cc1,BD7329,250mg,15.6,InStock,62.4,0.0,1.0,0.0,0.0
+124045-51-8,tert-Butyl methyl(prop-2-yn-1-yl)carbamate,C#CCN(C)C(=O)OC(C)(C)C,BD735054,250mg,162.5,InStock,650.0,0.0,1.0,0.0,0.0
+52670-38-9,2-Ethynylaniline,C#Cc1ccccc1N,BD74749,1g,74.1,InStock,74.1,1.0,1.0,0.0,0.0
+33578-00-6,2-Ethynylbenzoic acid,C#Cc1ccccc1C(=O)O,BD74751,250mg,48.1,InStock,192.4,0.0,1.0,0.0,0.0
+1945-84-2,2-Ethynylpyridine,C#Cc1ccccn1,BD74754,1g,26.0,InStock,26.0,0.0,1.0,0.0,0.0
+4298-52-6,2-Ethynylthiophene,C#Cc1cccs1,BD74755,1g,39.65,InStock,39.65,0.0,1.0,0.0,0.0
+10602-07-0,(3-Ethynylphenyl)methanol,C#Cc1cccc(CO)c1,BD748596,100mg,426.4,InStock,4264.0,0.0,1.0,0.0,0.0
+667932-40-3,5-Ethynylpyridin-3-amine,C#Cc1cncc(N)c1,BD748597,100mg,315.9,InStock,3159.0,1.0,1.0,0.0,0.0
+865363-93-5,"(2R,3S,5R)-5-(6-Amino-2-fluoro-9H-purin-9-yl)-2-ethynyl-2-(hydroxymethyl)tetrahydrofuran-3-ol",C#C[C@]1(CO)O[C@@H](n2cnc3c(N)nc(F)nc32)C[C@@H]1O,BD748956,25mg,648.7,InStock,25948.0,1.0,1.0,0.0,0.0
+1347760-82-0,3-(2-(2-(Prop-2-yn-1-yloxy)ethoxy)ethoxy)propanoic acid,C#CCOCCOCCOCCC(=O)O,BD748993,100mg,213.2,InStock,2132.0,0.0,1.0,0.0,0.0
+766-97-2,1-Ethynyl-4-methylbenzene,C#Cc1ccc(C)cc1,BD7501,1g,18.2,InStock,18.2,0.0,1.0,0.0,0.0
+1211515-78-4,2-Ethynyl-4-nitropyridine,C#Cc1cc([N+](=O)[O-])ccn1,BD751877,100mg,130.0,InStock,1300.0,0.0,1.0,0.0,0.0
+1934630-23-5,tert-Butyl (6-ethynylpyridin-2-yl)carbamate,C#Cc1cccc(NC(=O)OC(C)(C)C)n1,BD754163,100mg,250.25,InStock,2502.5,0.0,1.0,0.0,0.0
+615288-66-9,"(2R,3S,5R)-2-((Bis(4-methoxyphenyl)(phenyl)methoxy)methyl)-5-(5-ethynyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)tetrahydrofuran-3-yl (2-cyanoethyl) diisopropylphosphoramidite",C#Cc1cn([C@H]2C[C@H](OP(OCCC#N)N(C(C)C)C(C)C)[C@@H](COC(c3ccccc3)(c3ccc(OC)cc3)c3ccc(OC)cc3)O2)c(=O)[nH]c1=O,BD755835,100mg,154.7,InStock,1547.0,0.0,1.0,0.0,0.0
+1393330-40-9,"2,5-Dioxopyrrolidin-1-yl 4,7,10,13,16-pentaoxanonadec-18-yn-1-oate",C#CCOCCOCCOCCOCCOCCC(=O)ON1C(=O)CCC1=O,BD758923,50mg,626.6,InStock,12532.0,0.0,1.0,0.0,0.0
+1415800-32-6,"4,7,10,13-Tetraoxahexadec-15-yn-1-oic acid",C#CCOCCOCCOCCOCCC(=O)O,BD758925,100mg,54.6,InStock,546.0,0.0,1.0,0.0,0.0
+2007925-22-4,3-Ethynyl-5-nitro-1H-indole,C#Cc1c[nH]c2ccc([N+](=O)[O-])cc12,BD759625,250mg,133.9,InStock,535.6,0.0,1.0,0.0,0.0
+87450-10-0,"3,6,9,12-Tetraoxapentadec-14-yn-1-ol",C#CCOCCOCCOCCOCCO,BD760045,250mg,53.95,InStock,215.8,0.0,1.0,0.0,0.0
+159428-42-9,"4,7,10,13,16-Pentaoxanonadeca-1,18-diyne",C#CCOCCOCCOCCOCCOCC#C,BD760118,250mg,211.9,InStock,847.6,0.0,2.0,0.0,0.0
+1245823-50-0,"tert-Butyl 4,7,10,13,16-pentaoxanonadec-18-yn-1-oate",C#CCOCCOCCOCCOCCOCCC(=O)OC(C)(C)C,BD760134,250mg,226.2,InStock,904.8,0.0,1.0,0.0,0.0
+1245823-51-1,"4,7,10,13,16-Pentaoxanonadec-18-yn-1-oic acid",C#CCOCCOCCOCCOCCOCCC(=O)O,BD760135,250mg,79.95,InStock,319.8,0.0,1.0,0.0,0.0
+126422-57-9,3-(2-(2-(Prop-2-yn-1-yloxy)ethoxy)ethoxy)prop-1-yne,C#CCOCCOCCOCC#C,BD760139,100mg,17.55,InStock,175.5,0.0,2.0,0.0,0.0
+1428629-71-3,"2,5-Dioxopyrrolidin-1-yl 3-(2-(2-(prop-2-yn-1-yloxy)ethoxy)ethoxy)propanoate",C#CCOCCOCCOCCC(=O)ON1C(=O)CCC1=O,BD760153,100mg,103.35,InStock,1033.5,0.0,1.0,0.0,0.0
+768-60-5,4-Ethynylanisole,C#Cc1ccc(OC)cc1,BD7608,1g,13.65,InStock,13.65,0.0,1.0,0.0,0.0
+767-91-9,2'-Methoxyphenyl acetylene,C#Cc1ccccc1OC,BD7609,250mg,13.65,InStock,54.6,0.0,1.0,0.0,0.0
+13894-21-8,Ethynyl p-Tolyl Sulfone,C#CS(=O)(=O)c1ccc(C)cc1,BD7617,250mg,72.15,InStock,288.6,0.0,1.0,0.0,0.0
+4282-77-3,9-(Prop-2-yn-1-yl)-9H-carbazole,C#CCn1c2ccccc2c2ccccc21,BD763129,250mg,72.15,InStock,288.6,0.0,1.0,0.0,0.0
+15727-65-8,1-Ethynylnaphthalene,C#Cc1cccc2ccccc12,BD763512,100mg,9.75,InStock,97.5,0.0,1.0,0.0,0.0
+1001288-58-9,(E)-2-(3-(3-Methoxy-4-(prop-2-yn-1-yloxy)phenyl)acrylamido)benzoic acid,C#CCOc1ccc(/C=C/C(=O)Nc2ccccc2C(=O)O)cc1OC,BD764719,5mg,994.5,InStock,198900.0,0.0,1.0,0.0,0.0
+1538579-23-5,"2,5-Bis(prop-2-yn-1-yloxy)terephthalaldehyde",C#CCOc1cc(C=O)c(OCC#C)cc1C=O,BD765088,100mg,108.55,InStock,1085.5,0.0,2.0,0.0,0.0
+854262-01-4,Propargyl ALPHA-D-mannopyranoside,C#CCO[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]1O,BD766363,25mg,453.05,InStock,18122.0,0.0,1.0,0.0,0.0
+906564-59-8,"2,5-Dioxopyrrolidin-1-yl hex-5-ynoate",C#CCCCC(=O)ON1C(=O)CCC1=O,BD766850,250mg,196.95,InStock,787.8,0.0,1.0,0.0,0.0
+27943-46-0,2-((2-Methylbut-3-yn-2-yl)oxy)tetrahydro-2H-pyran,C#CC(C)(C)OC1CCCCO1,BD76842,250mg,18.85,InStock,75.4,0.0,1.0,0.0,0.0
+1357281-69-6,4-Ethynyl-3-methylbenzoic acid,C#Cc1ccc(C(=O)O)cc1C,BD768583,100mg,110.5,InStock,1105.0,0.0,1.0,0.0,0.0
+2168559-67-7,2-Chloro-4-ethynylbenzoic acid,C#Cc1ccc(C(=O)O)c(Cl)c1,BD768610,100mg,140.4,InStock,1404.0,0.0,1.0,0.0,0.0
+1859379-85-3,3-(2-(Prop-2-yn-1-yloxy)ethoxy)propanoic acid,C#CCOCCOCCC(=O)O,BD768644,100mg,38.35,InStock,383.5,0.0,1.0,0.0,0.0
+71866-86-9,"4,4''-Diethynyl-5'-(4-ethynylphenyl)-1,1':3',1''-terphenyl",C#Cc1ccc(-c2cc(-c3ccc(C#C)cc3)cc(-c3ccc(C#C)cc3)c2)cc1,BD768662,100mg,35.1,InStock,351.0,0.0,3.0,0.0,0.0
+1379277-37-8,2-Ethynyl-4-fluoropyridine,C#Cc1cc(F)ccn1,BD00714247,100mg,426.4,InStock,4264.0,0.0,1.0,0.0,0.0
+1260829-25-1,2-Chloro-1-ethynyl-4-nitrobenzene,C#Cc1ccc([N+](=O)[O-])cc1Cl,BD00732592,100mg,88.4,InStock,884.0,0.0,1.0,0.0,0.0
+1060816-39-8,4-Ethynyl-2-methoxypyridine,C#Cc1ccnc(OC)c1,BD00740490,100mg,354.25,InStock,3542.5,0.0,1.0,0.0,0.0
+2288710-39-2,6-(2-(Methylsulfonyl)pyrimidin-5-yl)-N-(prop-2-yn-1-yl)hex-5-ynamide,C#CCNC(=O)CCCC#Cc1cnc(S(C)(=O)=O)nc1,BD00745932,100mg,133.25,InStock,1332.5,0.0,1.0,0.0,0.0
+43001-25-8,4-Iodo-1-butyne,C#CCCI,BD00748460,100mg,248.3,InStock,2483.0,0.0,1.0,0.0,0.0
+1010422-58-8,5-Ethynyl-2-fluoroaniline,C#Cc1ccc(F)c(N)c1,BD00752562,100mg,140.4,InStock,1404.0,1.0,1.0,0.0,0.0
+22128-43-4,4-Methyl-1-octyn-4-ol,C#CCC(C)(O)CCCC,BD00760709,250mg,74.75,InStock,299.0,0.0,1.0,0.0,0.0
+10602-08-1,(2-Ethynylphenyl)methanol,C#Cc1ccccc1CO,BD00763192,100mg,136.5,InStock,1365.0,0.0,1.0,0.0,0.0
+1401685-43-5,2-Ethynyl-3-fluoropyridine,C#Cc1ncccc1F,BD00764736,100mg,81.25,InStock,812.5,0.0,1.0,0.0,0.0
+1451262-84-2,tert-Butyl oct-7-yn-1-ylcarbamate,C#CCCCCCCNC(=O)OC(C)(C)C,BD00766697,100mg,403.0,InStock,4030.0,0.0,1.0,0.0,0.0
+1196152-08-5,4-Ethynylpyridin-2(1H)-one,C#Cc1cc[nH]c(=O)c1,BD00767008,50mg,336.7,InStock,6734.0,0.0,1.0,0.0,0.0
+301185-41-1,tert-Butyl 4-(prop-2-yn-1-yl)piperidine-1-carboxylate,C#CCC1CCN(C(=O)OC(C)(C)C)CC1,BD00767295,100mg,228.15,InStock,2281.5,0.0,1.0,0.0,0.0
+177991-01-4,Tetrakis(4-ethynylphenyl)methane,C#Cc1ccc(C(c2ccc(C#C)cc2)(c2ccc(C#C)cc2)c2ccc(C#C)cc2)cc1,BD00767306,100mg,505.05,InStock,5050.5,0.0,4.0,0.0,0.0
+1196156-05-4,5-Ethynylpyridin-2(1H)-one,C#Cc1ccc(=O)[nH]c1,BD00768765,100mg,219.7,InStock,2197.0,0.0,1.0,0.0,0.0
+1310384-76-9,"2-Ethynyl-6-methyl-1,3,6,2-dioxazaborocane-4,8-dione",C#CB1OC(=O)CN(C)CC(=O)O1,BD00775755,100mg,142.35,InStock,1423.5,0.0,1.0,0.0,0.0
+208827-90-1,Triethylene Glycol Mono(2-propynyl) Ether,C#CCOCCOCCOCCO,BD00779756,100mg,41.6,InStock,416.0,0.0,1.0,0.0,0.0
+30413-53-7,3-Ethynyl-5-methylpyridine,C#Cc1cncc(C)c1,BD00780285,100mg,185.25,InStock,1852.5,0.0,1.0,0.0,0.0
+869349-15-5,(R)-1-Methyl-prop-2-ynylamine hydrochloride,C#C[C@@H](C)N.Cl,BD00781241,100mg,705.9,InStock,7059.0,1.0,1.0,0.0,0.0
+10297-09-3,Oct-7-ynoic acid,C#CCCCCCC(=O)O,BD00784158,100mg,152.1,InStock,1521.0,0.0,1.0,0.0,0.0
+1080496-42-9,4-Propargyloxy-L-phenylalanine,C#CCOc1ccc(C[C@H](N)C(=O)O)cc1,BD00784779,100mg,377.0,InStock,3770.0,1.0,1.0,0.0,0.0
+185986-76-9,tert-Butyl pent-4-ynoate,C#CCCC(=O)OC(C)(C)C,BD00785163,100mg,97.5,InStock,975.0,0.0,1.0,0.0,0.0
+34596-36-6,"1,4-Bis(2-propynyloxy)benzene",C#CCOc1ccc(OCC#C)cc1,BD00787425,250mg,133.9,InStock,535.6,0.0,2.0,0.0,0.0
+1609651-90-2,"3-(2,5-Dioxo-2,5-dihydro-1H-pyrrol-1-yl)-N-(3,6,9,12-tetraoxapentadec-14-yn-1-yl)propanamide",C#CCOCCOCCOCCOCCNC(=O)CCN1C(=O)C=CC1=O,BD00787636,100mg,209.95,InStock,2099.5,0.0,1.0,0.0,0.0
+101248-36-6,Ethyl 4-(prop-2-ynylamino)benzoate,C#CCNc1ccc(C(=O)OCC)cc1,BD00787722,250mg,76.7,InStock,306.8,0.0,1.0,0.0,0.0
+1549050-50-1,4-Ethynylcyclohexanone,C#CC1CCC(=O)CC1,BD00792670,100mg,524.55,InStock,5245.5,0.0,1.0,0.0,0.0
+18542-45-5,1-(2-Propynyloxy)naphthalene,C#CCOc1cccc2ccccc12,BD00793326,100mg,108.55,InStock,1085.5,0.0,1.0,0.0,0.0
+1240785-42-5,"1,2-Bis(4-ethynylphenyl)-1,2-diphenylethene",C#Cc1ccc(C(=C(c2ccccc2)c2ccc(C#C)cc2)c2ccccc2)cc1,BD00795187,250mg,229.45,InStock,917.8,0.0,2.0,0.0,0.0
+1333880-60-6,tert-Butyl (2-(2-(2-(prop-2-yn-1-yloxy)ethoxy)ethoxy)ethyl)carbamate,C#CCOCCOCCOCCNC(=O)OC(C)(C)C,BD00796726,100mg,44.85,InStock,448.5,0.0,1.0,0.0,0.0
+26627-36-1,"1,3-Bis(2-propynyloxy)benzene",C#CCOc1cccc(OCC#C)c1,BD00797469,100mg,70.2,InStock,702.0,0.0,2.0,0.0,0.0
+209395-32-4,"1-(Prop-2-yn-1-yl)-1H-pyrrole-2,5-dione",C#CCN1C(=O)C=CC1=O,BD00798755,100mg,152.1,InStock,1521.0,0.0,1.0,0.0,0.0
+137000-66-9,"1,4-Diethynyl-2-fluorobenzene",C#Cc1ccc(C#C)c(F)c1,BD00800997,250mg,366.6,InStock,1466.4,0.0,2.0,0.0,0.0
+1013921-36-2,"3,6,9,12-Tetraoxapentadec-14-yn-1-amine",C#CCOCCOCCOCCOCCN,BD00802699,100mg,82.55,InStock,825.5,1.0,1.0,0.0,0.0
+2140866-79-9,5-(4-(4-(Prop-2-yn-1-yloxy)benzoyl)phenoxy)pentanoic acid,C#CCOc1ccc(C(=O)c2ccc(OCCCCC(=O)O)cc2)cc1,BD00803879,100mg,213.85,InStock,2138.5,0.0,1.0,0.0,0.0
+2682-32-8,N-Methylprop-2-ynamide,C#CC(=O)NC,BD00804252,1g,2057.25,InStock,2057.25,0.0,1.0,0.0,0.0
+634926-63-9,tert-Butyl (2-(prop-2-yn-1-yloxy)ethyl)carbamate,C#CCOCCNC(=O)OC(C)(C)C,BD00804405,250mg,118.95,InStock,475.8,0.0,1.0,0.0,0.0
+2227272-78-6,5-Ethynyl-3-phenylpyrazin-2-amine,C#Cc1cnc(N)c(-c2ccccc2)n1,BD00805425,100mg,615.55,InStock,6155.5,1.0,1.0,0.0,0.0
+1262681-31-1,ACetylene-PEG4-biotin conjugate,C#CCOCCOCCOCCOCCNC(=O)CCCCC1SCC2NC(=O)NC21,BD00808704,50mg,714.35,InStock,14287.0,0.0,1.0,0.0,0.0
+123523-58-0,N-(Prop-2-yn-1-yl)acrylamide,C#CCNC(=O)C=C,BD00810402,100mg,341.25,InStock,3412.5,0.0,1.0,0.0,0.0
+1807537-27-4,O-(2-(2-(2-(Prop-2-yn-1-yloxy)ethoxy)ethoxy)ethyl)hydroxylamine,C#CCOCCOCCOCCON,BD00810668,100mg,239.2,InStock,2392.0,1.0,1.0,0.0,0.0
+1450754-37-6,3-(3-(But-3-yn-1-yl)-3H-diazirin-3-yl)propanoic acid,C#CCCC1(CCC(=O)O)N=N1,BD00810865,10mg,819.0,InStock,81900.0,0.0,1.0,0.0,0.0
+1036204-60-0,"3,6,9,12,15-Pentaoxaoctadec-17-yn-1-ol",C#CCOCCOCCOCCOCCOCCO,BD00811053,100mg,62.4,InStock,624.0,0.0,1.0,0.0,0.0
+1211588-35-0,6-Ethynylnicotinonitrile,C#Cc1ccc(C#N)cn1,BD00811217,100mg,330.2,InStock,3302.0,0.0,1.0,0.0,0.0
+944560-99-0,"3,6,9,12,15,18-Hexaoxahenicos-20-yn-1-ol",C#CCOCCOCCOCCOCCOCCOCCO,BD00811831,250mg,141.7,InStock,566.8,0.0,1.0,0.0,0.0
+122116-12-5,2-(2-Propynyloxy)ethylamine,C#CCOCCN,BD00812536,100mg,55.9,InStock,559.0,1.0,1.0,0.0,0.0
+98021-61-5,2-(Prop-2-ynyloxy)acetic acid,C#CCOCC(=O)O,BD00812909,250mg,390.0,InStock,1560.0,0.0,1.0,0.0,0.0
+63093-41-4,Ethyl pent-4-ynoate,C#CCCC(=O)OCC,BD00813427,250mg,18.2,InStock,72.8,0.0,1.0,0.0,0.0
+96184-86-0,"8-Ethynyl-1,4-dioxaspiro[4.5]decane",C#CC1CCC2(CC1)OCCO2,BD00817244,250mg,135.85,InStock,543.4,0.0,1.0,0.0,0.0
+92866-00-7,1-Ethynyl-4-(phenylethynyl)benzene,C#Cc1ccc(C#Cc2ccccc2)cc1,BD00826013,100mg,76.05,InStock,760.5,0.0,1.0,0.0,0.0
+944561-45-9,2-(2-(Prop-2-yn-1-yloxy)ethoxy)acetic acid,C#CCOCCOCC(=O)O,BD00828295,100mg,369.85,InStock,3698.5,0.0,1.0,0.0,0.0
+185378-83-0,"4,7,10,13,16,19-Hexaoxadocosa-1,21-diyne",C#CCOCCOCCOCCOCCOCCOCC#C,BD00828454,100mg,213.2,InStock,2132.0,0.0,2.0,0.0,0.0
+1211533-87-7,5-Ethynylpyridine-3-carboxylic acid,C#Cc1cncc(C(=O)O)c1,BD00829416,250mg,96.2,InStock,384.8,0.0,1.0,0.0,0.0
+15252-44-5,Pent-4-yn-1-amine,C#CCCCN,BD00829513,100mg,198.25,InStock,1982.5,1.0,1.0,0.0,0.0
+3463-33-0,1-(2-Chlorophenyl)prop-2-yn-1-one,C#CC(=O)c1ccccc1Cl,BD00836698,100mg,284.7,InStock,2847.0,0.0,1.0,0.0,0.0
+2055014-96-3,Propargyl-Peg8-t-Butyl ester,C#CCOCCOCCOCCOCCOCCOCCOCCOCCC(=O)OC(C)(C)C,BD00839602,100mg,654.55,InStock,6545.5,0.0,1.0,0.0,0.0
+1807503-80-5,tert-Butyl 3-(2-(prop-2-yn-1-yloxy)ethoxy)propanoate,C#CCOCCOCCC(=O)OC(C)(C)C,BD00842782,100mg,92.3,InStock,923.0,0.0,1.0,0.0,0.0
+1589522-46-2,"3,6,9,12,15-Pentaoxaoctadec-17-yn-1-amine",C#CCOCCOCCOCCOCCOCCN,BD00843117,100mg,61.75,InStock,617.5,1.0,1.0,0.0,0.0
+1835759-78-8,"O-(3,6,9,12-Tetraoxapentadec-14-yn-1-yl)hydroxylamine",C#CCOCCOCCOCCOCCON,BD00843554,100mg,98.15,InStock,981.5,1.0,1.0,0.0,0.0
+1308299-09-3,"1-Bromo-3,6,9,12-tetraoxapentadec-14-yne",C#CCOCCOCCOCCOCCBr,BD00844250,100mg,117.0,InStock,1170.0,0.0,1.0,0.0,0.0
+2093152-77-1,"2,5-Dioxopyrrolidin-1-yl 4,7,10,13,16,19,22-heptaoxapentacos-24-yn-1-oate",C#CCOCCOCCOCCOCCOCCOCCOCCC(=O)ON1C(=O)CCC1=O,BD00844502,100mg,374.4,InStock,3744.0,0.0,1.0,0.0,0.0
+1951438-84-8,Propargyl-peg6-acid,C#CCOCCOCCOCCOCCOCCOCCC(=O)O,BD00846742,100mg,334.75,InStock,3347.5,0.0,1.0,0.0,0.0
+869310-84-9,tert-Butyl (2-(2-(prop-2-yn-1-yloxy)ethoxy)ethyl)carbamate,C#CCOCCOCCNC(=O)OC(C)(C)C,BD00847455,100mg,53.3,InStock,533.0,0.0,1.0,0.0,0.0
+1005500-75-3,"N-Ethynyl-N,4-dimethylbenzenesulfonamide",C#CN(C)S(=O)(=O)c1ccc(C)cc1,BD00851125,250mg,62.4,InStock,249.6,0.0,1.0,0.0,0.0
+3973-17-9,1-(Prop-2-yn-1-yloxy)propan-2-ol,C#CCOCC(C)O,BD00857091,25g,21.45,InStock,0.86,0.0,1.0,0.0,0.0
+2112737-90-1,"tert-Butyl 3,6,9,12,15,18,21-heptaoxatetracos-23-yn-1-ylcarbamate",C#CCOCCOCCOCCOCCOCCOCCOCCNC(=O)OC(C)(C)C,BD00857509,100mg,95.55,InStock,955.5,0.0,1.0,0.0,0.0
+932741-19-0,Propargyl-PeG3-amine,C#CCOCCOCCOCCN=[N+]=[N-],BD00860954,100mg,135.85,InStock,1358.5,0.0,1.0,1.0,0.0
+944561-46-0,2-(2-(2-(Prop-2-yn-1-yloxy)ethoxy)ethoxy)acetic acid,C#CCOCCOCCOCC(=O)O,BD00862916,100mg,152.1,InStock,1521.0,0.0,1.0,0.0,0.0
+2102410-05-7,Methyl 3-ethynylcyclopentane-1-carboxylate,C#CC1CCC(C(=O)OC)C1,BD00864730,50mg,998.4,InStock,19968.0,0.0,1.0,0.0,0.0
+157022-35-0,1-Phenylprop-2-yn-1-amine hydrochloride,C#CC(N)c1ccccc1.Cl,BD00866321,100mg,444.6,InStock,4446.0,1.0,1.0,0.0,0.0
+2182601-74-5,"2,5-Dioxopyrrolidin-1-yl 4,7,10,13,16,19,22,25-octaoxaoctacos-27-yn-1-oate",C#CCOCCOCCOCCOCCOCCOCCOCCOCCC(=O)ON1C(=O)CCC1=O,BD00866825,100mg,168.35,InStock,1683.5,0.0,1.0,0.0,0.0
+164118-56-3,3-(2-Iodoethoxy)prop-1-yne,C#CCOCCI,BD00877033,250mg,96.85,InStock,387.4,0.0,1.0,0.0,0.0
+1423705-50-3,Methyl 1-ethynylcyclopropane-1-carboxylate,C#CC1(C(=O)OC)CC1,BD00891743,100mg,520.65,InStock,5206.5,0.0,1.0,0.0,0.0
+351002-91-0,1-(Bromomethyl)-4-ethynylbenzene,C#Cc1ccc(CBr)cc1,BD00918174,100mg,347.75,InStock,3477.5,0.0,1.0,0.0,0.0
+10601-98-6,1-(Chloromethyl)-4-ethynylbenzene,C#Cc1ccc(CCl)cc1,BD00918412,100mg,222.3,InStock,2223.0,0.0,1.0,0.0,0.0
+1059705-07-5,5-Ethynyl-2-methoxypyrimidine,C#Cc1cnc(OC)nc1,BD00921122,50mg,275.6,InStock,5512.0,0.0,1.0,0.0,0.0
+950984-75-5,(Prop-2-yn-1-yl)bis[(pyridin-2-yl)methyl]amine,C#CCN(Cc1ccccn1)Cc1ccccn1,BD00924607,100mg,367.9,InStock,3679.0,0.0,1.0,0.0,0.0
+16156-58-4,Propargyl methanesulfonate ester,C#CCOS(C)(=O)=O,BD00925558,1g,31.2,InStock,31.2,0.0,1.0,0.0,0.0
+1410810-55-7,(3-Ethynylcyclopentyl)methanol,C#CC1CCC(CO)C1,BD00933949,100mg,421.85,InStock,4218.5,0.0,1.0,0.0,0.0
+89635-82-5,"2,5,8,11-Tetraoxatetradec-13-yne",C#CCOCCOCCOCCOC,BD00940399,250mg,130.0,InStock,520.0,0.0,1.0,0.0,0.0
+1340156-26-4,4-Ethynyl-1-propyl-1H-pyrazole,C#Cc1cnn(CCC)c1,BD00946981,100mg,446.55,InStock,4465.5,0.0,1.0,0.0,0.0
+1287660-82-5,3-(2-(2-Bromoethoxy)ethoxy)prop-1-yne,C#CCOCCOCCBr,BD00948002,100mg,71.5,InStock,715.0,0.0,1.0,0.0,0.0
+41006-87-5,"N,N-Dimethylpent-4-yn-1-amine",C#CCCCN(C)C,BD00948561,100mg,646.75,InStock,6467.5,0.0,1.0,0.0,0.0
+874459-94-6,[3-(2-Propyn-1-ylcarbamoyl)phenyl]boronic acid,C#CCNC(=O)c1cccc(B(O)O)c1,BD00952264,100mg,142.35,InStock,1423.5,0.0,1.0,0.0,0.0
+31995-08-1,3-(2-Methoxyethoxy)prop-1-yne,C#CCOCCOC,BD00953737,100mg,195.0,InStock,1950.0,0.0,1.0,0.0,0.0
+41876-72-6,4-(4-Ethynylphenyl)morpholine,C#Cc1ccc(N2CCOCC2)cc1,BD00954387,25mg,576.55,InStock,23062.0,0.0,1.0,0.0,0.0
+73448-14-3,tert-Butyl hex-5-ynoate,C#CCCCC(=O)OC(C)(C)C,BD00955556,100mg,111.15,InStock,1111.5,0.0,1.0,0.0,0.0
+40842-04-4,"1,2-Bis(2-propynyloxy)ethane",C#CCOCCOCC#C,BD00968801,250mg,52.65,InStock,210.6,0.0,2.0,0.0,0.0
+1383604-96-3,2-(Prop-2-yn-1-yloxy)ethan-1-amine hydrochloride,C#CCOCCN.Cl,BD00978701,100mg,164.45,InStock,1644.5,1.0,1.0,0.0,0.0
+86101-48-6,"2,2-Dimethylpent-4-ynoic acid",C#CCC(C)(C)C(=O)O,BD00985546,100mg,618.8,InStock,6188.0,0.0,1.0,0.0,0.0
+51176-48-8,[4-(Prop-2-yn-1-yl)phenyl]methanol,C#CCc1ccc(CO)cc1,BD00994583,50mg,471.25,InStock,9425.0,0.0,1.0,0.0,0.0
+936644-39-2,But-3-yne-1-sulfonyl chloride,C#CCCS(=O)(=O)Cl,BD01003223,100mg,264.55,InStock,2645.5,0.0,1.0,0.0,0.0
+756895-72-4,1-Chloro-4-ethynyl-2-fluoro-benzene,C#Cc1ccc(Cl)c(F)c1,BD01003356,100mg,315.9,InStock,3159.0,0.0,1.0,0.0,0.0
+14256-74-7,1-(But-3-yn-1-yl)piperidine,C#CCCN1CCCCC1,BD01007585,250mg,299.65,InStock,1198.6,0.0,1.0,0.0,0.0
+81294-10-2,2-Ethynyl-5-methylthiophene,C#Cc1ccc(C)s1,BD01012957,100mg,272.35,InStock,2723.5,0.0,1.0,0.0,0.0
+573982-84-0,1-Ethynyl-3-methanesulfonylbenzene,C#Cc1cccc(S(C)(=O)=O)c1,BD01013385,50mg,89.7,InStock,1794.0,0.0,1.0,0.0,0.0
+21792-52-9,"1,2-Diethynylbenzene",C#Cc1ccccc1C#C,BD01016156,100mg,250.9,InStock,2509.0,0.0,2.0,0.0,0.0
+1567114-39-9,1-(Difluoromethyl)-4-ethynylbenzene,C#Cc1ccc(C(F)F)cc1,BD01016223,100mg,861.25,InStock,8612.5,0.0,1.0,0.0,0.0
+55183-45-4,Hex-5-ynoyl chloride,C#CCCCC(=O)Cl,BD01024829,100mg,329.55,InStock,3295.5,0.0,1.0,0.0,0.0
+67448-64-0,Pent-4-yne-1-sulfonyl chloride,C#CCCCS(=O)(=O)Cl,BD01027137,100mg,746.2,InStock,7462.0,0.0,1.0,0.0,0.0
+1057670-09-3,"5-Ethynyl-2,3-dimethylthiophene",C#Cc1cc(C)c(C)s1,BD01027651,100mg,475.8,InStock,4758.0,0.0,1.0,0.0,0.0
+1219827-56-1,tert-Butyl 4-(prop-2-yn-1-yloxy)piperidine-1-carboxylate,C#CCOC1CCN(C(=O)OC(C)(C)C)CC1,BD01032839,100mg,303.55,InStock,3035.5,0.0,1.0,0.0,0.0
+1187368-95-1,Prop-2-yn-1-ylhydrazine hydrochloride,C#CCNN.Cl,BD01046051,100mg,390.0,InStock,3900.0,1.0,1.0,0.0,0.0
+1019586-19-6,3-Ethynyl-N-(thiophen-2-ylmethyl)aniline,C#Cc1cccc(NCc2cccs2)c1,BD01058363,100mg,257.4,InStock,2574.0,0.0,1.0,0.0,0.0
+1221722-25-3,2-Amino-N-(prop-2-yn-1-yl)acetamide hydrochloride,C#CCNC(=O)CN.Cl,BD01061797,100mg,83.85,InStock,838.5,1.0,1.0,0.0,0.0
+1030262-99-7,"N-((2R,3R,4S,5R)-3,4,5,6-Tetrahydroxy-1-oxohexan-2-yl)pent-4-ynamide",C#CCCC(=O)N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO,BD01069450,50mg,357.5,InStock,7150.0,0.0,1.0,0.0,0.0
+1057670-00-4,2-Ethyl-5-ethynylthiophene,C#Cc1ccc(CC)s1,BD01069498,100mg,573.95,InStock,5739.5,0.0,1.0,0.0,0.0
+1332585-62-2,"2-(3,4-Dihydroxyphenyl)-N-(prop-2-yn-1-yl)acetamide",C#CCNC(=O)Cc1ccc(O)c(O)c1,BD01073202,100mg,154.05,InStock,1540.5,0.0,1.0,0.0,0.0
+111600-89-6,4-Ethynylthiazole,C#Cc1cscn1,BD01077624,100mg,348.4,InStock,3484.0,0.0,1.0,0.0,0.0
+911398-04-4,1-(But-3-yn-1-yl)piperazine,C#CCCN1CCNCC1,BD01078891,250mg,252.2,InStock,1008.8,0.0,1.0,0.0,0.0
+81216-13-9,8-Bromooct-1-yne,C#CCCCCCCBr,BD01080081,100mg,148.85,InStock,1488.5,0.0,1.0,0.0,0.0
+127798-29-2,"3-Ethynyl-2,5-dimethylthiophene",C#Cc1cc(C)sc1C,BD01080956,100mg,390.0,InStock,3900.0,0.0,1.0,0.0,0.0
+18512-55-5,"9,10-Diethynylanthracene",C#Cc1c2ccccc2c(C#C)c2ccccc12,BD01083552,100mg,265.85,InStock,2658.5,0.0,2.0,0.0,0.0
+77778-20-2,3-Ethynyl-6-methyl-pyridazine,C#Cc1ccc(C)nn1,BD01084482,25mg,534.95,InStock,21398.0,0.0,1.0,0.0,0.0
+2193065-31-3,1-(3-Fluorophenyl)but-3-yn-2-amine hydrochloride,C#CC(N)Cc1cccc(F)c1.Cl,BD01088129,50mg,339.3,InStock,6786.0,1.0,1.0,0.0,0.0
+103596-31-2,N-(1-(4-Fluorophenyl)propan-2-yl)-N-methylprop-2-yn-1-amine hydrochloride,C#CCN(C)C(C)Cc1ccc(F)cc1.Cl,BD01090921,25mg,1302.6,InStock,52104.0,0.0,1.0,0.0,0.0
+160240-15-3,"5,10,15,20-Tetrakis(4-ethynylphenyl)-21H,23H-porphine",C#Cc1ccc(-c2c3nc(c(-c4ccc(C#C)cc4)c4ccc([nH]4)c(-c4ccc(C#C)cc4)c4nc(c(-c5ccc(C#C)cc5)c5ccc2[nH]5)C=C4)C=C3)cc1,BD01091442,100mg,375.7,InStock,3757.0,0.0,4.0,0.0,0.0
+905926-85-4,(2-Ethynylphenyl)boronic acid,C#Cc1ccccc1B(O)O,BD01094129,100mg,73.45,InStock,734.5,0.0,1.0,0.0,0.0
+128834-29-7,"1,4-Dibutoxy-2,5-diethynylbenzene",C#Cc1cc(OCCCC)c(C#C)cc1OCCCC,BD01095577,100mg,171.6,InStock,1716.0,0.0,2.0,0.0,0.0
+74029-40-6,"1,4-Diethynyl-2,5-dimethoxybenzene",C#Cc1cc(OC)c(C#C)cc1OC,BD01096773,100mg,108.55,InStock,1085.5,0.0,2.0,0.0,0.0
+65211-56-5,2-(Prop-2-yn-1-yloxy)benzonitrile,C#CCOc1ccccc1C#N,BD01099502,100mg,206.7,InStock,2067.0,0.0,1.0,0.0,0.0
+917222-23-2,"2,5-Dioxopyrrolidin-1-yl hept-6-ynoate",C#CCCCCC(=O)ON1C(=O)CCC1=O,BD01103379,100mg,86.45,InStock,864.5,0.0,1.0,0.0,0.0
+70603-31-5,"1,2,4,5-Tetraethynylbenzene",C#Cc1cc(C#C)c(C#C)cc1C#C,BD01104047,250mg,387.4,InStock,1549.6,0.0,4.0,0.0,0.0
+153033-27-3,"1,4-Diethynyl-2,5-bis(octyloxy)benzene",C#Cc1cc(OCCCCCCCC)c(C#C)cc1OCCCCCCCC,BD01105323,100mg,176.15,InStock,1761.5,0.0,2.0,0.0,0.0
+108545-38-6,Ethyl hex-5-ynoate,C#CCCCC(=O)OCC,BD01105427,100mg,357.5,InStock,3575.0,0.0,1.0,0.0,0.0
+2227450-68-0,"5-((3aS,4S,6aR)-2-Oxohexahydro-1H-thieno[3,4-d]imidazol-4-yl)-N-(2-(2-(prop-2-yn-1-yloxy)ethoxy)ethyl)pentanamide",C#CCOCCOCCNC(=O)CCCC[C@@H]1SC[C@@H]2NC(=O)N[C@H]12,BD01110933,100mg,679.25,InStock,6792.5,0.0,1.0,0.0,0.0
+1097874-78-6,"1-Ethynyl-2,4,5-trifluorobenzene",C#Cc1cc(F)c(F)cc1F,BD01111388,100mg,241.8,InStock,2418.0,0.0,1.0,0.0,0.0
+4863-90-5,"1,1,2,2-Tetrakis(4-ethynylphenyl)ethene",C#Cc1ccc(C(=C(c2ccc(C#C)cc2)c2ccc(C#C)cc2)c2ccc(C#C)cc2)cc1,BD01113907,100mg,271.7,InStock,2717.0,0.0,4.0,0.0,0.0
+1895922-69-6,O-(2-(Prop-2-yn-1-yloxy)ethyl)hydroxylamine,C#CCOCCON,BD01115574,100mg,118.95,InStock,1189.5,1.0,1.0,0.0,0.0
+1185100-09-7,4-(Prop-2-yn-1-yloxy)piperidine hydrochloride,C#CCOC1CCNCC1.Cl,BD01115707,100mg,397.15,InStock,3971.5,0.0,1.0,0.0,0.0
+1824338-70-6,5-Cyclopropyl-2-ethynylpyridine,C#Cc1ccc(C2CC2)cn1,BD01126880,50mg,512.85,InStock,10257.0,0.0,1.0,0.0,0.0
+2383018-88-8,"2,7-Diethynyl-4,4,9,9-tetrahexyl-4,9-dihydro-s-indaceno[1,2-b:5,6-b']dithiophene",C#Cc1cc2c(s1)-c1cc3c(cc1C2(CCCCCC)CCCCCC)-c1sc(C#C)cc1C3(CCCCCC)CCCCCC,BD01132148,100mg,616.2,InStock,6162.0,0.0,2.0,0.0,0.0
+81216-14-0,7-Bromohept-1-yne,C#CCCCCCBr,BD01133196,250mg,216.45,InStock,865.8,0.0,1.0,0.0,0.0
+1421701-68-9,"5-((3AS,4S,6aR)-2-oxohexahydro-1H-thieno[3,4-d]imidazol-4-yl)-N-(2-(2-(2-(prop-2-yn-1-yloxy)ethoxy)ethoxy)ethyl)pentanamide",C#CCOCCOCCOCCNC(=O)CCCC[C@@H]1SC[C@@H]2NC(=O)N[C@H]12,BD01136798,100mg,679.25,InStock,6792.5,0.0,1.0,0.0,0.0
+1208395-99-6,(4-Hydroxyphenyl)(4-(prop-2-yn-1-yloxy)phenyl)methanone,C#CCOc1ccc(C(=O)c2ccc(O)cc2)cc1,BD01137171,100mg,195.0,InStock,1950.0,0.0,1.0,0.0,0.0
+61362-77-4,tert-Butyldimethyl(pent-4-yn-1-yloxy)silane,C#CCCCO[Si](C)(C)C(C)(C)C,BD01138183,250mg,151.45,InStock,605.8,0.0,1.0,0.0,0.0
+640297-84-3,"3,8-Diethynyl-1,10-phenanthroline",C#Cc1cnc2c(ccc3cc(C#C)cnc32)c1,BD01139405,100mg,505.7,InStock,5057.0,0.0,2.0,0.0,0.0
+2154356-63-3,"2-(2,6-Dioxopiperidin-3-yl)-5-ethynylisoindoline-1,3-dione",C#Cc1ccc2c(c1)C(=O)N(C1CCC(=O)NC1=O)C2=O,BD01142924,100mg,341.25,InStock,3412.5,0.0,1.0,0.0,0.0
+1225493-18-4,"(2-(4-Ethynylphenyl)ethene-1,1,2-triyl)tribenzene",C#Cc1ccc(C(=C(c2ccccc2)c2ccccc2)c2ccccc2)cc1,BD01143277,100mg,161.85,InStock,1618.5,0.0,1.0,0.0,0.0
+1141727-54-9,"2,5-Diethynylbenzene-1,4-diamine",C#Cc1cc(N)c(C#C)cc1N,BD01145011,100mg,203.45,InStock,2034.5,2.0,2.0,0.0,0.0
+145916-41-2,2-(Prop-2-yn-1-yloxy)ethyl 4-methylbenzenesulfonate,C#CCOCCOS(=O)(=O)c1ccc(C)cc1,BD01145047,250mg,107.25,InStock,429.0,0.0,1.0,0.0,0.0
+2049109-24-0,2-(3-(But-3-yn-1-yl)-3H-diazirin-3-yl)acetic acid,C#CCCC1(CC(=O)O)N=N1,BD01145981,25mg,1550.9,InStock,62036.0,0.0,1.0,0.0,0.0
+137000-75-0,"2,5-Diethynylpyridine",C#Cc1ccc(C#C)nc1,BD01148410,100mg,267.15,InStock,2671.5,0.0,2.0,0.0,0.0
+359017-78-0,(4-Ethynylphenyl)diphenylphosphane,C#Cc1ccc(P(c2ccccc2)c2ccccc2)cc1,BD01151607,100mg,434.85,InStock,4348.5,0.0,1.0,0.0,0.0
+144970-32-1,"1,3,5,7-Tetrakis(4-ethynylphenyl)adamantane",C#Cc1ccc(C23CC4(c5ccc(C#C)cc5)CC(c5ccc(C#C)cc5)(C2)CC(c2ccc(C#C)cc2)(C3)C4)cc1,BD01151797,100mg,776.1,InStock,7761.0,0.0,4.0,0.0,0.0
+870259-02-2,"1,3,6,8-Tetraethynylpyrene",C#Cc1cc(C#C)c2ccc3c(C#C)cc(C#C)c4ccc1c2c43,BD01153090,100mg,423.15,InStock,4231.5,0.0,4.0,0.0,0.0
+53799-94-3,1-Methoxy-3-(prop-2-yn-1-yl)benzene,C#CCc1cccc(OC)c1,BD01153990,50mg,644.8,InStock,12896.0,0.0,1.0,0.0,0.0
+152270-00-3,"1,4-Bis(dodecyloxy)-2,5-diethynylbenzene",C#Cc1cc(OCCCCCCCCCCCC)c(C#C)cc1OCCCCCCCCCCCC,BD01154602,100mg,117.0,InStock,1170.0,0.0,2.0,0.0,0.0
+1159531-18-6,(S)-2-((((9H-Fluoren-9-yl)methoxy)carbonyl)amino)-6-(pent-4-ynamido)hexanoic acid,C#CCCC(=O)NCCCC[C@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O,BD01157627,100mg,198.9,InStock,1989.0,0.0,1.0,0.0,0.0
+2322322-23-4,"N-(4-(6-Methyl-1,2,4,5-tetrazin-3-yl)benzyl)-4,7,10,13,16-pentaoxanonadec-18-ynamide",C#CCOCCOCCOCCOCCOCCC(=O)NCc1ccc(-c2nnc(C)nn2)cc1,BD01161361,25mg,833.3,InStock,33332.0,0.0,1.0,0.0,0.0
+452340-33-9,1-Bromo-7-(prop-2-yn-1-yloxy)heptane,C#CCOCCCCCCCBr,BD01164270,100mg,1067.3,InStock,10673.0,0.0,1.0,0.0,0.0
+875770-32-4,"3,6,9,12-Tetraoxapentadec-14-yn-1-yl 4-methylbenzenesulfonate",C#CCOCCOCCOCCOCCOS(=O)(=O)c1ccc(C)cc1,BD01167240,100mg,118.3,InStock,1183.0,0.0,1.0,0.0,0.0
+1119249-30-7,2-(2-(Prop-2-yn-1-yloxy)ethoxy)ethyl 4-methylbenzenesulfonate,C#CCOCCOCCOS(=O)(=O)c1ccc(C)cc1,BD01169231,100mg,169.0,InStock,1690.0,0.0,1.0,0.0,0.0
+1392407-74-7,(3-(Pent-4-ynamido)phenyl)boronic acid,C#CCCC(=O)Nc1cccc(B(O)O)c1,BD01169312,100mg,272.35,InStock,2723.5,0.0,1.0,0.0,0.0
+189619-31-6,"3,3',5,5'-Tetraethynyl-1,1'-biphenyl",C#Cc1cc(C#C)cc(-c2cc(C#C)cc(C#C)c2)c1,BD01185210,100mg,414.7,InStock,4147.0,0.0,4.0,0.0,0.0
+1393524-11-2,(R)-Benzyl but-3-yn-2-ylcarbamate,C#C[C@@H](C)NC(=O)OCc1ccccc1,BD01188473,100mg,1070.55,InStock,10705.5,0.0,1.0,0.0,0.0
+1393576-61-8,Benzyl but-3-yn-2-ylcarbamate,C#CC(C)NC(=O)OCc1ccccc1,BD01192761,100mg,517.4,InStock,5174.0,0.0,1.0,0.0,0.0
+2682114-57-2,"6-Ethynylpyridin-2(1H)-one 2,2,2-trifluoroacetate",C#Cc1cccc(=O)[nH]1.O=C(O)C(F)(F)F,BD01230151,100mg,106.6,InStock,1066.0,0.0,1.0,0.0,0.0
+624-65-7,3-Chloroprop-1-yne,C#CCCl,BD01235885,25g,19.5,InStock,0.78,0.0,1.0,0.0,0.0
+14502-43-3,Oct-7-yn-1-amine,C#CCCCCCCN,BD01250632,100mg,484.9,InStock,4849.0,1.0,1.0,0.0,0.0
+136612-71-0,"2-Ethynyl-1,3,5-trimethoxybenzene",C#Cc1c(OC)cc(OC)cc1OC,BD01268909,100mg,1010.75,InStock,10107.5,0.0,1.0,0.0,0.0
+2436544-27-1,3-((4-(4-Acryloylpiperazin-1-yl)-6-chloro-8-fluoro-7-(2-fluoro-6-hydroxyphenyl)quinazolin-2-yl)amino)-N-methyl-N-(prop-2-yn-1-yl)propanamide,C#CCN(C)C(=O)CCNc1nc(N2CCN(C(=O)C=C)CC2)c2cc(Cl)c(-c3c(O)cccc3F)c(F)c2n1,BD01280530,100mg,9425.0,InStock,94250.0,0.0,1.0,0.0,0.0
+2109226-54-0,3-Methyl-3-(methylsulfonyl)but-1-yne,C#CC(C)(C)S(C)(=O)=O,BD01281855,100mg,317.2,InStock,3172.0,0.0,1.0,0.0,0.0
+133810-44-3,"4,4'-Diethynyl-2,2'-bipyridine",C#Cc1ccnc(-c2cc(C#C)ccn2)c1,BD01282095,100mg,136.5,InStock,1365.0,0.0,2.0,0.0,0.0
+1196153-50-0,5-Ethynyl-2-methylpyrimidine,C#Cc1cnc(C)nc1,BD01287793,100mg,333.45,InStock,3334.5,0.0,1.0,0.0,0.0
+1675790-91-6,N-Ethynyl-N-methylmethanesulfonamide,C#CN(C)S(C)(=O)=O,BD01292027,250mg,167.05,InStock,668.2,0.0,1.0,0.0,0.0
+1236196-77-2,4-(4-(Prop-2-yn-1-yloxy)benzoyl)benzoic acid,C#CCOc1ccc(C(=O)c2ccc(C(=O)O)cc2)cc1,BD01303764,100mg,510.25,InStock,5102.5,0.0,1.0,0.0,0.0
+1260663-61-3,4-(Prop-2-yn-1-yl)benzonitrile,C#CCc1ccc(C#N)cc1,BD01316431,50mg,421.2,InStock,8424.0,0.0,1.0,0.0,0.0
+627-41-8,3-Methoxyprop-1-yne,C#CCOC,BD01316762,1g,57.85,InStock,57.85,0.0,1.0,0.0,0.0
+1858242-47-3,"2,5-Dioxopyrrolidin-1-yl 2-(prop-2-yn-1-yloxy)acetate",C#CCOCC(=O)ON1C(=O)CCC1=O,BD01335975,100mg,146.25,InStock,1462.5,0.0,1.0,0.0,0.0
+86520-99-2,"2-Ethynyl-4,6-dimethylpyrimidine",C#Cc1nc(C)cc(C)n1,BD01337673,100mg,339.95,InStock,3399.5,0.0,1.0,0.0,0.0
+920-38-7,Sodium propiolate,C#CC(=O)[O-].[Na+],BD01354045,100mg,271.7,InStock,2717.0,0.0,1.0,0.0,0.0
+2589697-32-3,"3-(1-Oxo-4-(prop-2-yn-1-ylamino)isoindolin-2-yl)piperidine-2,6-dione",C#CCNc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O,BD01357158,100mg,218.4,InStock,2184.0,0.0,1.0,0.0,0.0
+2357110-24-6,"2-(2,6-Dioxopiperidin-3-yl)-5-(prop-2-yn-1-ylamino)isoindoline-1,3-dione",C#CCNc1ccc2c(c1)C(=O)N(C1CCC(=O)NC1=O)C2=O,BD01359318,100mg,280.8,InStock,2808.0,0.0,1.0,0.0,0.0
+2154342-25-1,"2-(2,6-Dioxopiperidin-3-yl)-4-(prop-2-yn-1-ylamino)isoindoline-1,3-dione",C#CCNc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,BD01365418,100mg,221.65,InStock,2216.5,0.0,1.0,0.0,0.0
+121318-21-6,2-(But-3-yn-1-yloxy)acetic acid,C#CCCOCC(=O)O,BD01372854,100mg,648.7,InStock,6487.0,0.0,1.0,0.0,0.0
+127-66-2,2-Phenylbut-3-yn-2-ol,C#CC(C)(O)c1ccccc1,BD01375501,1g,22.75,InStock,22.75,0.0,1.0,0.0,0.0
+2803419-94-3,(R)-2-Amino-2-methylpent-4-ynoic acid hydrochloride,C#CC[C@@](C)(N)C(=O)O.Cl,BD01380228,100mg,283.4,InStock,2834.0,1.0,1.0,0.0,0.0
+2131007-03-7,4-Amino-5-ethynyl-2-fluorobenzonitrile,C#Cc1cc(C#N)c(F)cc1N,BD01380253,100mg,583.05,InStock,5830.5,1.0,1.0,0.0,0.0
+203642-77-7,"2,2,3,3-Tetramethyl-4,7,10,13,16-pentaoxa-3-silanonadec-18-yne",C#CCOCCOCCOCCOCCO[Si](C)(C)C(C)(C)C,BD01380876,100mg,81.25,InStock,812.5,0.0,1.0,0.0,0.0
+1416990-26-5,"3-(4-Ethynyl-1-oxoisoindolin-2-yl)piperidine-2,6-dione",C#Cc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O,BD01390643,50mg,620.75,InStock,12415.0,0.0,1.0,0.0,0.0
+2703752-14-9,4-Methylhex-1-yn-3-amine hydrochloride,C#CC(N)C(C)CC.Cl,BD01390964,25mg,636.35,InStock,25454.0,1.0,1.0,0.0,0.0
+2125661-54-1,"Tri-tert-butyl 2,2',2''-(10-(2-(but-3-yn-1-ylamino)-2-oxoethyl)-1,4,7,10-tetraazacyclododecane-1,4,7-triyl)triacetate",C#CCCNC(=O)CN1CCN(CC(=O)OC(C)(C)C)CCN(CC(=O)OC(C)(C)C)CCN(CC(=O)OC(C)(C)C)CC1,BD01395490,50mg,565.5,InStock,11310.0,0.0,1.0,0.0,0.0
+7218-43-1,2-[2-(2-Propynyloxy)ethoxy]ethanol,C#CCOCCOCCO,BD01396535,100mg,20.15,InStock,201.5,0.0,1.0,0.0,0.0
+65223-79-2,6-Amino-5-ethynylpyrimidin-2(1H)-one,C#Cc1cnc(=O)[nH]c1N,BD01396542,50mg,320.45,InStock,6409.0,1.0,1.0,0.0,0.0
+50428-03-0,2-Aminopent-4-ynoic acid,C#CCC(N)C(=O)O,BD01397609,250mg,43.55,InStock,174.2,1.0,1.0,0.0,0.0
+85974-75-0,"Propane-1,3-diyl dipropiolate",C#CC(=O)OCCCOC(=O)C#C,BD01397916,100mg,230.75,InStock,2307.5,0.0,2.0,0.0,0.0
+1192373-48-0,tert-Butyl hept-6-yn-1-ylcarbamate,C#CCCCCCNC(=O)OC(C)(C)C,BD01399540,100mg,148.85,InStock,1488.5,0.0,1.0,0.0,0.0
+2689-88-5,"Diethyl 2,2-di(prop-2-yn-1-yl)malonate",C#CCC(CC#C)(C(=O)OCC)C(=O)OCC,BD01402621,100mg,121.55,InStock,1215.5,0.0,2.0,0.0,0.0
+2512228-06-5,"2,5-Dioxopyrrolidin-1-yl 3-(2-(prop-2-yn-1-yloxy)ethoxy)propanoate",C#CCOCCOCCC(=O)ON1C(=O)CCC1=O,BD01407277,100mg,140.4,InStock,1404.0,0.0,1.0,0.0,0.0
+146185-77-5,mPEG-Alkyne,C#CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC,BD01409221,250mg,125.45,InStock,501.8,0.0,1.0,0.0,0.0
+168413-01-2,"1-(Prop-2-yn-1-yl)pyrimidine-2,4(1H,3H)-dione",C#CCn1ccc(=O)[nH]c1=O,BD01409934,100mg,352.3,InStock,3523.0,0.0,1.0,0.0,0.0
+2154356-73-5,"4-(But-3-yn-1-ylamino)-2-(2,6-dioxopiperidin-3-yl)isoindoline-1,3-dione",C#CCCNc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,BD01410497,250mg,462.8,InStock,1851.2,0.0,1.0,0.0,0.0
+74987-93-2,"Hexane-1,6-diyl dipropiolate",C#CC(=O)OCCCCCCOC(=O)C#C,BD01415430,100mg,215.8,InStock,2158.0,0.0,2.0,0.0,0.0
+2514947-01-2,"1-(3,6,9,12,15-Pentaoxaoctadec-17-yn-1-yl)-1H-pyrrole-2,5-dione",C#CCOCCOCCOCCOCCOCCN1C(=O)C=CC1=O,BD01416630,100mg,434.85,InStock,4348.5,0.0,1.0,0.0,0.0
+1219810-90-8,"tert-Butyl 3,6,9,12-tetraoxapentadec-14-yn-1-ylcarbamate",C#CCOCCOCCOCCOCCNC(=O)OC(C)(C)C,BD01418141,100mg,148.2,InStock,1482.0,0.0,1.0,0.0,0.0
+432027-96-8,2-(Prop-2-yn-1-yl)pent-4-yn-1-ol,C#CCC(CO)CC#C,BD01418705,100mg,403.65,InStock,4036.5,0.0,2.0,0.0,0.0
+5240-36-8,1-Ethynyl-1-methoxycyclohexane,C#CC1(OC)CCCCC1,BD01422208,100mg,300.95,InStock,3009.5,0.0,1.0,0.0,0.0
+206862-65-9,tert-Butyl 4-(2-(prop-2-yn-1-yloxy)ethyl)piperazine-1-carboxylate,C#CCOCCN1CCN(C(=O)OC(C)(C)C)CC1,BD01422221,100mg,202.8,InStock,2028.0,0.0,1.0,0.0,0.0
+1788872-95-6,"4,4'-Diethynyl-2,2'-dimethyl-1,1'-biphenyl",C#Cc1ccc(-c2ccc(C#C)cc2C)c(C)c1,BD01424016,100mg,259.35,InStock,2593.5,0.0,2.0,0.0,0.0
+365134-29-8,2-(2-(2-(4-Ethynylphenoxy)ethoxy)ethoxy)ethan-1-ol,C#Cc1ccc(OCCOCCOCCO)cc1,BD01426386,100mg,362.7,InStock,3627.0,0.0,1.0,0.0,0.0
+2621928-55-8,"4-(4-(3,8-Diazabicyclo[3.2.1]octan-3-yl)-8-fluoro-2-(((2R,7aS)-2-fluorohexahydro-1H-pyrrolizin-7a-yl)methoxy)pyrido[4,3-d]pyrimidin-7-yl)-5-ethynyl-6-fluoronaphthalen-2-ol",C#Cc1c(F)ccc2cc(O)cc(-c3ncc4c(N5CC6CCC(C5)N6)nc(OC[C@@]56CCCN5C[C@H](F)C6)nc4c3F)c12,BD01427658,10mg,3264.3,InStock,326430.0,0.0,1.0,0.0,0.0
+16900-60-0,Dodec-11-ynoic acid,C#CCCCCCCCCCC(=O)O,BD01436444,100mg,1555.45,InStock,15554.5,0.0,1.0,0.0,0.0
+1219606-33-3,tert-Butyl 3-(prop-2-yn-1-yloxy)azetidine-1-carboxylate,C#CCOC1CN(C(=O)OC(C)(C)C)C1,BD01437400,100mg,125.45,InStock,1254.5,0.0,1.0,0.0,0.0
+1000852-25-4,N-(Prop-2-yn-1-yl)-4-(pyren-1-yl)butanamide,C#CCNC(=O)CCCc1ccc2ccc3cccc4ccc1c2c34,BD01441236,100mg,776.1,InStock,7761.0,0.0,1.0,0.0,0.0
+923-82-0,"N,N-Bis(2-chloroethyl)prop-2-yn-1-amine",C#CCN(CCCl)CCCl,BD01449300,50mg,607.1,InStock,12142.0,0.0,1.0,0.0,0.0
+2434850-33-4,"tert-Butyl 7-(prop-2-yn-1-yl)-2,7-diazaspiro[3.5]nonane-2-carboxylate",C#CCN1CCC2(CC1)CN(C(=O)OC(C)(C)C)C2,BD01452296,50mg,506.35,InStock,10127.0,0.0,1.0,0.0,0.0
+151361-87-4,"1-Ethynyl-3,5-difluorobenzene",C#Cc1cc(F)cc(F)c1,BD157864,100mg,18.2,InStock,182.0,0.0,1.0,0.0,0.0
+1005349-13-2,3-Ethynylpyrazin-2-amine,C#Cc1nccnc1N,BD158112,100mg,159.25,InStock,1592.5,1.0,1.0,0.0,0.0
+1209289-08-6,2-Amino-5-bromo-3-ethynylpyrazine,C#Cc1nc(Br)cnc1N,BD158118,250mg,143.0,InStock,572.0,1.0,1.0,0.0,0.0
+766-47-2,1-Ethynyl-2-methylbenzene,C#Cc1ccccc1C,BD158630,250mg,22.1,InStock,88.4,0.0,1.0,0.0,0.0
+89343-06-6,Ethynyltriisopropylsilane,C#C[Si](C(C)C)(C(C)C)C(C)C,BD158652,1g,15.6,InStock,15.6,0.0,1.0,0.0,0.0
+160542-02-9,1-Ethynyl-4-(trifluoromethoxy)benzene,C#Cc1ccc(OC(F)(F)F)cc1,BD158727,250mg,75.4,InStock,301.6,0.0,1.0,0.0,0.0
+86520-96-9,1-Ethynylisoquinoline,C#Cc1nccc2ccccc12,BD158831,100mg,328.9,InStock,3289.0,0.0,1.0,0.0,0.0
+1210838-82-6,5-Bromo-3-ethynylpyridin-2-ylamine,C#Cc1cc(Br)cnc1N,BD159138,100mg,193.7,InStock,1937.0,1.0,1.0,0.0,0.0
+37972-24-0,2-Ethynylpyrimidine,C#Cc1ncccn1,BD160291,250mg,146.9,InStock,587.6,0.0,1.0,0.0,0.0
+153286-94-3,5-Ethynylpyrimidine,C#Cc1cncnc1,BD160349,100mg,51.35,InStock,513.5,0.0,1.0,0.0,0.0
+477587-89-6,"4-Ethyl-4'-ethynyl-1,1'-biphenyl",C#Cc1ccc(-c2ccc(CC)cc2)cc1,BD160498,250mg,11.7,InStock,46.8,0.0,1.0,0.0,0.0
+360768-57-6,"4-Ethynyl-4'-propyl-1,1'-biphenyl",C#Cc1ccc(-c2ccc(CCC)cc2)cc1,BD160699,250mg,16.9,InStock,67.6,0.0,1.0,0.0,0.0
+14044-63-4,But-3-yn-1-amine,C#CCCN,BD161972,100mg,133.25,InStock,1332.5,1.0,1.0,0.0,0.0
+206768-21-0,5-Ethynylthiophene-2-carbaldehyde,C#Cc1ccc(C=O)s1,BD162041,100mg,120.25,InStock,1202.5,0.0,1.0,0.0,0.0
+32870-98-7,9-Ethynylphenanthrene,C#Cc1cc2ccccc2c2ccccc12,BD16205,250mg,37.7,InStock,150.8,0.0,1.0,0.0,0.0
+7223-42-9,1-(Prop-2-yn-1-yl)pyrrolidine,C#CCN1CCCC1,BD162205,250mg,84.5,InStock,338.0,0.0,1.0,0.0,0.0
+255864-58-5,tert-Butyl 2-ethynylpiperidine-1-carboxylate,C#CC1CCCCN1C(=O)OC(C)(C)C,BD162234,250mg,202.8,InStock,811.2,0.0,1.0,0.0,0.0
+664362-16-7,1-Boc-3-Ethynylpiperidine,C#CC1CCCN(C(=O)OC(C)(C)C)C1,BD162266,100mg,44.85,InStock,448.5,0.0,1.0,0.0,0.0
+959918-19-5,3-Ethynylpiperidine hydrochloride,C#CC1CCCNC1.Cl,BD162267,100mg,181.35,InStock,1813.5,0.0,1.0,0.0,0.0
+340771-31-5,1-Ethynyl-4-(methylsulfonyl)benzene,C#Cc1ccc(S(C)(=O)=O)cc1,BD163258,100mg,83.2,InStock,832.0,0.0,1.0,0.0,0.0
+1093307-29-9,5-Ethynyl-3-methyl-1H-indazole,C#Cc1ccc2[nH]nc(C)c2c1,BD163700,100mg,373.1,InStock,3731.0,0.0,1.0,0.0,0.0
+149990-27-2,tert-Butyl but-3-yn-1-ylcarbamate,C#CCCNC(=O)OC(C)(C)C,BD164130,250mg,50.7,InStock,202.8,0.0,1.0,0.0,0.0
+892869-21-5,Potassium ethynyltrifluoroborate,C#C[B-](F)(F)F.[K+],BD164830,100mg,66.95,InStock,669.5,0.0,1.0,0.0,0.0
+1012057-52-1,"N4-(3-Ethynylphenyl)-7-methoxyquinazoline-4,6-diamine",C#Cc1cccc(Nc2ncnc3cc(OC)c(N)cc23)c1,BD166844,100mg,240.5,InStock,2405.0,1.0,1.0,0.0,0.0
+62484-52-0,4-Ethynylquinoline,C#Cc1ccnc2ccccc12,BD166929,100mg,208.0,InStock,2080.0,0.0,1.0,0.0,0.0
+143874-13-9,"4-Ethynyl-1,2-difluorobenzene",C#Cc1ccc(F)c(F)c1,BD168598,100mg,64.35,InStock,643.5,0.0,1.0,0.0,0.0
+945717-09-9,2-Chloro-4-ethynylpyridine,C#Cc1ccnc(Cl)c1,BD170889,100mg,43.55,InStock,435.5,0.0,1.0,0.0,0.0
+3262-64-4,(R)-2-Amino-3-(prop-2-yn-1-ylthio)propanoic acid,C#CCSC[C@H](N)C(=O)O,BD174163,250mg,85.15,InStock,340.6,1.0,1.0,0.0,0.0
+198561-07-8,Fmoc-Pra-OH,C#CCC(NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O,BD19176,250mg,22.1,InStock,88.4,0.0,1.0,0.0,0.0
+23235-01-0,(S)-2-Aminopent-4-ynoic acid,C#CC[C@H](N)C(=O)O,BD19178,250mg,30.55,InStock,122.2,1.0,1.0,0.0,0.0
+220497-98-3,Fmoc-D-Pra-OH,C#CC[C@@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O,BD19439,250mg,23.4,InStock,93.6,0.0,1.0,0.0,0.0
+23950-58-5,"3,5-Dichloro-N-(1,1-dimethylpropynyl)benzamide",C#CC(C)(C)NC(=O)c1cc(Cl)cc(Cl)c1,BD19586,250mg,12.35,InStock,49.4,0.0,1.0,0.0,0.0
+1135283-08-7,5-Bromo-2-ethynylpyrimidine,C#Cc1ncc(Br)cn1,BD196330,100mg,726.05,InStock,7260.5,0.0,1.0,0.0,0.0
+70933-58-3,N-(3-Ethynylphenyl)acetamide,C#Cc1cccc(NC(C)=O)c1,BD200549,250mg,169.0,InStock,676.0,0.0,1.0,0.0,0.0
+1135283-10-1,1-Ethynyl-2-methoxy-4-nitrobenzene,C#Cc1ccc([N+](=O)[O-])cc1OC,BD200929,100mg,283.4,InStock,2834.0,0.0,1.0,0.0,0.0
+215589-37-0,2-Ethynyl-4-methylaniline,C#Cc1cc(C)ccc1N,BD206332,100mg,181.35,InStock,1813.5,1.0,1.0,0.0,0.0
+351002-90-9,4-Ethynylphenylacetonitrile,C#Cc1ccc(CC#N)cc1,BD208892,250mg,40.3,InStock,161.2,0.0,1.0,0.0,0.0
+53293-00-8,5-Hexynoic acid,C#CCCCC(=O)O,BD211591,250mg,18.85,InStock,75.4,0.0,1.0,0.0,0.0
+33577-99-0,Methyl 2-ethynylbenzoate,C#Cc1ccccc1C(=O)OC,BD215792,250mg,139.75,InStock,559.0,0.0,1.0,0.0,0.0
+343866-99-9,2-Ethynyl-1-fluoro-4-nitrobenzene,C#Cc1cc([N+](=O)[O-])ccc1F,BD216070,100mg,115.7,InStock,1157.0,0.0,1.0,0.0,0.0
+82454-61-3,5-Ethynylpyridin-2-amine,C#Cc1ccc(N)nc1,BD216123,100mg,170.95,InStock,1709.5,1.0,1.0,0.0,0.0
+445468-63-3,2-Bromo-6-ethynylpyridine,C#Cc1cccc(Br)n1,BD217362,100mg,140.4,InStock,1404.0,0.0,1.0,0.0,0.0
+81294-11-3,2-Ethynyl-3-methylthiophene,C#Cc1sccc1C,BD217857,100mg,272.35,InStock,2723.5,0.0,1.0,0.0,0.0
+30413-58-2,2-Ethynyl-6-methylpyridine,C#Cc1cccc(C)n1,BD217858,100mg,240.5,InStock,2405.0,0.0,1.0,0.0,0.0
+63039-46-3,(R)-2-((tert-Butoxycarbonyl)amino)pent-4-ynoic acid,C#CC[C@@H](NC(=O)OC(C)(C)C)C(=O)O,BD21896,250mg,26.65,InStock,106.6,0.0,1.0,0.0,0.0
+63039-48-5,(S)-2-((tert-Butoxycarbonyl)amino)pent-4-ynoic acid,C#CC[C@H](NC(=O)OC(C)(C)C)C(=O)O,BD21897,250mg,37.05,InStock,148.2,0.0,1.0,0.0,0.0
+316141-37-4,1-Boc-2-Ethynylpyrrolidine,C#CC1CCCN1C(=O)OC(C)(C)C,BD219648,100mg,152.1,InStock,1521.0,0.0,1.0,0.0,0.0
+5799-76-8,4-(Prop-2-yn-1-yl)morpholine,C#CCN1CCOCC1,BD222228,250mg,12.35,InStock,49.4,0.0,1.0,0.0,0.0
+1196153-33-9,5-Chloro-2-ethynylpyridine,C#Cc1ccc(Cl)cn1,BD222958,100mg,165.1,InStock,1651.0,0.0,1.0,0.0,0.0
+379670-42-5,2-Ethynyl-5-(trifluoromethyl)pyridine,C#Cc1ccc(C(F)(F)F)cn1,BD222959,100mg,387.4,InStock,3874.0,0.0,1.0,0.0,0.0
+263012-63-1,2-Chloro-5-ethynylpyridine,C#Cc1ccc(Cl)nc1,BD222961,100mg,217.1,InStock,2171.0,0.0,1.0,0.0,0.0
+1104637-53-7,"Boron, [N-[(carboxy-κO)methyl]-N-methylglycinato(2-)-κN,κO]ethynyl-, (T-4)-",C#CB1OC(=O)CN(C)CC(=O)O1,BD223127,100mg,435.5,InStock,4355.0,0.0,1.0,0.0,0.0
+67227-90-1,"3,5-Diethynylpyridine",C#Cc1cncc(C#C)c1,BD223409,250mg,191.75,InStock,767.0,0.0,2.0,0.0,0.0
+159492-85-0,tert-Butyl but-3-yn-1-yl(methyl)carbamate,C#CCCN(C)C(=O)OC(C)(C)C,BD01461352,100mg,645.45,InStock,6454.5,0.0,1.0,0.0,0.0
+1404212-13-0,"2-(2-Ethynylphenyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane",C#Cc1ccccc1B1OC(C)(C)C(C)(C)O1,BD01526496,100mg,99.45,InStock,994.5,0.0,1.0,0.0,0.0
+1314406-80-8,4-(Phenyldiazenyl)-N-(prop-2-yn-1-yl)benzamide,C#CCNC(=O)c1ccc(N=Nc2ccccc2)cc1,BD01537745,100mg,499.85,InStock,4998.5,0.0,1.0,0.0,0.0
+105339-02-4,Ethyl hept-6-ynoate,C#CCCCCC(=O)OCC,BD01557277,100mg,185.25,InStock,1852.5,0.0,1.0,0.0,0.0
+92710-95-7,"18-Ethynyl-2,3,5,6,8,9,11,12,14,15-decahydrobenzo[b][1,4,7,10,13,16]hexaoxacyclooctadecine",C#Cc1ccc2c(c1)OCCOCCOCCOCCOCCO2,BD01579514,100mg,544.7,InStock,5447.0,0.0,1.0,0.0,0.0
+2432830-88-9,3-(2-Bromoethyl)-3-(but-3-yn-1-yl)-3H-diazirine,C#CCCC1(CCBr)N=N1,BD01600126,25mg,1107.6,InStock,44304.0,0.0,1.0,0.0,0.0
+BD01624241,"3,4-Diamino-N-(but-3-yn-1-yl)benzamide",C#CCCNC(=O)c1ccc(N)c(N)c1,BD01624241,25mg,578.5,InStock,23140.0,2.0,1.0,0.0,0.0
+772-38-3,1-(tert-Butyl)-4-ethynylbenzene,C#Cc1ccc(C(C)(C)C)cc1,BD0816,1g,29.9,InStock,29.9,0.0,1.0,0.0,0.0
+14267-92-6,5-Chloro-1-pentyne,C#CCCCCl,BD103252,1g,18.2,InStock,18.2,0.0,1.0,0.0,0.0
+14918-21-9,5-Cyano-1-pentyne,C#CCCCC#N,BD103729,250mg,53.3,InStock,213.2,0.0,1.0,0.0,0.0
+71759-92-7,5-Ethynyl-1-methyl-1H-imidazole,C#Cc1cncn1C,BD103897,100mg,376.35,InStock,3763.5,0.0,1.0,0.0,0.0
+61135-33-9,5-Ethynyl-2'-dU,C#Cc1cn(C2CC(O)C(CO)O2)c(=O)[nH]c1=O,BD103898,100mg,227.5,InStock,2275.0,0.0,1.0,0.0,0.0
+57134-53-9,"5-Ethynylbenzo[d][1,3]dioxole",C#Cc1ccc2c(c1)OCO2,BD103899,100mg,508.95,InStock,5089.5,0.0,1.0,0.0,0.0
+928-90-5,5-Hexyn-1-ol,C#CCCCCO,BD104168,250mg,16.25,InStock,65.0,0.0,1.0,0.0,0.0
+6089-04-9,2-(Prop-2-yn-1-yloxy)tetrahydro-2H-pyran,C#CCOC1CCCCO1,BD105998,1g,13.0,InStock,13.0,0.0,1.0,0.0,0.0
+63478-76-2,6-Heptyn-1-ol,C#CCCCCCO,BD109263,1g,20.15,InStock,20.15,0.0,1.0,0.0,0.0
+54060-30-9,3-Ethynylaniline,C#Cc1cccc(N)c1,BD11069,5g,24.05,InStock,4.81,1.0,1.0,0.0,0.0
+871-91-0,7-Octyn-1-ol,C#CCCCCCCO,BD110929,1g,40.95,InStock,40.95,0.0,1.0,0.0,0.0
+10160-28-8,Non-8-yn-1-ol,C#CCCCCCCCO,BD111454,250mg,44.2,InStock,176.8,0.0,1.0,0.0,0.0
+30964-01-3,8-Nonynoicacid,C#CCCCCCCC(=O)O,BD111455,250mg,611.65,InStock,2446.6,0.0,1.0,0.0,0.0
+17643-36-6,Dec-9-yn-1-ol,C#CCCCCCCCCO,BD111721,250mg,63.7,InStock,254.8,0.0,1.0,0.0,0.0
+4039-82-1,((Prop-2-yn-1-yloxy)methyl)benzene,C#CCOCc1ccccc1,BD116201,250mg,14.95,InStock,59.8,0.0,1.0,0.0,0.0
+40307-11-7,1-Ethyl-4-ethynylbenzene,C#Cc1ccc(CC)cc1,BD11751,5g,26.65,InStock,5.33,0.0,1.0,0.0,0.0
+270596-47-9,(S)-3-((tert-Butoxycarbonyl)amino)hex-5-ynoic acid,C#CC[C@@H](CC(=O)O)NC(=O)OC(C)(C)C,BD117636,100mg,148.85,InStock,1488.5,0.0,1.0,0.0,0.0
+79887-14-2,4-Ethoxyphenylacetylene,C#Cc1ccc(OCC)cc1,BD11817,1g,13.0,InStock,13.0,0.0,1.0,0.0,0.0
+4302-52-7,"3,4-Dimethoxyphenylacetylene",C#Cc1ccc(OC)c(OC)c1,BD11822,250mg,30.55,InStock,122.2,0.0,1.0,0.0,0.0
+17573-94-3,4-Dimethylaminophenyl acetylene,C#Cc1ccc(N(C)C)cc1,BD11902,250mg,48.75,InStock,195.0,0.0,1.0,0.0,0.0
+76114-73-3,Prop-2-yn-1-yl butylcarbamate,C#CCOC(=O)NCCCC,BD119184,100mg,83.2,InStock,832.0,0.0,1.0,0.0,0.0
+105512-06-9,(R)-Prop-2-yn-1-yl 2-(4-((5-chloro-3-fluoropyridin-2-yl)oxy)phenoxy)propanoate,C#CCOC(=O)[C@@H](C)Oc1ccc(Oc2ncc(Cl)cc2F)cc1,BD121922,5g,33.15,InStock,6.63,0.0,1.0,0.0,0.0
+95124-07-5,Dimethyl propargylmalonate,C#CCC(C(=O)OC)C(=O)OC,BD125459,1g,22.75,InStock,22.75,0.0,1.0,0.0,0.0
+6921-28-4,Dipropargylamine,C#CCNCC#C,BD125970,250mg,32.5,InStock,130.0,0.0,2.0,0.0,0.0
+29978-83-4,2-(Prop-2-yn-1-yloxy)benzaldehyde,C#CCOc1ccccc1C=O,BD12745,250mg,22.1,InStock,88.4,0.0,1.0,0.0,0.0
+183321-74-6,"4-[(3-Ethynylphenyl)amino]-6,7-bis(2-methoxyethoxy)quinazoline",C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1,BD127462,250mg,27.95,InStock,111.8,0.0,1.0,0.0,0.0
+53841-07-9,Ethyl but-3-ynoate,C#CCC(=O)OCC,BD128616,1g,422.5,InStock,422.5,0.0,1.0,0.0,0.0
+5651-83-2,3-Methoxy-4-(prop-2-yn-1-yloxy)benzaldehyde,C#CCOc1ccc(C=O)cc1OC,BD12970,100mg,89.7,InStock,897.0,0.0,1.0,0.0,0.0
+62452-73-7,1-Ethynyl-4-propylbenzene,C#Cc1ccc(CCC)cc1,BD13051,1g,17.55,InStock,17.55,0.0,1.0,0.0,0.0
+23152-99-0,1-Ethynyl-4-isopropylbenzene,C#Cc1ccc(C(C)C)cc1,BD13053,250mg,35.1,InStock,140.4,0.0,1.0,0.0,0.0
+23418-85-1,3-Butynyl 4-methylbenzenesulfonate,C#CCCOS(=O)(=O)c1ccc(C)cc1,BD13139,1g,35.75,InStock,35.75,0.0,1.0,0.0,0.0
+53487-52-8,But-3-yn-2-yl 4-methylbenzenesulfonate,C#CC(C)OS(=O)(=O)c1ccc(C)cc1,BD13140,1g,154.05,InStock,154.05,0.0,1.0,0.0,0.0
+18180-30-8,Glycidyl Propargyl Ether,C#CCOCC1CO1,BD132194,1g,40.95,InStock,40.95,0.0,1.0,0.0,0.0
+32804-66-3,Methyl but-3-ynoate,C#CCC(=O)OC,BD138624,100mg,409.5,InStock,4095.0,0.0,1.0,0.0,0.0
+77758-51-1,Methyl 5-hexynoate,C#CCCCC(=O)OC,BD139163,250mg,34.45,InStock,137.8,0.0,1.0,0.0,0.0
+79887-09-5,4-Butylphenylacetylene,C#Cc1ccc(CCCC)cc1,BD13958,5g,31.85,InStock,6.37,0.0,1.0,0.0,0.0
+922-67-8,Methyl propiolate,C#CC(=O)OC,BD139613,1g,14.95,InStock,14.95,0.0,1.0,0.0,0.0
+41876-70-4,"N,N-Diethyl-4-ethynylaniline",C#Cc1ccc(N(CC)CC)cc1,BD14056,100mg,371.15,InStock,3711.5,0.0,1.0,0.0,0.0
+14396-90-8,"2-(But-3-yn-1-yl)isoindoline-1,3-dione",C#CCCN1C(=O)c2ccccc2C1=O,BD141147,250mg,91.65,InStock,366.6,0.0,1.0,0.0,0.0
+555-57-7,N-Benzyl-N-methylprop-2-yn-1-amine,C#CCN(C)Cc1ccccc1,BD145173,1g,128.05,InStock,128.05,0.0,1.0,0.0,0.0
+35161-71-8,N-methylpropargylamine,C#CCNC,BD145191,1g,84.5,InStock,84.5,0.0,1.0,0.0,0.0
+5221-62-5,1-(Prop-2-yn-1-yl)urea,C#CCNC(N)=O,BD145606,250mg,87.1,InStock,348.4,1.0,1.0,0.0,0.0
+306-07-0,N-Methyl-N-propargylbenzylamine Hydrochloride,C#CCN(C)Cc1ccccc1.Cl,BD146773,100mg,81.25,InStock,812.5,0.0,1.0,0.0,0.0
+13610-02-1,(Prop-2-yn-1-yloxy)benzene,C#CCOc1ccccc1,BD147581,1g,23.4,InStock,23.4,0.0,1.0,0.0,0.0
+79887-10-8,4-N-Pentylphenylacetylene,C#Cc1ccc(CCCCC)cc1,BD14768,1g,17.55,InStock,17.55,0.0,1.0,0.0,0.0
+3973-18-0,Propynol ethoxylate,C#CCOCCO,BD148401,5g,22.75,InStock,4.55,0.0,1.0,0.0,0.0
+15430-52-1,Prop-2-yn-1-amine hydrochloride,C#CCN.Cl,BD149201,1g,35.1,InStock,35.1,1.0,1.0,0.0,0.0
+627-09-8,Propargylacetate,C#CCCC(=O)[O-],BD149202,1g,47.45,InStock,47.45,0.0,1.0,0.0,0.0
+6165-75-9,Prop-2-yn-1-yl benzenesulfonate,C#CCOS(=O)(=O)c1ccccc1,BD149205,5g,13.65,InStock,2.73,0.0,1.0,0.0,0.0
+6165-76-0,Propargyl p-toluenesulfonate,C#CCOS(=O)(=O)c1ccc(C)cc1,BD149213,1g,38.35,InStock,38.35,0.0,1.0,0.0,0.0
+10160-87-9,"3,3-Diethoxyprop-1-yne",C#CC(OCC)OCC,BD149214,1g,9.1,InStock,9.1,0.0,1.0,0.0,0.0
+2091-46-5,Triphenyl(prop-2-yn-1-yl)phosphonium bromide,C#CC[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],BD149217,1g,14.95,InStock,14.95,0.0,1.0,0.0,0.0
+7341-96-0,Propiolamide,C#CC(N)=O,BD149346,250mg,21.45,InStock,85.8,1.0,1.0,0.0,0.0
+329202-22-4,3-Chloro-5-ethynylpyridine,C#Cc1cncc(Cl)c1,BD149723,100mg,68.25,InStock,682.5,0.0,1.0,0.0,0.0
+161735-79-1,"(R)-N-(Prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine methanesulfonate",C#CCN[C@@H]1CCc2ccccc21.CS(=O)(=O)O,BD150251,250mg,42.9,InStock,171.6,0.0,1.0,0.0,0.0
+29079-00-3,"4-Ethynyl-1,1'-biphenyl",C#Cc1ccc(-c2ccccc2)cc1,BD15144,250mg,16.9,InStock,67.6,0.0,1.0,0.0,0.0
+4200-06-0,1-Ethynyl-4-phenoxybenzene,C#Cc1ccc(Oc2ccccc2)cc1,BD15174,100mg,63.7,InStock,637.0,0.0,1.0,0.0,0.0
+287192-97-6,tert-Butyl 4-ethynylpiperidine-1-carboxylate,C#CC1CCN(C(=O)OC(C)(C)C)CC1,BD152930,250mg,18.85,InStock,75.4,0.0,1.0,0.0,0.0
+13831-03-3,tert-Butyl propiolate,C#CC(=O)OC(C)(C)C,BD153079,1g,37.7,InStock,37.7,0.0,1.0,0.0,0.0
+86318-61-8,tert-Butyldimethylsilylacetylene,C#C[Si](C)(C)C(C)(C)C,BD153145,10g,195.0,InStock,19.5,0.0,1.0,0.0,0.0
+79887-11-9,1-Ethynyl-4-hexylbenzene,C#Cc1ccc(CCCCCC)cc1,BD15492,250mg,41.6,InStock,166.4,0.0,1.0,0.0,0.0
+994-89-8,Tributyl(ethynyl)stannane,C#C[Sn](CCCC)(CCCC)CCCC,BD155054,1g,19.5,InStock,19.5,0.0,1.0,0.0,0.0
+6921-29-5,Tripropargylamine,C#CCN(CC#C)CC#C,BD155746,1g,44.85,InStock,44.85,0.0,3.0,0.0,0.0
+134690-40-7,3-Ethynyl-4-methylaniline,C#Cc1cc(N)ccc1C,BD290252,100mg,235.3,InStock,2353.0,1.0,1.0,0.0,0.0
+56663-76-4,"2,2-Dimethylbut-3-ynoic acid",C#CC(C)(C)C(=O)O,BD29073,100mg,94.9,InStock,949.0,0.0,1.0,0.0,0.0
+75717-77-0,"2,4-Dichlorophenylacetylene",C#Cc1ccc(Cl)cc1Cl,BD290925,100mg,335.4,InStock,3354.0,0.0,1.0,0.0,0.0
+69075-42-9,"1-((2R,3R,4S,5R)-3,4-Dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-5-ethynylpyrimidine-2,4(1H,3H)-dione",C#Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)[nH]c1=O,BD291310,100mg,115.7,InStock,1157.0,0.0,1.0,0.0,0.0
+188472-71-1,4-Chloro-1-ethynyl-2-fluorobenzene,C#Cc1ccc(Cl)cc1F,BD293557,100mg,233.35,InStock,2333.5,0.0,1.0,0.0,0.0
+866683-57-0,1-Ethynyl-3-(trifluoromethoxy)benzene,C#Cc1cccc(OC(F)(F)F)c1,BD293943,100mg,83.2,InStock,832.0,0.0,1.0,0.0,0.0
+1945-85-3,5-Ethynyl-2-methylpyridine,C#Cc1ccc(C)nc1,BD294599,100mg,165.75,InStock,1657.5,0.0,1.0,0.0,0.0
+76782-82-6,Tert-Butyldimethyl(2-propynyloxy)silane,C#CCO[Si](C)(C)C(C)(C)C,BD29591,5g,32.5,InStock,6.5,0.0,1.0,0.0,0.0
+118080-79-8,(S)-tert-Butyl but-3-yn-2-ylcarbamate,C#C[C@H](C)NC(=O)OC(C)(C)C,BD297035,100mg,254.15,InStock,2541.5,0.0,1.0,0.0,0.0
+1414960-66-9,(S)-But-3-yn-2-amine hydrochloride,C#C[C@H](C)N.Cl,BD297781,100mg,420.55,InStock,4205.5,1.0,1.0,0.0,0.0
+88211-50-1,But-3-yn-1-amine hydrochloride,C#CCCN.Cl,BD29809,250mg,46.8,InStock,187.2,1.0,1.0,0.0,0.0
+1172623-96-9,"tert-Butyl (1-(2,5-difluorophenyl)-1-oxopent-4-yn-2-yl)carbamate",C#CCC(NC(=O)OC(C)(C)C)C(=O)c1cc(F)ccc1F,BD298161,250mg,76.7,InStock,306.8,0.0,1.0,0.0,0.0
+1092536-54-3,"4-Benzyloxy-3,3-dimethylbut-1-yne",C#CC(C)(C)COCc1ccccc1,BD300369,1g,239.85,InStock,239.85,0.0,1.0,0.0,0.0
+1066-54-2,Ethynyltrimethylsilane,C#C[Si](C)(C)C,BD30083,5g,18.85,InStock,3.77,0.0,1.0,0.0,0.0
+57121-49-0,4-Ethynyl-1H-pyrazole,C#Cc1cn[nH]c1,BD301137,100mg,127.4,InStock,1274.0,0.0,1.0,0.0,0.0
+1259034-35-9,tert-Butyl 3-ethynyl-3-hydroxyazetidine-1-carboxylate,C#CC1(O)CN(C(=O)OC(C)(C)C)C1,BD301775,100mg,180.05,InStock,1800.5,0.0,1.0,0.0,0.0
+1111-97-3,3-Chloro-3-methylbut-1-yne,C#CC(C)(C)Cl,BD30180,10g,36.4,InStock,3.64,0.0,1.0,0.0,0.0
+111770-86-6,5-Bromo-2-ethynylpyridine,C#Cc1ccc(Br)cn1,BD30196,100mg,27.95,InStock,279.5,0.0,1.0,0.0,0.0
+1352492-38-6,3-Ethynyloxetan-3-ol,C#CC1(O)COC1,BD302073,100mg,103.35,InStock,1033.5,0.0,1.0,0.0,0.0
+1036847-90-1,"4-((2,5-Dioxo-2,5-dihydro-1H-pyrrol-1-yl)methyl)-N-(prop-2-yn-1-yl)cyclohexanecarboxamide",C#CCNC(=O)C1CCC(CN2C(=O)C=CC2=O)CC1,BD302148,100mg,195.65,InStock,1956.5,0.0,1.0,0.0,0.0
+89775-13-3,1-(Prop-2-yn-1-yl)pyrrolidine hydrochloride,C#CCN1CCCC1.Cl,BD302384,100mg,31.85,InStock,318.5,0.0,1.0,0.0,0.0
+137344-86-6,3-Ethynyltetrahydrofuran-3-ol,C#CC1(O)CCOC1,BD303380,1g,3955.9,InStock,3955.9,0.0,1.0,0.0,0.0
+223734-62-1,2-((S)-Dec-1-yn-5-yloxy)tetrahydro-2H-pyran,C#CCC[C@H](CCCCC)OC1CCCCO1,BD303459,250mg,113.75,InStock,455.0,0.0,1.0,0.0,0.0
+1825394-89-5,Bis(3-ethynylbenzyl)amine,C#Cc1cccc(CNCc2cccc(C#C)c2)c1,BD303633,100mg,56.55,InStock,565.5,0.0,2.0,0.0,0.0
+933755-97-6,1-Ethynylcyclopropanecarboxylic acid,C#CC1(C(=O)O)CC1,BD303942,100mg,381.55,InStock,3815.5,0.0,1.0,0.0,0.0
+3923-52-2,"1,1-Diphenylprop-2-yn-1-ol",C#CC(O)(c1ccccc1)c1ccccc1,BD304909,1g,15.6,InStock,15.6,0.0,1.0,0.0,0.0
+39806-89-8,4-Ethynyl-1-methyl-1H-pyrazole,C#Cc1cnn(C)c1,BD305282,100mg,120.9,InStock,1209.0,0.0,1.0,0.0,0.0
+34993-56-1,1-Ethynylpyrene,C#Cc1ccc2ccc3cccc4ccc1c2c34,BD306282,250mg,122.2,InStock,488.8,0.0,1.0,0.0,0.0
+773888-45-2,"5-((3aS,4S,6aR)-2-Oxohexahydro-1H-thieno[3,4-d]imidazol-4-yl)-N-(prop-2-yn-1-yl)pentanamide",C#CCNC(=O)CCCC[C@@H]1SC[C@@H]2NC(=O)N[C@H]12,BD306858,100mg,75.4,InStock,754.0,0.0,1.0,0.0,0.0
+1034287-04-1,"2-(4-Ethynyl-phenyl)-4,4,5,5-tetramethyl-[1,3,2]-dioxaborolane",C#Cc1ccc(B2OC(C)(C)C(C)(C)O2)cc1,BD314089,100mg,49.4,InStock,494.0,0.0,1.0,0.0,0.0
+1100509-34-9,4-Ethynyltetrahydro-2H-thiopyran,C#CC1CCSCC1,BD314171,100mg,559.65,InStock,5596.5,0.0,1.0,0.0,0.0
+1357387-28-0,"N-(Prop-2-yn-1-yl)-3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzamide",C#CCNC(=O)c1cccc(B2OC(C)(C)C(C)(C)O2)c1,BD314903,100mg,99.45,InStock,994.5,0.0,1.0,0.0,0.0
+1408074-62-3,"4-Ethynyl-2,2-difluoro-1,3-benzodioxole",C#Cc1cccc2c1OC(F)(F)O2,BD315165,50mg,266.5,InStock,5330.0,0.0,1.0,0.0,0.0
+153800-11-4,2-Ethynylpyrazine,C#Cc1cnccn1,BD315335,100mg,169.65,InStock,1696.5,0.0,1.0,0.0,0.0
+30413-56-0,4-Ethynyl-2-methylpyridine,C#Cc1ccnc(C)c1,BD315536,100mg,371.8,InStock,3718.0,0.0,1.0,0.0,0.0
+947141-86-8,tert-Butyl trans-4-ethynylcyclohexylcarbamate,C#C[C@H]1CC[C@H](NC(=O)OC(C)(C)C)CC1,BD316191,100mg,242.45,InStock,2424.5,0.0,1.0,0.0,0.0
+1271-47-2,Ethynylferrocene,C#C[c-]1cccc1.[Fe+2].c1cc[cH-]c1,BD31692,250mg,34.45,InStock,137.8,0.0,1.0,0.0,0.0
+1049733-10-9,(R)-2-(Prop-2-yn-1-yl)pyrrolidine-2-carboxylic acid hydrochloride,C#CC[C@@]1(C(=O)O)CCCN1.Cl,BD316999,50mg,416.65,InStock,8333.0,0.0,1.0,0.0,0.0
+1174157-65-3,N-Succinimidyl 3-(propargyloxy)propionate,C#CCOCCC(=O)ON1C(=O)CCC1=O,BD317745,50mg,316.55,InStock,6331.0,0.0,1.0,0.0,0.0
+1217828-88-0,(S)-2-(Prop-2-yn-1-yl)pyrrolidine-2-carboxylic acid hydrochloride,C#CC[C@]1(C(=O)O)CCCN1.Cl,BD318566,100mg,380.25,InStock,3802.5,0.0,1.0,0.0,0.0
+1217669-02-7,(S)-3-((((9H-Fluoren-9-yl)methoxy)carbonyl)amino)hex-5-ynoic acid,C#CC[C@@H](CC(=O)O)NC(=O)OCC1c2ccccc2-c2ccccc21,BD318603,100mg,263.9,InStock,2639.0,0.0,1.0,0.0,0.0
+135883-34-0,1-(tert-Butyl)-3-ethynylbenzene,C#Cc1cccc(C(C)(C)C)c1,BD320772,100mg,561.6,InStock,5616.0,0.0,1.0,0.0,0.0
+99254-90-7,"1,3-Dichloro-5-ethynylbenzene",C#Cc1cc(Cl)cc(Cl)c1,BD320773,250mg,69.55,InStock,278.2,0.0,1.0,0.0,0.0
+29074-77-9,1-Ethyl-3-Ethynylbenzene,C#Cc1cccc(CC)c1,BD320776,100mg,235.3,InStock,2353.0,0.0,1.0,0.0,0.0
+1204595-05-0,(S)-2-((((9H-Fluoren-9-yl)methoxy)carbonyl)amino)-3-(4-(prop-2-yn-1-yloxy)phenyl)propanoic acid,C#CCOc1ccc(C[C@H](NC(=O)OCC2c3ccccc3-c3ccccc32)C(=O)O)cc1,BD321645,100mg,399.1,InStock,3991.0,0.0,1.0,0.0,0.0
+909342-65-0,"3,6-Diethynylcarbazole",C#Cc1ccc2[nH]c3ccc(C#C)cc3c2c1,BD322193,100mg,625.95,InStock,6259.5,0.0,2.0,0.0,0.0
+944561-44-8,2-[2-(2-Propynyloxy)ethoxy]ethylamine,C#CCOCCOCCN,BD322200,250mg,23.4,InStock,93.6,1.0,1.0,0.0,0.0
+930800-38-7,N-Hex-5-ynyl-2-iodo-acetamide,C#CCCCCNC(=O)CI,BD324491,50mg,531.05,InStock,10621.0,0.0,1.0,0.0,0.0
+1354752-75-2,(S)-Fmoc-2-amino-3-propargyloxy-propionic acid,C#CCOC[C@](N)(C(=O)O)C(=O)OCC1c2ccccc2-c2ccccc21,BD325837,250mg,114.4,InStock,457.6,1.0,1.0,0.0,0.0
+23235-03-2,(R)-2-Aminopent-4-ynoic acid,C#CC[C@@H](N)C(=O)O,BD32767,250mg,29.25,InStock,117.0,1.0,1.0,0.0,0.0
+2450-71-7,Prop-2-yn-1-amine,C#CCN,BD32844,1g,14.3,InStock,14.3,1.0,1.0,0.0,0.0
+1374115-61-3,"5-Ethynylimidazo[1,2-a]pyridine",C#Cc1cccc2nccn12,BD329336,100mg,508.3,InStock,5083.0,0.0,1.0,0.0,0.0
+1374652-56-8,"5-Ethynyl-1H-pyrazolo[4,3-b]pyridine",C#Cc1ccc2[nH]ncc2n1,BD329360,100mg,1349.4,InStock,13494.0,0.0,1.0,0.0,0.0
+2777-65-3,Undec-10-ynoic acid,C#CCCCCCCCCC(=O)O,BD33010,100mg,33.15,InStock,331.5,0.0,1.0,0.0,0.0
+16754-39-5,Prop-2-yn-1-yl carbamate,C#CCOC(N)=O,BD330445,100mg,645.45,InStock,6454.5,1.0,1.0,0.0,0.0
+173987-24-1,Pent-4-yn-1-amine hydrochloride,C#CCCCN.Cl,BD330506,100mg,113.75,InStock,1137.5,1.0,1.0,0.0,0.0
+189178-09-4,Tris(4-ethynylphenyl)amine,C#Cc1ccc(N(c2ccc(C#C)cc2)c2ccc(C#C)cc2)cc1,BD330663,250mg,181.35,InStock,725.4,0.0,3.0,0.0,0.0
+20044-78-4,"2-(Prop-2-yn-1-yl)-2,3-dihydrobenzo[d]isothiazole 1,1-dioxide",C#CCN1Cc2ccccc2S1(=O)=O,BD330743,100mg,772.2,InStock,7722.0,0.0,1.0,0.0,0.0
+2107-40-6,1-(3-Fluorophenyl)prop-2-yn-1-ol,C#CC(O)c1cccc(F)c1,BD330841,100mg,407.55,InStock,4075.5,0.0,1.0,0.0,0.0
+2949-26-0,2-Ethynyl-naphthalene,C#Cc1ccc2ccccc2c1,BD33093,100mg,14.95,InStock,149.5,0.0,1.0,0.0,0.0
+25032-23-9,"8-(Prop-2-yn-1-yl)-8-azaspiro[4.5]decane-7,9-dione",C#CCN1C(=O)CC2(CCCC2)CC1=O,BD331044,100mg,687.05,InStock,6870.5,0.0,1.0,0.0,0.0
+313648-56-5,Dimethyl 5-ethynylisophthalate,C#Cc1cc(C(=O)OC)cc(C(=O)OC)c1,BD331246,100mg,44.2,InStock,442.0,0.0,1.0,0.0,0.0
+18773-54-1,"4-Methyl-N,N-di(prop-2-yn-1-yl)benzenesulfonamide",C#CCN(CC#C)S(=O)(=O)c1ccc(C)cc1,BD331557,250mg,239.85,InStock,959.4,0.0,2.0,0.0,0.0
+69075-47-4,"4-Amino-5-ethynyl-1-((2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)pyrimidin-2(1H)-one",C#Cc1cn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)nc1N,BD331692,50mg,350.35,InStock,7007.0,1.0,1.0,0.0,0.0
+104190-22-9,1-(2-Ethynylphenyl)ethanone,C#Cc1ccccc1C(C)=O,BD332536,100mg,308.75,InStock,3087.5,0.0,1.0,0.0,0.0
+113486-06-9,tert-Butyl (2-methylbut-3-yn-2-yl)carbamate,C#CC(C)(C)NC(=O)OC(C)(C)C,BD332922,100mg,76.05,InStock,760.5,0.0,1.0,0.0,0.0
+1207351-15-2,"5-Ethynyl-1H-pyrazolo[3,4-b]pyridine",C#Cc1cnc2[nH]ncc2c1,BD333473,100mg,780.0,InStock,7800.0,0.0,1.0,0.0,0.0
+1217637-01-8,(R)-tert-Butyl (1-hydroxypent-4-yn-2-yl)carbamate,C#CC[C@H](CO)NC(=O)OC(C)(C)C,BD333603,100mg,435.5,InStock,4355.0,0.0,1.0,0.0,0.0
+1255099-13-8,Methyl 3-ethynyl-4-methylbenzoate,C#Cc1cc(C(=O)OC)ccc1C,BD333998,100mg,56.55,InStock,565.5,0.0,1.0,0.0,0.0
+1268810-17-8,1-Ethynylcyclopropanamine hydrochloride,C#CC1(N)CC1.Cl,BD334271,100mg,196.95,InStock,1969.5,1.0,1.0,0.0,0.0
+432025-97-3,5-Ethynylisophthalic acid,C#Cc1cc(C(=O)O)cc(C(=O)O)c1,BD334356,100mg,70.85,InStock,708.5,0.0,1.0,0.0,0.0
+57121-48-9,5-Ethynyl-1H-imidazole,C#Cc1cnc[nH]1,BD334681,100mg,1063.4,InStock,10634.0,0.0,1.0,0.0,0.0
+151978-58-4,tert-Butyl hex-5-yn-1-ylcarbamate,C#CCCCCNC(=O)OC(C)(C)C,BD336765,100mg,118.3,InStock,1183.0,0.0,1.0,0.0,0.0
+4616-63-1,"2-(Prop-2-yn-1-yloxy)isoindoline-1,3-dione",C#CCON1C(=O)c2ccccc2C1=O,BD33709,250mg,31.85,InStock,127.4,0.0,1.0,0.0,0.0
+105995-73-1,2-Bromo-5-ethynylthiophene,C#Cc1ccc(Br)s1,BD337725,100mg,127.4,InStock,1274.0,0.0,1.0,0.0,0.0
+1068471-18-0,Methyl 3-(4-Ethynylphenyl)propanoate,C#Cc1ccc(CCC(=O)OC)cc1,BD337731,100mg,192.4,InStock,1924.0,0.0,1.0,0.0,0.0
+132178-37-1,"2,5-Dioxopyrrolidin-1-yl pent-4-ynoate",C#CCCC(=O)ON1C(=O)CCC1=O,BD338594,50mg,696.15,InStock,13923.0,0.0,1.0,0.0,0.0
+1428629-70-2,"2,5-Dioxopyrrolidin-1-yl 4,7,10,13-tetraoxahexadec-15-yn-1-oate",C#CCOCCOCCOCCOCCC(=O)ON1C(=O)CCC1=O,BD338610,100mg,81.25,InStock,812.5,0.0,1.0,0.0,0.0
+17780-75-5,"N-(3-(2,4-Dichlorophenoxy)propyl)-N-methylprop-2-yn-1-amine hydrochloride",C#CCN(C)CCCOc1ccc(Cl)cc1Cl.Cl,BD338664,100mg,709.15,InStock,7091.5,0.0,1.0,0.0,0.0
+18750-95-3,"(1-Ethynylanthracene-9,10-diyl)bis(trimethylsilane)",C#Cc1cccc2c([Si](C)(C)C)c3ccccc3c([Si](C)(C)C)c12,BD341236,250mg,104.65,InStock,418.6,0.0,1.0,0.0,0.0
+623-47-2,Ethyl propiolate,C#CC(=O)OCC,BD34365,1g,13.0,InStock,13.0,0.0,1.0,0.0,0.0
+7223-50-9,N-Propargylphthalimide,C#CCN1C(=O)c2ccccc2C1=O,BD34739,1g,19.5,InStock,19.5,0.0,1.0,0.0,0.0
+766-82-5,1-Ethynyl-3-methylbenzene,C#Cc1cccc(C)c1,BD34882,1g,25.35,InStock,25.35,0.0,1.0,0.0,0.0
+873-73-4,1-Chloro-4-ethynylbenzene,C#Cc1ccc(Cl)cc1,BD35196,100mg,15.6,InStock,156.0,0.0,1.0,0.0,0.0
+88444-81-9,"3',5'-Bis(trifluoromethyl)phenylacetylene",C#Cc1cc(C(F)(F)F)cc(C(F)(F)F)c1,BD35270,250mg,24.05,InStock,96.2,0.0,1.0,0.0,0.0
+23486-70-6,5-Ethynyl-1H-pyrazole,C#Cc1ccn[nH]1,BD360365,100mg,642.2,InStock,6422.0,0.0,1.0,0.0,0.0
+886363-40-2,1-Ethynyl-2-(trifluoromethoxy)benzene,C#Cc1ccccc1OC(F)(F)F,BD36593,100mg,89.7,InStock,897.0,0.0,1.0,0.0,0.0
+884494-34-2,2-Ethynyl-5-fluoropyridine,C#Cc1ccc(F)cn1,BD37090,250mg,104.65,InStock,418.6,0.0,1.0,0.0,0.0
+10297-06-0,6-Chlorohex-1-yne,C#CCCCCCl,BD3729,1g,110.5,InStock,110.5,0.0,1.0,0.0,0.0
+10442-03-2,"4-(Prop-2-yn-1-yl)thiomorpholine 1,1-dioxide",C#CCN1CCS(=O)(=O)CC1,BD3845,1g,152.1,InStock,152.1,0.0,1.0,0.0,0.0
+610794-20-2,(S)-2-Amino-3-(4-(prop-2-yn-1-yloxy)phenyl)propanoic acid,C#CCOc1ccc(C[C@H](N)C(=O)O)cc1,BD398706,100mg,330.2,InStock,3302.0,1.0,1.0,0.0,0.0
+30964-00-2,6-Heptynoic acid,C#CCCCCC(=O)O,BD40785,1g,21.45,InStock,21.45,0.0,1.0,0.0,0.0
+118292-06-1,"6-Ethynyl-4,4-dimethylthiochroman",C#Cc1ccc2c(c1)C(C)(C)CCS2,BD41204,100mg,20.15,InStock,201.5,0.0,1.0,0.0,0.0
+1788-08-5,4-Ethynylbenzenesulfonamide,C#Cc1ccc(S(N)(=O)=O)cc1,BD41387,100mg,293.15,InStock,2931.5,1.0,1.0,0.0,0.0
+183319-69-9,"N-(3-Ethynylphenyl)-6,7-bis(2-methoxyethoxy)quinazolin-4-amine hydrochloride",C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1.Cl,BD41395,1g,18.2,InStock,18.2,0.0,1.0,0.0,0.0
+3034-94-4,1-Ethynyl-3-nitrobenzene,C#Cc1cccc([N+](=O)[O-])c1,BD41577,250mg,18.85,InStock,75.4,0.0,1.0,0.0,0.0
+78-27-3,1-Ethynyl-1-cyclohexanol,C#CC1(O)CCCCC1,BD42018,25g,18.2,InStock,0.73,0.0,1.0,0.0,0.0
+332064-94-5,(R)-3-((((9H-Fluoren-9-yl)methoxy)carbonyl)amino)hex-5-ynoic acid,C#CC[C@H](CC(=O)O)NC(=O)OCC1c2ccccc2-c2ccccc21,BD42394,100mg,436.8,InStock,4368.0,0.0,1.0,0.0,0.0
+6229-00-1,Ethynyltriphenylsilane,C#C[Si](c1ccccc1)(c1ccccc1)c1ccccc1,BD434488,100mg,87.75,InStock,877.5,0.0,1.0,0.0,0.0
+16900-57-5,2-Aminopent-4-ynoic acid hydrochloride,C#CCC(N)C(=O)O.Cl,BD435029,100mg,73.45,InStock,734.5,1.0,1.0,0.0,0.0
+55683-37-9,3-(Prop-2-yn-1-yloxy)propanoic acid,C#CCOCCC(=O)O,BD439288,100mg,115.7,InStock,1157.0,0.0,1.0,0.0,0.0
+914943-91-2,tert-Butyl 3-ethynylbenzoate,C#Cc1cccc(C(=O)OC(C)(C)C)c1,BD440102,100mg,81.9,InStock,819.0,0.0,1.0,0.0,0.0
+63104-44-9,"Dimethyl 2,2-di(prop-2-yn-1-yl)malonate",C#CCC(CC#C)(C(=O)OC)C(=O)OC,BD447571,250mg,47.45,InStock,189.8,0.0,2.0,0.0,0.0
+1202769-66-1,2-(5-Methylisoxazol-3-yl)but-3-yn-2-ol,C#CC(C)(O)c1cc(C)on1,BD447929,100mg,426.4,InStock,4264.0,0.0,1.0,0.0,0.0
+17880-57-8,5-Ethynylpicolinic acid,C#Cc1ccc(C(=O)O)nc1,BD448735,100mg,397.15,InStock,3971.5,0.0,1.0,0.0,0.0
+945761-99-9,7-Ethynyl-1H-indazole,C#Cc1cccc2cn[nH]c12,BD449252,100mg,983.45,InStock,9834.5,0.0,1.0,0.0,0.0
+4187-88-6,1-Cyclohexylprop-2-yn-1-ol,C#CC(O)C1CCCCC1,BD449289,100mg,312.65,InStock,3126.5,0.0,1.0,0.0,0.0
+171486-61-6,"(2R,3R,4R,5R)-2-((Bis(4-methoxyphenyl)(phenyl)methoxy)methyl)-5-(2-isobutyramido-6-oxo-1,6-dihydro-9H-purin-9-yl)-4-(prop-2-yn-1-yloxy)tetrahydrofuran-3-yl (2-cyanoethyl) diisopropylphosphoramidite",C#CCO[C@@H]1[C@H](OP(OCCC#N)N(C(C)C)C(C)C)[C@@H](COC(c2ccccc2)(c2ccc(OC)cc2)c2ccc(OC)cc2)O[C@H]1n1cnc2c(=O)[nH]c(NC(=O)C(C)C)nc21,BD450356,50mg,619.45,InStock,12389.0,0.0,1.0,0.0,0.0
+54840-14-1,Prop-2-yn-1-yl (4-hydroxyphenyl)carbamate,C#CCOC(=O)Nc1ccc(O)cc1,BD45761,100mg,237.9,InStock,2379.0,0.0,1.0,0.0,0.0
+287193-00-4,1-Boc-3-Ethynylpyrrolidine,C#CC1CCN(C(=O)OC(C)(C)C)C1,BD224209,250mg,233.35,InStock,933.4,0.0,1.0,0.0,0.0
+197844-23-8,(4-Ethynylphenyl)methanamine,C#Cc1ccc(CN)cc1,BD224914,100mg,551.85,InStock,5518.5,1.0,1.0,0.0,0.0
+663955-59-7,5-Ethynyl-2-methoxypyridine,C#Cc1ccc(OC)nc1,BD224915,100mg,121.55,InStock,1215.5,0.0,1.0,0.0,0.0
+302912-34-1,"1-Ethynyl-2,4-difluorobenzene",C#Cc1ccc(F)cc1F,BD224987,100mg,63.7,InStock,637.0,0.0,1.0,0.0,0.0
+10602-06-9,Methyl 3-ethynylbenzoate,C#Cc1cccc(C(=O)OC)c1,BD227451,100mg,14.3,InStock,143.0,0.0,1.0,0.0,0.0
+66977-99-9,6-Bromohex-1-yne,C#CCCCCBr,BD227604,100mg,572.65,InStock,5726.5,0.0,1.0,0.0,0.0
+6750-04-5,Prop-2-yn-1-yl benzoate,C#CCOC(=O)c1ccccc1,BD227714,250mg,59.8,InStock,239.2,0.0,1.0,0.0,0.0
+126829-31-0,"2-Ethynyl-1,3-dimethoxybenzene",C#Cc1c(OC)cccc1OC,BD228608,100mg,337.35,InStock,3373.5,0.0,1.0,0.0,0.0
+118080-82-3,(R)-tert-Butyl but-3-yn-2-ylcarbamate,C#C[C@@H](C)NC(=O)OC(C)(C)C,BD228651,250mg,107.9,InStock,431.6,0.0,1.0,0.0,0.0
+87205-47-8,(R)-2-Aminopent-4-ynoic acid hydrochloride,C#CC[C@@H](N)C(=O)O.Cl,BD22930,250mg,62.4,InStock,249.6,1.0,1.0,0.0,0.0
+927-74-2,3-Butyn-1-ol,C#CCCO,BD2325,5g,14.3,InStock,2.86,0.0,1.0,0.0,0.0
+175345-90-1,((4-Ethynylphenyl)ethynyl)triisopropylsilane,C#Cc1ccc(C#C[Si](C(C)C)(C(C)C)C(C)C)cc1,BD233460,50mg,469.95,InStock,9399.0,0.0,1.0,0.0,0.0
+154181-98-3,tert-Butyl but-3-yn-2-ylcarbamate,C#CC(C)NC(=O)OC(C)(C)C,BD233913,100mg,257.4,InStock,2574.0,0.0,1.0,0.0,0.0
+853909-08-7,5-Ethynyl-2-fluoropyridine,C#Cc1ccc(F)nc1,BD234166,250mg,118.95,InStock,475.8,0.0,1.0,0.0,0.0
+BD234398,5-Ethynylpyridin-2-ol,C#Cc1ccc(O)nc1,BD234398,100mg,330.85,InStock,3308.5,0.0,1.0,0.0,0.0
+287193-01-5,tert-Butyl 3-ethynylazetidine-1-carboxylate,C#CC1CN(C(=O)OC(C)(C)C)C1,BD234699,100mg,81.9,InStock,819.0,0.0,1.0,0.0,0.0
+658701-97-4,1-(5-Ethynylthiophen-2-yl)ethanone,C#Cc1ccc(C(C)=O)s1,BD234737,250mg,243.75,InStock,975.0,0.0,1.0,0.0,0.0
+120539-91-5,Benzyl prop-2-yn-1-ylcarbamate,C#CCNC(=O)OCc1ccccc1,BD235144,250mg,50.05,InStock,200.2,0.0,1.0,0.0,0.0
+158816-55-8,"5-Ethynyl-1,2,3-trifluorobenzene",C#Cc1cc(F)c(F)c(F)c1,BD235672,250mg,42.25,InStock,169.0,0.0,1.0,0.0,0.0
+457628-36-3,"1,4-Difluoro-2-(prop-2-yn-1-yloxy)benzene",C#CCOc1cc(F)ccc1F,BD237604,100mg,169.0,InStock,1690.0,0.0,1.0,0.0,0.0
+75867-46-8,"2,6-Diethynylpyridine",C#Cc1cccc(C#C)n1,BD239418,250mg,91.65,InStock,366.6,0.0,2.0,0.0,0.0
+943320-53-4,"3-Ethynylimidazo[1,2-a]pyridine",C#Cc1cnc2ccccn12,BD240490,100mg,360.1,InStock,3601.0,0.0,1.0,0.0,0.0
+1233205-73-6,2-Ethynyl-6-fluoropyridine,C#Cc1cccc(F)n1,BD241453,100mg,136.5,InStock,1365.0,0.0,1.0,0.0,0.0
+78593-41-6,6-Ethynylquinoline,C#Cc1ccc2ncccc2c1,BD241660,100mg,67.6,InStock,676.0,0.0,1.0,0.0,0.0
+1379302-65-4,Ethyl 6-ethynylpicolinate,C#Cc1cccc(C(=O)OCC)n1,BD241676,100mg,61.75,InStock,617.5,0.0,1.0,0.0,0.0
+1015070-57-1,6-Ethynylisoquinoline,C#Cc1ccc2cnccc2c1,BD241851,250mg,71.5,InStock,286.0,0.0,1.0,0.0,0.0
+82225-32-9,4-Bromo-N-(prop-2-yn-1-yl)benzamide,C#CCNC(=O)c1ccc(Br)cc1,BD243040,100mg,156.65,InStock,1566.5,0.0,1.0,0.0,0.0
+864376-04-5,6-Ethynylbenzo[d]thiazole,C#Cc1ccc2ncsc2c1,BD244961,100mg,391.95,InStock,3919.5,0.0,1.0,0.0,0.0
+207226-02-6,3-Ethynylaniline hydrochloride,C#Cc1cccc(N)c1.Cl,BD245058,1g,15.6,InStock,15.6,1.0,1.0,0.0,0.0
+587878-75-9,3-Ethynylbenzamide,C#Cc1cccc(C(N)=O)c1,BD247243,100mg,202.8,InStock,2028.0,1.0,1.0,0.0,0.0
+17920-23-9,Diethyl 2-(prop-2-yn-1-yl)malonate,C#CCC(C(=O)OCC)C(=O)OCC,BD247293,250mg,28.6,InStock,114.4,0.0,1.0,0.0,0.0
+117500-15-9,Diethyl 2-(but-3-yn-1-yl)malonate,C#CCCC(C(=O)OCC)C(=O)OCC,BD247294,100mg,224.25,InStock,2242.5,0.0,1.0,0.0,0.0
+185619-66-3,tert-Butyl (3-ethynylphenyl)carbamate,C#Cc1cccc(NC(=O)OC(C)(C)C)c1,BD247324,100mg,27.3,InStock,273.0,0.0,1.0,0.0,0.0
+1196156-17-8,2-Bromo-4-ethynylpyridine,C#Cc1ccnc(Br)c1,BD247641,100mg,342.55,InStock,3425.5,0.0,1.0,0.0,0.0
+1196155-18-6,2-Ethynyl-5-methoxypyridine,C#Cc1ccc(OC)cn1,BD247675,100mg,96.85,InStock,968.5,0.0,1.0,0.0,0.0
+21663-79-6,O-(Prop-2-yn-1-yl)hydroxylamine hydrochloride,C#CCON.Cl,BD248153,100mg,282.75,InStock,2827.5,1.0,1.0,0.0,0.0
+146464-95-1,"(2S)-2-(4-(1-(2,4-Diaminopteridin-6-yl)pent-4-yn-2-yl)benzamido)pentanedioic acid",C#CCC(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,BD248565,25mg,889.2,InStock,35568.0,2.0,1.0,0.0,0.0
+107263-89-8,4-Ethynyl-2-methylthiazole,C#Cc1csc(C)n1,BD249133,50mg,473.85,InStock,9477.0,0.0,1.0,0.0,0.0
+615288-78-3,(3-Ethynylphenyl)methanamine,C#Cc1cccc(CN)c1,BD249632,100mg,637.0,InStock,6370.0,1.0,1.0,0.0,0.0
+933768-06-0,3-Ethynyl-2-fluoropyridine,C#Cc1cccnc1F,BD250704,1g,1146.6,InStock,1146.6,0.0,1.0,0.0,0.0
+15252-45-6,Hex-5-yn-1-amine,C#CCCCCN,BD251030,100mg,168.35,InStock,1683.5,1.0,1.0,0.0,0.0
+102169-54-0,Hex-5-yn-1-amine hydrochloride,C#CCCCCN.Cl,BD251449,100mg,136.5,InStock,1365.0,1.0,1.0,0.0,0.0
+71460-02-1,(S)-Methyl 2-((tert-butoxycarbonyl)amino)pent-4-ynoate,C#CC[C@H](NC(=O)OC(C)(C)C)C(=O)OC,BD251603,100mg,88.4,InStock,884.0,0.0,1.0,0.0,0.0
+550378-30-8,4-Ethynylpiperidine hydrochloride,C#CC1CCNCC1.Cl,BD253116,100mg,62.4,InStock,624.0,0.0,1.0,0.0,0.0
+1196156-89-4,2-Chloro-5-ethynylpyrimidine,C#Cc1cnc(Cl)nc1,BD253914,5g,3648.45,InStock,729.69,0.0,1.0,0.0,0.0
+1956341-52-8,5-Chloro-2-ethynylpyridine hydrochloride,C#Cc1ccc(Cl)cn1.Cl,BD253929,100mg,178.1,InStock,1781.0,0.0,1.0,0.0,0.0
+40888-26-4,2-Ethynylbenzonitrile,C#Cc1ccccc1C#N,BD254476,100mg,169.0,InStock,1690.0,0.0,1.0,0.0,0.0
+883106-26-1,"3,5-Diethynylbenzoic acid",C#Cc1cc(C#C)cc(C(=O)O)c1,BD25461,100mg,434.2,InStock,4342.0,0.0,2.0,0.0,0.0
+2468-55-5,5-Iodopent-1-yne,C#CCCCI,BD257417,100mg,83.2,InStock,832.0,0.0,1.0,0.0,0.0
+935528-07-7,(4-Ethynylphenyl)methanamine hydrochloride,C#Cc1ccc(CN)cc1.Cl,BD259579,100mg,182.65,InStock,1826.5,1.0,1.0,0.0,0.0
+680190-96-9,tert-Butyl 4-ethynylbenzylcarbamate,C#Cc1ccc(CNC(=O)OC(C)(C)C)cc1,BD259581,100mg,83.2,InStock,832.0,0.0,1.0,0.0,0.0
+1097731-47-9,tert-Butyl 2-ethynylbenzylcarbamate,C#Cc1ccccc1CNC(=O)OC(C)(C)C,BD260005,100mg,551.85,InStock,5518.5,0.0,1.0,0.0,0.0
+2389017-90-5,(2-Ethynylphenyl)methanamine hydrochloride,C#Cc1ccccc1CN.Cl,BD260006,100mg,196.3,InStock,1963.0,1.0,1.0,0.0,0.0
+871023-92-6,tert-Butyl 3-ethynylbenzylcarbamate,C#Cc1cccc(CNC(=O)OC(C)(C)C)c1,BD260007,100mg,443.95,InStock,4439.5,0.0,1.0,0.0,0.0
+943320-61-4,"3-Ethynylimidazo[1,2-b]pyridazine",C#Cc1cnc2cccnn12,BD261705,1g,92.95,InStock,92.95,0.0,1.0,0.0,0.0
+1256805-99-8,2-Ethynyl-3-methoxypyridine,C#Cc1ncccc1OC,BD262121,100mg,190.45,InStock,1904.5,0.0,1.0,0.0,0.0
+1211539-66-0,2-Chloro-4-ethynyl-5-fluoropyridine,C#Cc1cc(Cl)ncc1F,BD262126,100mg,710.45,InStock,7104.5,0.0,1.0,0.0,0.0
+162318-34-5,"5-Ethynyl-2,2'-bipyridine",C#Cc1ccc(-c2ccccn2)nc1,BD262737,100mg,289.9,InStock,2899.0,0.0,1.0,0.0,0.0
+149965-78-6,Benzyl but-3-yn-1-ylcarbamate,C#CCCNC(=O)OCc1ccccc1,BD262994,100mg,402.35,InStock,4023.5,0.0,1.0,0.0,0.0
+1642-49-5,Dec-9-ynoic acid,C#CCCCCCCCC(=O)O,BD263096,100mg,305.5,InStock,3055.0,0.0,1.0,0.0,0.0
+21565-82-2,Methyl pent-4-ynoate,C#CCCC(=O)OC,BD264395,1g,27.95,InStock,27.95,0.0,1.0,0.0,0.0
+26557-78-8,4-(2-Propynyloxy)aniline,C#CCOc1ccc(N)cc1,BD265230,100mg,68.25,InStock,682.5,1.0,1.0,0.0,0.0
+263368-72-5,(4-Ethynylphenyl)boronic acid,C#Cc1ccc(B(O)O)cc1,BD265462,100mg,37.7,InStock,377.0,0.0,1.0,0.0,0.0
+151978-50-6,tert-Butyl pent-4-yn-1-ylcarbamate,C#CCCCNC(=O)OC(C)(C)C,BD265904,250mg,92.3,InStock,369.2,0.0,1.0,0.0,0.0
+14719-21-2,"2,2,2-Trifluoro-N-(prop-2-yn-1-yl)acetamide",C#CCNC(=O)C(F)(F)F,BD265954,250mg,35.1,InStock,140.4,0.0,1.0,0.0,0.0
+89414-50-6,(2-Ethynyl-5-methoxyphenyl)methanol,C#Cc1ccc(OC)cc1CO,BD269052,100mg,235.95,InStock,2359.5,0.0,1.0,0.0,0.0
+92136-39-5,N-Boc-Propargylamine,C#CCNC(=O)OC(C)(C)C,BD26998,1g,14.95,InStock,14.95,0.0,1.0,0.0,0.0
+78593-40-5,3-Ethynylquinoline,C#Cc1cnc2ccccc2c1,BD270231,250mg,38.35,InStock,153.4,0.0,1.0,0.0,0.0
+10601-99-7,3-Ethynylbenzoic acid,C#Cc1cccc(C(=O)O)c1,BD27169,250mg,21.45,InStock,85.8,0.0,1.0,0.0,0.0
+10602-00-3,4-Ethynylbenzoic acid,C#Cc1ccc(C(=O)O)cc1,BD27170,250mg,18.85,InStock,75.4,0.0,1.0,0.0,0.0
+111291-97-5,tert-Butyl 4-ethynylbenzoate,C#Cc1ccc(C(=O)OC(C)(C)C)cc1,BD27203,100mg,127.4,InStock,1274.0,0.0,1.0,0.0,0.0
+38215-38-2,"4,4'-Diethynyl-1,1'-biphenyl",C#Cc1ccc(-c2ccc(C#C)cc2)cc1,BD272658,100mg,27.3,InStock,273.0,0.0,2.0,0.0,0.0
+1875-50-9,"N-(2-Propynyl)-2,3-dihydroinden-1-amine",C#CCNC1CCc2ccccc21,BD273157,250mg,168.35,InStock,673.4,0.0,1.0,0.0,0.0
+10602-03-6,Ethyl 4-ethynylbenzoate,C#Cc1ccc(C(=O)OCC)cc1,BD273270,250mg,48.75,InStock,195.0,0.0,1.0,0.0,0.0
+6089-09-4,4-Pentynoic acid,C#CCCC(=O)O,BD2766,1g,24.7,InStock,24.7,0.0,1.0,0.0,0.0
+30413-61-7,2-Ethynyl-5-methylpyridine,C#Cc1ccc(C)cn1,BD278937,100mg,185.9,InStock,1859.0,0.0,1.0,0.0,0.0
+30413-54-8,2-Ethynyl-4-methylpyridine,C#Cc1cc(C)ccn1,BD278974,100mg,133.9,InStock,1339.0,0.0,1.0,0.0,0.0
+851895-20-0,(4-Ethynylphenyl)(morpholino)methanone,C#Cc1ccc(C(=O)N2CCOCC2)cc1,BD279669,100mg,258.05,InStock,2580.5,0.0,1.0,0.0,0.0
+65881-41-6,N-(Prop-2-yn-1-yl)acetamide,C#CCNC(C)=O,BD280348,100mg,318.5,InStock,3185.0,0.0,1.0,0.0,0.0
+13752-40-4,9-Ethynylanthracene,C#Cc1c2ccccc2cc2ccccc12,BD280600,100mg,285.35,InStock,2853.5,0.0,1.0,0.0,0.0
+52889-62-0,"2-Ethynyl-1,1'-biphenyl",C#Cc1ccccc1-c1ccccc1,BD280607,100mg,519.35,InStock,5193.5,0.0,1.0,0.0,0.0
+80690-65-9,3-Chloro-4-ethynylaniline,C#Cc1ccc(N)cc1Cl,BD280795,100mg,332.8,InStock,3328.0,1.0,1.0,0.0,0.0
+17880-61-4,Methyl 5-ethynylpicolinate,C#Cc1ccc(C(=O)OC)nc1,BD281106,100mg,66.95,InStock,669.5,0.0,1.0,0.0,0.0
+216444-00-7,Methyl 6-ethynylnicotinate,C#Cc1ccc(C(=O)OC)cn1,BD281108,100mg,51.35,InStock,513.5,0.0,1.0,0.0,0.0
+1256810-92-0,Methyl 2-ethynylisonicotinate,C#Cc1cc(C(=O)OC)ccn1,BD281110,100mg,267.15,InStock,2671.5,0.0,1.0,0.0,0.0
+2468-56-6,6-Iodohex-1-yne,C#CCCCCI,BD282144,250mg,51.35,InStock,205.4,0.0,1.0,0.0,0.0
+457099-42-2,5-Ethynylpyrazin-2-amine,C#Cc1cnc(N)cn1,BD282639,100mg,2395.25,InStock,23952.5,1.0,1.0,0.0,0.0
+58650-11-6,"3-Ethynyl-1,1'-biphenyl",C#Cc1cccc(-c2ccccc2)c1,BD284415,100mg,224.25,InStock,2242.5,0.0,1.0,0.0,0.0
+1202355-37-0,"4'-Ethynyl-[1,1'-biphenyl]-4-ol",C#Cc1ccc(-c2ccc(O)cc2)cc1,BD284427,100mg,254.8,InStock,2548.0,0.0,1.0,0.0,0.0
+57399-11-8,"4-Chloro-4'-ethynyl-1,1'-biphenyl",C#Cc1ccc(-c2ccc(Cl)cc2)cc1,BD284471,100mg,139.75,InStock,1397.5,0.0,1.0,0.0,0.0
+914950-09-7,2-Chloro-6-ethynylpyridine,C#Cc1cccc(Cl)n1,BD286763,100mg,263.25,InStock,2632.5,0.0,1.0,0.0,0.0
+1017793-08-6,3-Ethynylpyridazine,C#Cc1cccnn1,BD286765,100mg,234.65,InStock,2346.5,0.0,1.0,0.0,0.0
+42105-26-0,But-3-yn-2-amine hydrochloride,C#CC(C)N.Cl,BD28697,100mg,126.75,InStock,1267.5,1.0,1.0,0.0,0.0

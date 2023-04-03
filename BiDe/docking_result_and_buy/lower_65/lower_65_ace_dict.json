@@ -1,0 +1,2137 @@
+{
+    "C#CCS(=O)(=O)[O-].[Na+]": [
+        "C#CCS(=O)(=O)[O-].[Na+]",
+        "55947-46-1",
+        "BD78424"
+    ],
+    "C#CCC(NC(=O)OC(C)(C)C)C(=O)OC": [
+        "C#CCC(NC(=O)OC(C)(C)C)C(=O)OC",
+        "173306-82-6",
+        "BD78652"
+    ],
+    "C#Cc1ccc(Cl)c(Cl)c1": [
+        "C#Cc1ccc(Cl)c(Cl)c1",
+        "556112-20-0",
+        "BD81783"
+    ],
+    "C#CC(C)(O)CC(C)C": [
+        "C#CC(C)(O)CC(C)C",
+        "107-54-0",
+        "BD82776"
+    ],
+    "C#CC(C)(O)CCC=C(C)C": [
+        "C#CC(C)(O)CCC=C(C)C",
+        "29171-20-8",
+        "BD83142"
+    ],
+    "C#CC(C)(N)CC.Cl": [
+        "C#CC(C)(N)CC.Cl",
+        "108575-32-2",
+        "BD84065"
+    ],
+    "C#Cc1cccc(C(F)(F)F)c1": [
+        "C#Cc1cccc(C(F)(F)F)c1",
+        "705-28-2",
+        "BD86711"
+    ],
+    "C#Cc1cccc(OC)c1": [
+        "C#Cc1cccc(OC)c1",
+        "768-70-7",
+        "BD86713"
+    ],
+    "C#Cc1cccc(C#N)c1": [
+        "C#Cc1cccc(C#N)c1",
+        "171290-53-2",
+        "BD86716"
+    ],
+    "C#Cc1cccnc1": [
+        "C#Cc1cccnc1",
+        "2510-23-8",
+        "BD86718"
+    ],
+    "C#Cc1ccsc1": [
+        "C#Cc1ccsc1",
+        "67237-53-0",
+        "BD86719"
+    ],
+    "C#CCOc1ccc(C=O)cc1": [
+        "C#CCOc1ccc(C=O)cc1",
+        "5651-86-5",
+        "BD91579"
+    ],
+    "C#Cc1ccc(C(C)=O)cc1": [
+        "C#Cc1ccc(C(C)=O)cc1",
+        "42472-69-5",
+        "BD93470"
+    ],
+    "C#Cc1ccc(F)c(C)c1": [
+        "C#Cc1ccc(F)c(C)c1",
+        "351002-93-2",
+        "BD97044"
+    ],
+    "C#Cc1ccc(C(=O)OC)cc1": [
+        "C#Cc1ccc(C(=O)OC)cc1",
+        "3034-86-4",
+        "BD97049"
+    ],
+    "C#Cc1ccc(C(=O)[O-])cc1.[Na+]": [
+        "C#Cc1ccc(C(=O)[O-])cc1.[Na+]",
+        "144693-65-2",
+        "BD97050"
+    ],
+    "C#Cc1ccc(C#N)cc1": [
+        "C#Cc1ccc(C#N)cc1",
+        "3032-92-6",
+        "BD97051"
+    ],
+    "C#Cc1ccc(CO)cc1": [
+        "C#Cc1ccc(CO)cc1",
+        "10602-04-7",
+        "BD97052"
+    ],
+    "C#Cc1ccc(O)cc1": [
+        "C#Cc1ccc(O)cc1",
+        "2200-91-1",
+        "BD97053"
+    ],
+    "C#Cc1ccncc1": [
+        "C#Cc1ccncc1",
+        "2510-22-7",
+        "BD97055"
+    ],
+    "C#Cc1ccncc1.Cl": [
+        "C#Cc1ccncc1.Cl",
+        "352530-29-1",
+        "BD97056"
+    ],
+    "C#CCCCO": [
+        "C#CCCCO",
+        "5390-04-5",
+        "BD99861"
+    ],
+    "C#CCCc1ccccc1": [
+        "C#CCCc1ccccc1",
+        "16520-62-0",
+        "BD99918"
+    ],
+    "C#C[C@@H](C)O": [
+        "C#C[C@@H](C)O",
+        "42969-65-3",
+        "BD47084"
+    ],
+    "C#CCN[C@@H]1CCc2ccccc21": [
+        "C#CCN[C@@H]1CCc2ccccc21",
+        "136236-51-6",
+        "BD47369"
+    ],
+    "C#Cc1ncccc1Br": [
+        "C#Cc1ncccc1Br",
+        "96439-99-5",
+        "BD480879"
+    ],
+    "C#C[C@H](C)O": [
+        "C#C[C@H](C)O",
+        "2914-69-4",
+        "BD48094"
+    ],
+    "C#CCNC(C)c1ccccc1": [
+        "C#CCNC(C)c1ccccc1",
+        "56862-34-1",
+        "BD495361"
+    ],
+    "C#CCOCC(C)O": [
+        "C#CCOCC(C)O",
+        "3973-17-9",
+        "BD00857091"
+    ],
+    "C#Cc1cc(F)ccc1C=O": [
+        "C#Cc1cc(F)ccc1C=O",
+        "749874-24-6",
+        "BD517774"
+    ],
+    "C#Cc1ccc(Cl)cc1C=O": [
+        "C#Cc1ccc(Cl)cc1C=O",
+        "1309565-97-6",
+        "BD517775"
+    ],
+    "C#Cc1ccc(N)c(C#N)n1": [
+        "C#Cc1ccc(N)c(C#N)n1",
+        "160602-48-2",
+        "BD525206"
+    ],
+    "C#CCCC#CCCCC": [
+        "C#CCCC#CCCCC",
+        "53963-03-4",
+        "BD54858"
+    ],
+    "C#CC1(O)CN(S(=O)(=O)c2ccc(C)cc2)C1": [
+        "C#CC1(O)CN(S(=O)(=O)c2ccc(C)cc2)C1",
+        "1349199-60-5",
+        "BD556217"
+    ],
+    "C#CC1(NC(=O)OC(C)(C)C)CC1": [
+        "C#CC1(NC(=O)OC(C)(C)C)CC1",
+        "1268810-09-8",
+        "BD560621"
+    ],
+    "C#Cc1cccc(S(N)(=O)=O)c1": [
+        "C#Cc1cccc(S(N)(=O)=O)c1",
+        "1310456-99-5",
+        "BD561886"
+    ],
+    "C#Cc1ccccc1Br": [
+        "C#Cc1ccccc1Br",
+        "766-46-1",
+        "BD5677"
+    ],
+    "C#Cc1cccc(Br)c1": [
+        "C#Cc1cccc(Br)c1",
+        "766-81-4",
+        "BD5678"
+    ],
+    "C#Cc1ccc(Br)cc1": [
+        "C#Cc1ccc(Br)cc1",
+        "766-96-1",
+        "BD5679"
+    ],
+    "C#Cc1ccccc1Cl": [
+        "C#Cc1ccccc1Cl",
+        "873-31-4",
+        "BD5699"
+    ],
+    "C#Cc1cccc(Cl)c1": [
+        "C#Cc1cccc(Cl)c1",
+        "766-83-6",
+        "BD5700"
+    ],
+    "C#Cc1ccc(F)cc1": [
+        "C#Cc1ccc(F)cc1",
+        "766-98-3",
+        "BD5722"
+    ],
+    "C#Cc1ccccc1F": [
+        "C#Cc1ccccc1F",
+        "766-49-4",
+        "BD5723"
+    ],
+    "C#Cc1cccc(F)c1": [
+        "C#Cc1cccc(F)c1",
+        "2561-17-3",
+        "BD5724"
+    ],
+    "C#Cc1ccc([N+](=O)[O-])cc1": [
+        "C#Cc1ccc([N+](=O)[O-])cc1",
+        "937-31-5",
+        "BD5785"
+    ],
+    "C#Cc1ccc(OCCC)cc1": [
+        "C#Cc1ccc(OCCC)cc1",
+        "39604-97-2",
+        "BD58163"
+    ],
+    "C#Cc1c(C)cc(C)cc1C": [
+        "C#Cc1c(C)cc(C)cc1C",
+        "769-26-6",
+        "BD58331"
+    ],
+    "C#Cc1ccccc1[N+](=O)[O-]": [
+        "C#Cc1ccccc1[N+](=O)[O-]",
+        "16433-96-8",
+        "BD58335"
+    ],
+    "C#Cc1cc(OC)cc(OC)c1": [
+        "C#Cc1cc(OC)cc(OC)c1",
+        "171290-52-1",
+        "BD58336"
+    ],
+    "C#CC1=CCCCC1": [
+        "C#CC1=CCCCC1",
+        "931-49-7",
+        "BD58343"
+    ],
+    "C#Cc1ccnc(N)c1": [
+        "C#Cc1ccnc(N)c1",
+        "1094679-27-2",
+        "BD585951"
+    ],
+    "C#Cc1cncc(NC(=O)OC(C)(C)C)c1": [
+        "C#Cc1cncc(NC(=O)OC(C)(C)C)c1",
+        "1192472-59-5",
+        "BD586144"
+    ],
+    "C#Cc1cccnc1OC": [
+        "C#Cc1cccnc1OC",
+        "1196145-21-7",
+        "BD586155"
+    ],
+    "C#Cc1ccnc(NC(=O)OC(C)(C)C)c1": [
+        "C#Cc1ccnc(NC(=O)OC(C)(C)C)c1",
+        "1196145-93-3",
+        "BD586156"
+    ],
+    "C#Cc1cnccc1N": [
+        "C#Cc1cnccc1N",
+        "1239605-12-9",
+        "BD586353"
+    ],
+    "C#CC(O)CCCC": [
+        "C#CC(O)CCCC",
+        "7383-19-9",
+        "BD58697"
+    ],
+    "C#CC(O)CCC": [
+        "C#CC(O)CCC",
+        "105-31-7",
+        "BD58729"
+    ],
+    "C#CCN1CCN(C)CC1": [
+        "C#CCN1CCN(C)CC1",
+        "45813-02-3",
+        "BD59527"
+    ],
+    "C#Cc1cn(C)nc1C": [
+        "C#Cc1cn(C)nc1C",
+        "61514-53-2",
+        "BD599590"
+    ],
+    "C#CC(O)CC": [
+        "C#CC(O)CC",
+        "4187-86-4",
+        "BD60051"
+    ],
+    "C#CC(O)c1ccccc1": [
+        "C#CC(O)c1ccccc1",
+        "4187-87-5",
+        "BD60150"
+    ],
+    "C#CC(O)Cc1ccccc1": [
+        "C#CC(O)Cc1ccccc1",
+        "4378-23-8",
+        "BD60211"
+    ],
+    "C#CCN1CCNCC1": [
+        "C#CCN1CCNCC1",
+        "52070-67-4",
+        "BD60313"
+    ],
+    "C#CCCOC1CCCCO1": [
+        "C#CCCOC1CCCCO1",
+        "40365-61-5",
+        "BD61712"
+    ],
+    "C#Cc1ccc(N)cc1": [
+        "C#Cc1ccc(N)cc1",
+        "14235-81-5",
+        "BD6179"
+    ],
+    "C#CCOc1cccnc1": [
+        "C#CCOc1cccnc1",
+        "69022-70-4",
+        "BD628013"
+    ],
+    "C#Cc1ccc(C(F)(F)F)nc1": [
+        "C#Cc1ccc(C(F)(F)F)nc1",
+        "1196155-24-4",
+        "BD628147"
+    ],
+    "C#CC(=O)c1ccccc1": [
+        "C#CC(=O)c1ccccc1",
+        "3623-15-2",
+        "BD628666"
+    ],
+    "C#Cc1ccc(O)c(C=O)c1": [
+        "C#Cc1ccc(O)c(C=O)c1",
+        "252771-08-7",
+        "BD628775"
+    ],
+    "C#Cc1ncc(C)cc1F": [
+        "C#Cc1ncc(C)cc1F",
+        "1372103-91-7",
+        "BD636478"
+    ],
+    "C#Cc1ncc(F)cc1C": [
+        "C#Cc1ncc(F)cc1C",
+        "1372103-93-9",
+        "BD636479"
+    ],
+    "C#Cc1cnc(OC)cn1": [
+        "C#Cc1cnc(OC)cn1",
+        "1374115-62-4",
+        "BD636480"
+    ],
+    "C#Cc1c(C)noc1C": [
+        "C#Cc1c(C)noc1C",
+        "668970-91-0",
+        "BD659288"
+    ],
+    "Br.C#CCOC(=O)C1=CCCN(C)C1": [
+        "Br.C#CCOC(=O)C1=CCCN(C)C1",
+        "116511-28-5",
+        "BD680686"
+    ],
+    "C#Cc1ccc(C(N)=O)cc1": [
+        "C#Cc1ccc(C(N)=O)cc1",
+        "90347-86-7",
+        "BD694783"
+    ],
+    "C#Cc1ccc(CSC(C)=O)cc1": [
+        "C#Cc1ccc(CSC(C)=O)cc1",
+        "307537-95-7",
+        "BD717461"
+    ],
+    "C#Cc1ccccc1C(F)(F)F": [
+        "C#Cc1ccccc1C(F)(F)F",
+        "704-41-6",
+        "BD7195"
+    ],
+    "C#Cc1ccc(C(F)(F)F)cc1": [
+        "C#Cc1ccc(C(F)(F)F)cc1",
+        "705-31-7",
+        "BD7196"
+    ],
+    "C#Cc1ccccc1C=O": [
+        "C#Cc1ccccc1C=O",
+        "38846-64-9",
+        "BD7327"
+    ],
+    "C#Cc1cccc(C=O)c1": [
+        "C#Cc1cccc(C=O)c1",
+        "77123-56-9",
+        "BD7328"
+    ],
+    "C#Cc1ccc(C=O)cc1": [
+        "C#Cc1ccc(C=O)cc1",
+        "63697-96-1",
+        "BD7329"
+    ],
+    "C#Cc1ccccc1N": [
+        "C#Cc1ccccc1N",
+        "52670-38-9",
+        "BD74749"
+    ],
+    "C#Cc1ccccc1C(=O)O": [
+        "C#Cc1ccccc1C(=O)O",
+        "33578-00-6",
+        "BD74751"
+    ],
+    "C#Cc1ccccn1": [
+        "C#Cc1ccccn1",
+        "1945-84-2",
+        "BD74754"
+    ],
+    "C#Cc1cccs1": [
+        "C#Cc1cccs1",
+        "4298-52-6",
+        "BD74755"
+    ],
+    "C#Cc1cccc(CO)c1": [
+        "C#Cc1cccc(CO)c1",
+        "10602-07-0",
+        "BD748596"
+    ],
+    "C#Cc1cncc(N)c1": [
+        "C#Cc1cncc(N)c1",
+        "667932-40-3",
+        "BD748597"
+    ],
+    "C#Cc1ccc(C)cc1": [
+        "C#Cc1ccc(C)cc1",
+        "766-97-2",
+        "BD7501"
+    ],
+    "C#Cc1cc([N+](=O)[O-])ccn1": [
+        "C#Cc1cc([N+](=O)[O-])ccn1",
+        "1211515-78-4",
+        "BD751877"
+    ],
+    "C#Cc1cccc(NC(=O)OC(C)(C)C)n1": [
+        "C#Cc1cccc(NC(=O)OC(C)(C)C)n1",
+        "1934630-23-5",
+        "BD754163"
+    ],
+    "C#Cc1c[nH]c2ccc([N+](=O)[O-])cc12": [
+        "C#Cc1c[nH]c2ccc([N+](=O)[O-])cc12",
+        "2007925-22-4",
+        "BD759625"
+    ],
+    "C#Cc1ccc(OC)cc1": [
+        "C#Cc1ccc(OC)cc1",
+        "768-60-5",
+        "BD7608"
+    ],
+    "C#Cc1ccccc1OC": [
+        "C#Cc1ccccc1OC",
+        "767-91-9",
+        "BD7609"
+    ],
+    "C#CS(=O)(=O)c1ccc(C)cc1": [
+        "C#CS(=O)(=O)c1ccc(C)cc1",
+        "13894-21-8",
+        "BD7617"
+    ],
+    "C#CCn1c2ccccc2c2ccccc21": [
+        "C#CCn1c2ccccc2c2ccccc21",
+        "4282-77-3",
+        "BD763129"
+    ],
+    "C#Cc1cccc2ccccc12": [
+        "C#Cc1cccc2ccccc12",
+        "15727-65-8",
+        "BD763512"
+    ],
+    "C#CC(C)(C)OC1CCCCO1": [
+        "C#CC(C)(C)OC1CCCCO1",
+        "27943-46-0",
+        "BD76842"
+    ],
+    "C#Cc1ccc(C(=O)O)cc1C": [
+        "C#Cc1ccc(C(=O)O)cc1C",
+        "1357281-69-6",
+        "BD768583"
+    ],
+    "C#Cc1ccc(C(=O)O)c(Cl)c1": [
+        "C#Cc1ccc(C(=O)O)c(Cl)c1",
+        "2168559-67-7",
+        "BD768610"
+    ],
+    "C#Cc1cc(F)ccn1": [
+        "C#Cc1cc(F)ccn1",
+        "1379277-37-8",
+        "BD00714247"
+    ],
+    "C#Cc1ccc([N+](=O)[O-])cc1Cl": [
+        "C#Cc1ccc([N+](=O)[O-])cc1Cl",
+        "1260829-25-1",
+        "BD00732592"
+    ],
+    "C#Cc1ccnc(OC)c1": [
+        "C#Cc1ccnc(OC)c1",
+        "1060816-39-8",
+        "BD00740490"
+    ],
+    "C#CCCI": [
+        "C#CCCI",
+        "43001-25-8",
+        "BD00748460"
+    ],
+    "C#Cc1ccc(F)c(N)c1": [
+        "C#Cc1ccc(F)c(N)c1",
+        "1010422-58-8",
+        "BD00752562"
+    ],
+    "C#Cc1ccccc1CO": [
+        "C#Cc1ccccc1CO",
+        "10602-08-1",
+        "BD00763192"
+    ],
+    "C#Cc1ncccc1F": [
+        "C#Cc1ncccc1F",
+        "1401685-43-5",
+        "BD00764736"
+    ],
+    "C#Cc1cc[nH]c(=O)c1": [
+        "C#Cc1cc[nH]c(=O)c1",
+        "1196152-08-5",
+        "BD00767008"
+    ],
+    "C#CCC1CCN(C(=O)OC(C)(C)C)CC1": [
+        "C#CCC1CCN(C(=O)OC(C)(C)C)CC1",
+        "301185-41-1",
+        "BD00767295"
+    ],
+    "C#Cc1ccc(=O)[nH]c1": [
+        "C#Cc1ccc(=O)[nH]c1",
+        "1196156-05-4",
+        "BD00768765"
+    ],
+    "C#Cc1cncc(C)c1": [
+        "C#Cc1cncc(C)c1",
+        "30413-53-7",
+        "BD00780285"
+    ],
+    "C#C[C@@H](C)N.Cl": [
+        "C#C[C@@H](C)N.Cl",
+        "869349-15-5",
+        "BD00781241"
+    ],
+    "C#CCCC(=O)OC(C)(C)C": [
+        "C#CCCC(=O)OC(C)(C)C",
+        "185986-76-9",
+        "BD00785163"
+    ],
+    "C#CC1CCC(=O)CC1": [
+        "C#CC1CCC(=O)CC1",
+        "1549050-50-1",
+        "BD00792670"
+    ],
+    "C#CCOc1cccc2ccccc12": [
+        "C#CCOc1cccc2ccccc12",
+        "18542-45-5",
+        "BD00793326"
+    ],
+    "C#CCN1C(=O)C=CC1=O": [
+        "C#CCN1C(=O)C=CC1=O",
+        "209395-32-4",
+        "BD00798755"
+    ],
+    "C#CC(=O)NC": [
+        "C#CC(=O)NC",
+        "2682-32-8",
+        "BD00804252"
+    ],
+    "C#Cc1cnc(N)c(-c2ccccc2)n1": [
+        "C#Cc1cnc(N)c(-c2ccccc2)n1",
+        "2227272-78-6",
+        "BD00805425"
+    ],
+    "C#CCNC(=O)C=C": [
+        "C#CCNC(=O)C=C",
+        "123523-58-0",
+        "BD00810402"
+    ],
+    "C#Cc1ccc(C#N)cn1": [
+        "C#Cc1ccc(C#N)cn1",
+        "1211588-35-0",
+        "BD00811217"
+    ],
+    "C#CCOCCN": [
+        "C#CCOCCN",
+        "122116-12-5",
+        "BD00812536"
+    ],
+    "C#CCOCC(=O)O": [
+        "C#CCOCC(=O)O",
+        "98021-61-5",
+        "BD00812909"
+    ],
+    "C#CCCC(=O)OCC": [
+        "C#CCCC(=O)OCC",
+        "63093-41-4",
+        "BD00813427"
+    ],
+    "C#CC1CCC2(CC1)OCCO2": [
+        "C#CC1CCC2(CC1)OCCO2",
+        "96184-86-0",
+        "BD00817244"
+    ],
+    "C#Cc1ccc(C#Cc2ccccc2)cc1": [
+        "C#Cc1ccc(C#Cc2ccccc2)cc1",
+        "92866-00-7",
+        "BD00826013"
+    ],
+    "C#Cc1cncc(C(=O)O)c1": [
+        "C#Cc1cncc(C(=O)O)c1",
+        "1211533-87-7",
+        "BD00829416"
+    ],
+    "C#CCCCN": [
+        "C#CCCCN",
+        "15252-44-5",
+        "BD00829513"
+    ],
+    "C#CC(=O)c1ccccc1Cl": [
+        "C#CC(=O)c1ccccc1Cl",
+        "3463-33-0",
+        "BD00836698"
+    ],
+    "C#CN(C)S(=O)(=O)c1ccc(C)cc1": [
+        "C#CN(C)S(=O)(=O)c1ccc(C)cc1",
+        "1005500-75-3",
+        "BD00851125"
+    ],
+    "C#CC1CCC(C(=O)OC)C1": [
+        "C#CC1CCC(C(=O)OC)C1",
+        "2102410-05-7",
+        "BD00864730"
+    ],
+    "C#CC(N)c1ccccc1.Cl": [
+        "C#CC(N)c1ccccc1.Cl",
+        "157022-35-0",
+        "BD00866321"
+    ],
+    "C#CCOCCI": [
+        "C#CCOCCI",
+        "164118-56-3",
+        "BD00877033"
+    ],
+    "C#CC1(C(=O)OC)CC1": [
+        "C#CC1(C(=O)OC)CC1",
+        "1423705-50-3",
+        "BD00891743"
+    ],
+    "C#Cc1ccc(CBr)cc1": [
+        "C#Cc1ccc(CBr)cc1",
+        "351002-91-0",
+        "BD00918174"
+    ],
+    "C#Cc1ccc(CCl)cc1": [
+        "C#Cc1ccc(CCl)cc1",
+        "10601-98-6",
+        "BD00918412"
+    ],
+    "C#Cc1cnc(OC)nc1": [
+        "C#Cc1cnc(OC)nc1",
+        "1059705-07-5",
+        "BD00921122"
+    ],
+    "C#CCOS(C)(=O)=O": [
+        "C#CCOS(C)(=O)=O",
+        "16156-58-4",
+        "BD00925558"
+    ],
+    "C#CC1CCC(CO)C1": [
+        "C#CC1CCC(CO)C1",
+        "1410810-55-7",
+        "BD00933949"
+    ],
+    "C#Cc1cnn(CCC)c1": [
+        "C#Cc1cnn(CCC)c1",
+        "1340156-26-4",
+        "BD00946981"
+    ],
+    "C#CCCCN(C)C": [
+        "C#CCCCN(C)C",
+        "41006-87-5",
+        "BD00948561"
+    ],
+    "C#Cc1ccc(N2CCOCC2)cc1": [
+        "C#Cc1ccc(N2CCOCC2)cc1",
+        "41876-72-6",
+        "BD00954387"
+    ],
+    "C#CCCCC(=O)OC(C)(C)C": [
+        "C#CCCCC(=O)OC(C)(C)C",
+        "73448-14-3",
+        "BD00955556"
+    ],
+    "C#CCOCCN.Cl": [
+        "C#CCOCCN.Cl",
+        "1383604-96-3",
+        "BD00978701"
+    ],
+    "C#CCC(C)(C)C(=O)O": [
+        "C#CCC(C)(C)C(=O)O",
+        "86101-48-6",
+        "BD00985546"
+    ],
+    "C#CCc1ccc(CO)cc1": [
+        "C#CCc1ccc(CO)cc1",
+        "51176-48-8",
+        "BD00994583"
+    ],
+    "C#CCCS(=O)(=O)Cl": [
+        "C#CCCS(=O)(=O)Cl",
+        "936644-39-2",
+        "BD01003223"
+    ],
+    "C#Cc1ccc(Cl)c(F)c1": [
+        "C#Cc1ccc(Cl)c(F)c1",
+        "756895-72-4",
+        "BD01003356"
+    ],
+    "C#CCCN1CCCCC1": [
+        "C#CCCN1CCCCC1",
+        "14256-74-7",
+        "BD01007585"
+    ],
+    "C#Cc1ccc(C)s1": [
+        "C#Cc1ccc(C)s1",
+        "81294-10-2",
+        "BD01012957"
+    ],
+    "C#Cc1cccc(S(C)(=O)=O)c1": [
+        "C#Cc1cccc(S(C)(=O)=O)c1",
+        "573982-84-0",
+        "BD01013385"
+    ],
+    "C#Cc1ccc(C(F)F)cc1": [
+        "C#Cc1ccc(C(F)F)cc1",
+        "1567114-39-9",
+        "BD01016223"
+    ],
+    "C#CCCCC(=O)Cl": [
+        "C#CCCCC(=O)Cl",
+        "55183-45-4",
+        "BD01024829"
+    ],
+    "C#CCCCS(=O)(=O)Cl": [
+        "C#CCCCS(=O)(=O)Cl",
+        "67448-64-0",
+        "BD01027137"
+    ],
+    "C#Cc1cc(C)c(C)s1": [
+        "C#Cc1cc(C)c(C)s1",
+        "1057670-09-3",
+        "BD01027651"
+    ],
+    "C#CCOC1CCN(C(=O)OC(C)(C)C)CC1": [
+        "C#CCOC1CCN(C(=O)OC(C)(C)C)CC1",
+        "1219827-56-1",
+        "BD01032839"
+    ],
+    "C#CCNN.Cl": [
+        "C#CCNN.Cl",
+        "1187368-95-1",
+        "BD01046051"
+    ],
+    "C#CCNC(=O)CN.Cl": [
+        "C#CCNC(=O)CN.Cl",
+        "1221722-25-3",
+        "BD01061797"
+    ],
+    "C#Cc1ccc(CC)s1": [
+        "C#Cc1ccc(CC)s1",
+        "1057670-00-4",
+        "BD01069498"
+    ],
+    "C#CCNC(=O)Cc1ccc(O)c(O)c1": [
+        "C#CCNC(=O)Cc1ccc(O)c(O)c1",
+        "1332585-62-2",
+        "BD01073202"
+    ],
+    "C#Cc1cscn1": [
+        "C#Cc1cscn1",
+        "111600-89-6",
+        "BD01077624"
+    ],
+    "C#CCCN1CCNCC1": [
+        "C#CCCN1CCNCC1",
+        "911398-04-4",
+        "BD01078891"
+    ],
+    "C#Cc1cc(C)sc1C": [
+        "C#Cc1cc(C)sc1C",
+        "127798-29-2",
+        "BD01080956"
+    ],
+    "C#Cc1ccc(C)nn1": [
+        "C#Cc1ccc(C)nn1",
+        "77778-20-2",
+        "BD01084482"
+    ],
+    "C#CC(N)Cc1cccc(F)c1.Cl": [
+        "C#CC(N)Cc1cccc(F)c1.Cl",
+        "2193065-31-3",
+        "BD01088129"
+    ],
+    "C#CCOc1ccccc1C#N": [
+        "C#CCOc1ccccc1C#N",
+        "65211-56-5",
+        "BD01099502"
+    ],
+    "C#Cc1cc(F)c(F)cc1F": [
+        "C#Cc1cc(F)c(F)cc1F",
+        "1097874-78-6",
+        "BD01111388"
+    ],
+    "C#CCOC1CCNCC1.Cl": [
+        "C#CCOC1CCNCC1.Cl",
+        "1185100-09-7",
+        "BD01115707"
+    ],
+    "C#Cc1ccc(C2CC2)cn1": [
+        "C#Cc1ccc(C2CC2)cn1",
+        "1824338-70-6",
+        "BD01126880"
+    ],
+    "C#Cc1ccc2c(c1)C(=O)N(C1CCC(=O)NC1=O)C2=O": [
+        "C#Cc1ccc2c(c1)C(=O)N(C1CCC(=O)NC1=O)C2=O",
+        "2154356-63-3",
+        "BD01142924"
+    ],
+    "C#CCc1cccc(OC)c1": [
+        "C#CCc1cccc(OC)c1",
+        "53799-94-3",
+        "BD01153990"
+    ],
+    "C#C[C@@H](C)NC(=O)OCc1ccccc1": [
+        "C#C[C@@H](C)NC(=O)OCc1ccccc1",
+        "1393524-11-2",
+        "BD01188473"
+    ],
+    "C#CC(C)NC(=O)OCc1ccccc1": [
+        "C#CC(C)NC(=O)OCc1ccccc1",
+        "1393576-61-8",
+        "BD01192761"
+    ],
+    "C#Cc1cccc(=O)[nH]1.O=C(O)C(F)(F)F": [
+        "C#Cc1cccc(=O)[nH]1.O=C(O)C(F)(F)F",
+        "2682114-57-2",
+        "BD01230151"
+    ],
+    "C#CCCl": [
+        "C#CCCl",
+        "624-65-7",
+        "BD01235885"
+    ],
+    "C#Cc1c(OC)cc(OC)cc1OC": [
+        "C#Cc1c(OC)cc(OC)cc1OC",
+        "136612-71-0",
+        "BD01268909"
+    ],
+    "C#CC(C)(C)S(C)(=O)=O": [
+        "C#CC(C)(C)S(C)(=O)=O",
+        "2109226-54-0",
+        "BD01281855"
+    ],
+    "C#Cc1cnc(C)nc1": [
+        "C#Cc1cnc(C)nc1",
+        "1196153-50-0",
+        "BD01287793"
+    ],
+    "C#CN(C)S(C)(=O)=O": [
+        "C#CN(C)S(C)(=O)=O",
+        "1675790-91-6",
+        "BD01292027"
+    ],
+    "C#CCc1ccc(C#N)cc1": [
+        "C#CCc1ccc(C#N)cc1",
+        "1260663-61-3",
+        "BD01316431"
+    ],
+    "C#CCOC": [
+        "C#CCOC",
+        "627-41-8",
+        "BD01316762"
+    ],
+    "C#Cc1nc(C)cc(C)n1": [
+        "C#Cc1nc(C)cc(C)n1",
+        "86520-99-2",
+        "BD01337673"
+    ],
+    "C#CC(=O)[O-].[Na+]": [
+        "C#CC(=O)[O-].[Na+]",
+        "920-38-7",
+        "BD01354045"
+    ],
+    "C#CC(C)(O)c1ccccc1": [
+        "C#CC(C)(O)c1ccccc1",
+        "127-66-2",
+        "BD01375501"
+    ],
+    "C#CC[C@@](C)(N)C(=O)O.Cl": [
+        "C#CC[C@@](C)(N)C(=O)O.Cl",
+        "2803419-94-3",
+        "BD01380228"
+    ],
+    "C#Cc1cc(C#N)c(F)cc1N": [
+        "C#Cc1cc(C#N)c(F)cc1N",
+        "2131007-03-7",
+        "BD01380253"
+    ],
+    "C#Cc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O": [
+        "C#Cc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O",
+        "1416990-26-5",
+        "BD01390643"
+    ],
+    "C#CC(N)C(C)CC.Cl": [
+        "C#CC(N)C(C)CC.Cl",
+        "2703752-14-9",
+        "BD01390964"
+    ],
+    "C#Cc1cnc(=O)[nH]c1N": [
+        "C#Cc1cnc(=O)[nH]c1N",
+        "65223-79-2",
+        "BD01396542"
+    ],
+    "C#CCC(N)C(=O)O": [
+        "C#CCC(N)C(=O)O",
+        "50428-03-0",
+        "BD01397609"
+    ],
+    "C#CCn1ccc(=O)[nH]c1=O": [
+        "C#CCn1ccc(=O)[nH]c1=O",
+        "168413-01-2",
+        "BD01409934"
+    ],
+    "C#CC1(OC)CCCCC1": [
+        "C#CC1(OC)CCCCC1",
+        "5240-36-8",
+        "BD01422208"
+    ],
+    "C#CCOC1CN(C(=O)OC(C)(C)C)C1": [
+        "C#CCOC1CN(C(=O)OC(C)(C)C)C1",
+        "1219606-33-3",
+        "BD01437400"
+    ],
+    "C#CCN1CCC2(CC1)CN(C(=O)OC(C)(C)C)C2": [
+        "C#CCN1CCC2(CC1)CN(C(=O)OC(C)(C)C)C2",
+        "2434850-33-4",
+        "BD01452296"
+    ],
+    "C#Cc1cc(F)cc(F)c1": [
+        "C#Cc1cc(F)cc(F)c1",
+        "151361-87-4",
+        "BD157864"
+    ],
+    "C#Cc1nccnc1N": [
+        "C#Cc1nccnc1N",
+        "1005349-13-2",
+        "BD158112"
+    ],
+    "C#Cc1nc(Br)cnc1N": [
+        "C#Cc1nc(Br)cnc1N",
+        "1209289-08-6",
+        "BD158118"
+    ],
+    "C#Cc1ccccc1C": [
+        "C#Cc1ccccc1C",
+        "766-47-2",
+        "BD158630"
+    ],
+    "C#Cc1ccc(OC(F)(F)F)cc1": [
+        "C#Cc1ccc(OC(F)(F)F)cc1",
+        "160542-02-9",
+        "BD158727"
+    ],
+    "C#Cc1nccc2ccccc12": [
+        "C#Cc1nccc2ccccc12",
+        "86520-96-9",
+        "BD158831"
+    ],
+    "C#Cc1cc(Br)cnc1N": [
+        "C#Cc1cc(Br)cnc1N",
+        "1210838-82-6",
+        "BD159138"
+    ],
+    "C#Cc1ncccn1": [
+        "C#Cc1ncccn1",
+        "37972-24-0",
+        "BD160291"
+    ],
+    "C#Cc1cncnc1": [
+        "C#Cc1cncnc1",
+        "153286-94-3",
+        "BD160349"
+    ],
+    "C#CCCN": [
+        "C#CCCN",
+        "14044-63-4",
+        "BD161972"
+    ],
+    "C#Cc1ccc(C=O)s1": [
+        "C#Cc1ccc(C=O)s1",
+        "206768-21-0",
+        "BD162041"
+    ],
+    "C#CCN1CCCC1": [
+        "C#CCN1CCCC1",
+        "7223-42-9",
+        "BD162205"
+    ],
+    "C#CC1CCCCN1C(=O)OC(C)(C)C": [
+        "C#CC1CCCCN1C(=O)OC(C)(C)C",
+        "255864-58-5",
+        "BD162234"
+    ],
+    "C#CC1CCCN(C(=O)OC(C)(C)C)C1": [
+        "C#CC1CCCN(C(=O)OC(C)(C)C)C1",
+        "664362-16-7",
+        "BD162266"
+    ],
+    "C#CC1CCCNC1.Cl": [
+        "C#CC1CCCNC1.Cl",
+        "959918-19-5",
+        "BD162267"
+    ],
+    "C#Cc1ccc(S(C)(=O)=O)cc1": [
+        "C#Cc1ccc(S(C)(=O)=O)cc1",
+        "340771-31-5",
+        "BD163258"
+    ],
+    "C#Cc1ccc2[nH]nc(C)c2c1": [
+        "C#Cc1ccc2[nH]nc(C)c2c1",
+        "1093307-29-9",
+        "BD163700"
+    ],
+    "C#CCCNC(=O)OC(C)(C)C": [
+        "C#CCCNC(=O)OC(C)(C)C",
+        "149990-27-2",
+        "BD164130"
+    ],
+    "C#Cc1ccnc2ccccc12": [
+        "C#Cc1ccnc2ccccc12",
+        "62484-52-0",
+        "BD166929"
+    ],
+    "C#Cc1ccc(F)c(F)c1": [
+        "C#Cc1ccc(F)c(F)c1",
+        "143874-13-9",
+        "BD168598"
+    ],
+    "C#Cc1ccnc(Cl)c1": [
+        "C#Cc1ccnc(Cl)c1",
+        "945717-09-9",
+        "BD170889"
+    ],
+    "C#CC[C@H](N)C(=O)O": [
+        "C#CC[C@H](N)C(=O)O",
+        "23235-01-0",
+        "BD19178"
+    ],
+    "C#CC(C)(C)NC(=O)c1cc(Cl)cc(Cl)c1": [
+        "C#CC(C)(C)NC(=O)c1cc(Cl)cc(Cl)c1",
+        "23950-58-5",
+        "BD19586"
+    ],
+    "C#Cc1ncc(Br)cn1": [
+        "C#Cc1ncc(Br)cn1",
+        "1135283-08-7",
+        "BD196330"
+    ],
+    "C#Cc1cccc(NC(C)=O)c1": [
+        "C#Cc1cccc(NC(C)=O)c1",
+        "70933-58-3",
+        "BD200549"
+    ],
+    "C#Cc1ccc([N+](=O)[O-])cc1OC": [
+        "C#Cc1ccc([N+](=O)[O-])cc1OC",
+        "1135283-10-1",
+        "BD200929"
+    ],
+    "C#Cc1cc(C)ccc1N": [
+        "C#Cc1cc(C)ccc1N",
+        "215589-37-0",
+        "BD206332"
+    ],
+    "C#Cc1ccc(CC#N)cc1": [
+        "C#Cc1ccc(CC#N)cc1",
+        "351002-90-9",
+        "BD208892"
+    ],
+    "C#CCCCC(=O)O": [
+        "C#CCCCC(=O)O",
+        "53293-00-8",
+        "BD211591"
+    ],
+    "C#Cc1ccccc1C(=O)OC": [
+        "C#Cc1ccccc1C(=O)OC",
+        "33577-99-0",
+        "BD215792"
+    ],
+    "C#Cc1cc([N+](=O)[O-])ccc1F": [
+        "C#Cc1cc([N+](=O)[O-])ccc1F",
+        "343866-99-9",
+        "BD216070"
+    ],
+    "C#Cc1ccc(N)nc1": [
+        "C#Cc1ccc(N)nc1",
+        "82454-61-3",
+        "BD216123"
+    ],
+    "C#Cc1cccc(Br)n1": [
+        "C#Cc1cccc(Br)n1",
+        "445468-63-3",
+        "BD217362"
+    ],
+    "C#Cc1sccc1C": [
+        "C#Cc1sccc1C",
+        "81294-11-3",
+        "BD217857"
+    ],
+    "C#Cc1cccc(C)n1": [
+        "C#Cc1cccc(C)n1",
+        "30413-58-2",
+        "BD217858"
+    ],
+    "C#CC[C@@H](NC(=O)OC(C)(C)C)C(=O)O": [
+        "C#CC[C@@H](NC(=O)OC(C)(C)C)C(=O)O",
+        "63039-46-3",
+        "BD21896"
+    ],
+    "C#CC[C@H](NC(=O)OC(C)(C)C)C(=O)O": [
+        "C#CC[C@H](NC(=O)OC(C)(C)C)C(=O)O",
+        "63039-48-5",
+        "BD21897"
+    ],
+    "C#CC1CCCN1C(=O)OC(C)(C)C": [
+        "C#CC1CCCN1C(=O)OC(C)(C)C",
+        "316141-37-4",
+        "BD219648"
+    ],
+    "C#CCN1CCOCC1": [
+        "C#CCN1CCOCC1",
+        "5799-76-8",
+        "BD222228"
+    ],
+    "C#Cc1ccc(Cl)cn1": [
+        "C#Cc1ccc(Cl)cn1",
+        "1196153-33-9",
+        "BD222958"
+    ],
+    "C#Cc1ccc(C(F)(F)F)cn1": [
+        "C#Cc1ccc(C(F)(F)F)cn1",
+        "379670-42-5",
+        "BD222959"
+    ],
+    "C#Cc1ccc(Cl)nc1": [
+        "C#Cc1ccc(Cl)nc1",
+        "263012-63-1",
+        "BD222961"
+    ],
+    "C#CCCN(C)C(=O)OC(C)(C)C": [
+        "C#CCCN(C)C(=O)OC(C)(C)C",
+        "159492-85-0",
+        "BD01461352"
+    ],
+    "C#CCCNC(=O)c1ccc(N)c(N)c1": [
+        "C#CCCNC(=O)c1ccc(N)c(N)c1",
+        "BD01624241",
+        "BD01624241"
+    ],
+    "C#Cc1ccc(C(C)(C)C)cc1": [
+        "C#Cc1ccc(C(C)(C)C)cc1",
+        "772-38-3",
+        "BD0816"
+    ],
+    "C#CCCCCl": [
+        "C#CCCCCl",
+        "14267-92-6",
+        "BD103252"
+    ],
+    "C#CCCCC#N": [
+        "C#CCCCC#N",
+        "14918-21-9",
+        "BD103729"
+    ],
+    "C#Cc1cncn1C": [
+        "C#Cc1cncn1C",
+        "71759-92-7",
+        "BD103897"
+    ],
+    "C#Cc1ccc2c(c1)OCO2": [
+        "C#Cc1ccc2c(c1)OCO2",
+        "57134-53-9",
+        "BD103899"
+    ],
+    "C#CCCCCO": [
+        "C#CCCCCO",
+        "928-90-5",
+        "BD104168"
+    ],
+    "C#CCOC1CCCCO1": [
+        "C#CCOC1CCCCO1",
+        "6089-04-9",
+        "BD105998"
+    ],
+    "C#Cc1cccc(N)c1": [
+        "C#Cc1cccc(N)c1",
+        "54060-30-9",
+        "BD11069"
+    ],
+    "C#CCOCc1ccccc1": [
+        "C#CCOCc1ccccc1",
+        "4039-82-1",
+        "BD116201"
+    ],
+    "C#Cc1ccc(CC)cc1": [
+        "C#Cc1ccc(CC)cc1",
+        "40307-11-7",
+        "BD11751"
+    ],
+    "C#Cc1ccc(OCC)cc1": [
+        "C#Cc1ccc(OCC)cc1",
+        "79887-14-2",
+        "BD11817"
+    ],
+    "C#Cc1ccc(OC)c(OC)c1": [
+        "C#Cc1ccc(OC)c(OC)c1",
+        "4302-52-7",
+        "BD11822"
+    ],
+    "C#Cc1ccc(N(C)C)cc1": [
+        "C#Cc1ccc(N(C)C)cc1",
+        "17573-94-3",
+        "BD11902"
+    ],
+    "C#CCC(C(=O)OC)C(=O)OC": [
+        "C#CCC(C(=O)OC)C(=O)OC",
+        "95124-07-5",
+        "BD125459"
+    ],
+    "C#CCOc1ccccc1C=O": [
+        "C#CCOc1ccccc1C=O",
+        "29978-83-4",
+        "BD12745"
+    ],
+    "C#CCC(=O)OCC": [
+        "C#CCC(=O)OCC",
+        "53841-07-9",
+        "BD128616"
+    ],
+    "C#Cc1ccc(CCC)cc1": [
+        "C#Cc1ccc(CCC)cc1",
+        "62452-73-7",
+        "BD13051"
+    ],
+    "C#Cc1ccc(C(C)C)cc1": [
+        "C#Cc1ccc(C(C)C)cc1",
+        "23152-99-0",
+        "BD13053"
+    ],
+    "C#CC(C)OS(=O)(=O)c1ccc(C)cc1": [
+        "C#CC(C)OS(=O)(=O)c1ccc(C)cc1",
+        "53487-52-8",
+        "BD13140"
+    ],
+    "C#CCOCC1CO1": [
+        "C#CCOCC1CO1",
+        "18180-30-8",
+        "BD132194"
+    ],
+    "C#CCC(=O)OC": [
+        "C#CCC(=O)OC",
+        "32804-66-3",
+        "BD138624"
+    ],
+    "C#CCCCC(=O)OC": [
+        "C#CCCCC(=O)OC",
+        "77758-51-1",
+        "BD139163"
+    ],
+    "C#Cc1ccc(CCCC)cc1": [
+        "C#Cc1ccc(CCCC)cc1",
+        "79887-09-5",
+        "BD13958"
+    ],
+    "C#CC(=O)OC": [
+        "C#CC(=O)OC",
+        "922-67-8",
+        "BD139613"
+    ],
+    "C#Cc1ccc(N(CC)CC)cc1": [
+        "C#Cc1ccc(N(CC)CC)cc1",
+        "41876-70-4",
+        "BD14056"
+    ],
+    "C#CCCN1C(=O)c2ccccc2C1=O": [
+        "C#CCCN1C(=O)c2ccccc2C1=O",
+        "14396-90-8",
+        "BD141147"
+    ],
+    "C#CCN(C)Cc1ccccc1": [
+        "C#CCN(C)Cc1ccccc1",
+        "555-57-7",
+        "BD145173"
+    ],
+    "C#CCNC": [
+        "C#CCNC",
+        "35161-71-8",
+        "BD145191"
+    ],
+    "C#CCNC(N)=O": [
+        "C#CCNC(N)=O",
+        "5221-62-5",
+        "BD145606"
+    ],
+    "C#CCN(C)Cc1ccccc1.Cl": [
+        "C#CCN(C)Cc1ccccc1.Cl",
+        "306-07-0",
+        "BD146773"
+    ],
+    "C#CCOc1ccccc1": [
+        "C#CCOc1ccccc1",
+        "13610-02-1",
+        "BD147581"
+    ],
+    "C#CCOCCO": [
+        "C#CCOCCO",
+        "3973-18-0",
+        "BD148401"
+    ],
+    "C#CCN.Cl": [
+        "C#CCN.Cl",
+        "15430-52-1",
+        "BD149201"
+    ],
+    "C#CCCC(=O)[O-]": [
+        "C#CCCC(=O)[O-]",
+        "627-09-8",
+        "BD149202"
+    ],
+    "C#CCOS(=O)(=O)c1ccccc1": [
+        "C#CCOS(=O)(=O)c1ccccc1",
+        "6165-75-9",
+        "BD149205"
+    ],
+    "C#CCOS(=O)(=O)c1ccc(C)cc1": [
+        "C#CCOS(=O)(=O)c1ccc(C)cc1",
+        "6165-76-0",
+        "BD149213"
+    ],
+    "C#CC(N)=O": [
+        "C#CC(N)=O",
+        "7341-96-0",
+        "BD149346"
+    ],
+    "C#Cc1cncc(Cl)c1": [
+        "C#Cc1cncc(Cl)c1",
+        "329202-22-4",
+        "BD149723"
+    ],
+    "C#CCN[C@@H]1CCc2ccccc21.CS(=O)(=O)O": [
+        "C#CCN[C@@H]1CCc2ccccc21.CS(=O)(=O)O",
+        "161735-79-1",
+        "BD150251"
+    ],
+    "C#CC1CCN(C(=O)OC(C)(C)C)CC1": [
+        "C#CC1CCN(C(=O)OC(C)(C)C)CC1",
+        "287192-97-6",
+        "BD152930"
+    ],
+    "C#CC(=O)OC(C)(C)C": [
+        "C#CC(=O)OC(C)(C)C",
+        "13831-03-3",
+        "BD153079"
+    ],
+    "C#Cc1cc(N)ccc1C": [
+        "C#Cc1cc(N)ccc1C",
+        "134690-40-7",
+        "BD290252"
+    ],
+    "C#CC(C)(C)C(=O)O": [
+        "C#CC(C)(C)C(=O)O",
+        "56663-76-4",
+        "BD29073"
+    ],
+    "C#Cc1ccc(Cl)cc1Cl": [
+        "C#Cc1ccc(Cl)cc1Cl",
+        "75717-77-0",
+        "BD290925"
+    ],
+    "C#Cc1ccc(Cl)cc1F": [
+        "C#Cc1ccc(Cl)cc1F",
+        "188472-71-1",
+        "BD293557"
+    ],
+    "C#Cc1cccc(OC(F)(F)F)c1": [
+        "C#Cc1cccc(OC(F)(F)F)c1",
+        "866683-57-0",
+        "BD293943"
+    ],
+    "C#Cc1ccc(C)nc1": [
+        "C#Cc1ccc(C)nc1",
+        "1945-85-3",
+        "BD294599"
+    ],
+    "C#C[C@H](C)NC(=O)OC(C)(C)C": [
+        "C#C[C@H](C)NC(=O)OC(C)(C)C",
+        "118080-79-8",
+        "BD297035"
+    ],
+    "C#C[C@H](C)N.Cl": [
+        "C#C[C@H](C)N.Cl",
+        "1414960-66-9",
+        "BD297781"
+    ],
+    "C#CCCN.Cl": [
+        "C#CCCN.Cl",
+        "88211-50-1",
+        "BD29809"
+    ],
+    "C#Cc1cn[nH]c1": [
+        "C#Cc1cn[nH]c1",
+        "57121-49-0",
+        "BD301137"
+    ],
+    "C#CC1(O)CN(C(=O)OC(C)(C)C)C1": [
+        "C#CC1(O)CN(C(=O)OC(C)(C)C)C1",
+        "1259034-35-9",
+        "BD301775"
+    ],
+    "C#CC(C)(C)Cl": [
+        "C#CC(C)(C)Cl",
+        "1111-97-3",
+        "BD30180"
+    ],
+    "C#Cc1ccc(Br)cn1": [
+        "C#Cc1ccc(Br)cn1",
+        "111770-86-6",
+        "BD30196"
+    ],
+    "C#CC1(O)COC1": [
+        "C#CC1(O)COC1",
+        "1352492-38-6",
+        "BD302073"
+    ],
+    "C#CCN1CCCC1.Cl": [
+        "C#CCN1CCCC1.Cl",
+        "89775-13-3",
+        "BD302384"
+    ],
+    "C#CC1(O)CCOC1": [
+        "C#CC1(O)CCOC1",
+        "137344-86-6",
+        "BD303380"
+    ],
+    "C#CC1(C(=O)O)CC1": [
+        "C#CC1(C(=O)O)CC1",
+        "933755-97-6",
+        "BD303942"
+    ],
+    "C#CC(O)(c1ccccc1)c1ccccc1": [
+        "C#CC(O)(c1ccccc1)c1ccccc1",
+        "3923-52-2",
+        "BD304909"
+    ],
+    "C#Cc1cnn(C)c1": [
+        "C#Cc1cnn(C)c1",
+        "39806-89-8",
+        "BD305282"
+    ],
+    "C#CC1CCSCC1": [
+        "C#CC1CCSCC1",
+        "1100509-34-9",
+        "BD314171"
+    ],
+    "C#Cc1cccc2c1OC(F)(F)O2": [
+        "C#Cc1cccc2c1OC(F)(F)O2",
+        "1408074-62-3",
+        "BD315165"
+    ],
+    "C#Cc1cnccn1": [
+        "C#Cc1cnccn1",
+        "153800-11-4",
+        "BD315335"
+    ],
+    "C#Cc1ccnc(C)c1": [
+        "C#Cc1ccnc(C)c1",
+        "30413-56-0",
+        "BD315536"
+    ],
+    "C#C[C@H]1CC[C@H](NC(=O)OC(C)(C)C)CC1": [
+        "C#C[C@H]1CC[C@H](NC(=O)OC(C)(C)C)CC1",
+        "947141-86-8",
+        "BD316191"
+    ],
+    "C#C[c-]1cccc1.[Fe+2].c1cc[cH-]c1": [
+        "C#C[c-]1cccc1.[Fe+2].c1cc[cH-]c1",
+        "1271-47-2",
+        "BD31692"
+    ],
+    "C#CC[C@@]1(C(=O)O)CCCN1.Cl": [
+        "C#CC[C@@]1(C(=O)O)CCCN1.Cl",
+        "1049733-10-9",
+        "BD316999"
+    ],
+    "C#CC[C@]1(C(=O)O)CCCN1.Cl": [
+        "C#CC[C@]1(C(=O)O)CCCN1.Cl",
+        "1217828-88-0",
+        "BD318566"
+    ],
+    "C#Cc1cccc(C(C)(C)C)c1": [
+        "C#Cc1cccc(C(C)(C)C)c1",
+        "135883-34-0",
+        "BD320772"
+    ],
+    "C#Cc1cc(Cl)cc(Cl)c1": [
+        "C#Cc1cc(Cl)cc(Cl)c1",
+        "99254-90-7",
+        "BD320773"
+    ],
+    "C#Cc1cccc(CC)c1": [
+        "C#Cc1cccc(CC)c1",
+        "29074-77-9",
+        "BD320776"
+    ],
+    "C#CC[C@@H](N)C(=O)O": [
+        "C#CC[C@@H](N)C(=O)O",
+        "23235-03-2",
+        "BD32767"
+    ],
+    "C#CCN": [
+        "C#CCN",
+        "2450-71-7",
+        "BD32844"
+    ],
+    "C#Cc1cccc2nccn12": [
+        "C#Cc1cccc2nccn12",
+        "1374115-61-3",
+        "BD329336"
+    ],
+    "C#Cc1ccc2[nH]ncc2n1": [
+        "C#Cc1ccc2[nH]ncc2n1",
+        "1374652-56-8",
+        "BD329360"
+    ],
+    "C#CCOC(N)=O": [
+        "C#CCOC(N)=O",
+        "16754-39-5",
+        "BD330445"
+    ],
+    "C#CCCCN.Cl": [
+        "C#CCCCN.Cl",
+        "173987-24-1",
+        "BD330506"
+    ],
+    "C#CCN1Cc2ccccc2S1(=O)=O": [
+        "C#CCN1Cc2ccccc2S1(=O)=O",
+        "20044-78-4",
+        "BD330743"
+    ],
+    "C#CC(O)c1cccc(F)c1": [
+        "C#CC(O)c1cccc(F)c1",
+        "2107-40-6",
+        "BD330841"
+    ],
+    "C#Cc1ccc2ccccc2c1": [
+        "C#Cc1ccc2ccccc2c1",
+        "2949-26-0",
+        "BD33093"
+    ],
+    "C#CCN1C(=O)CC2(CCCC2)CC1=O": [
+        "C#CCN1C(=O)CC2(CCCC2)CC1=O",
+        "25032-23-9",
+        "BD331044"
+    ],
+    "C#Cc1cc(C(=O)OC)cc(C(=O)OC)c1": [
+        "C#Cc1cc(C(=O)OC)cc(C(=O)OC)c1",
+        "313648-56-5",
+        "BD331246"
+    ],
+    "C#Cc1ccccc1C(C)=O": [
+        "C#Cc1ccccc1C(C)=O",
+        "104190-22-9",
+        "BD332536"
+    ],
+    "C#CC(C)(C)NC(=O)OC(C)(C)C": [
+        "C#CC(C)(C)NC(=O)OC(C)(C)C",
+        "113486-06-9",
+        "BD332922"
+    ],
+    "C#Cc1cnc2[nH]ncc2c1": [
+        "C#Cc1cnc2[nH]ncc2c1",
+        "1207351-15-2",
+        "BD333473"
+    ],
+    "C#CC[C@H](CO)NC(=O)OC(C)(C)C": [
+        "C#CC[C@H](CO)NC(=O)OC(C)(C)C",
+        "1217637-01-8",
+        "BD333603"
+    ],
+    "C#Cc1cc(C(=O)OC)ccc1C": [
+        "C#Cc1cc(C(=O)OC)ccc1C",
+        "1255099-13-8",
+        "BD333998"
+    ],
+    "C#CC1(N)CC1.Cl": [
+        "C#CC1(N)CC1.Cl",
+        "1268810-17-8",
+        "BD334271"
+    ],
+    "C#Cc1cc(C(=O)O)cc(C(=O)O)c1": [
+        "C#Cc1cc(C(=O)O)cc(C(=O)O)c1",
+        "432025-97-3",
+        "BD334356"
+    ],
+    "C#Cc1cnc[nH]1": [
+        "C#Cc1cnc[nH]1",
+        "57121-48-9",
+        "BD334681"
+    ],
+    "C#CCON1C(=O)c2ccccc2C1=O": [
+        "C#CCON1C(=O)c2ccccc2C1=O",
+        "4616-63-1",
+        "BD33709"
+    ],
+    "C#Cc1ccc(Br)s1": [
+        "C#Cc1ccc(Br)s1",
+        "105995-73-1",
+        "BD337725"
+    ],
+    "C#Cc1ccc(CCC(=O)OC)cc1": [
+        "C#Cc1ccc(CCC(=O)OC)cc1",
+        "1068471-18-0",
+        "BD337731"
+    ],
+    "C#CCCC(=O)ON1C(=O)CCC1=O": [
+        "C#CCCC(=O)ON1C(=O)CCC1=O",
+        "132178-37-1",
+        "BD338594"
+    ],
+    "C#CC(=O)OCC": [
+        "C#CC(=O)OCC",
+        "623-47-2",
+        "BD34365"
+    ],
+    "C#CCN1C(=O)c2ccccc2C1=O": [
+        "C#CCN1C(=O)c2ccccc2C1=O",
+        "7223-50-9",
+        "BD34739"
+    ],
+    "C#Cc1cccc(C)c1": [
+        "C#Cc1cccc(C)c1",
+        "766-82-5",
+        "BD34882"
+    ],
+    "C#Cc1ccc(Cl)cc1": [
+        "C#Cc1ccc(Cl)cc1",
+        "873-73-4",
+        "BD35196"
+    ],
+    "C#Cc1ccn[nH]1": [
+        "C#Cc1ccn[nH]1",
+        "23486-70-6",
+        "BD360365"
+    ],
+    "C#Cc1ccccc1OC(F)(F)F": [
+        "C#Cc1ccccc1OC(F)(F)F",
+        "886363-40-2",
+        "BD36593"
+    ],
+    "C#Cc1ccc(F)cn1": [
+        "C#Cc1ccc(F)cn1",
+        "884494-34-2",
+        "BD37090"
+    ],
+    "C#CCCCCCl": [
+        "C#CCCCCCl",
+        "10297-06-0",
+        "BD3729"
+    ],
+    "C#CCN1CCS(=O)(=O)CC1": [
+        "C#CCN1CCS(=O)(=O)CC1",
+        "10442-03-2",
+        "BD3845"
+    ],
+    "C#Cc1ccc(S(N)(=O)=O)cc1": [
+        "C#Cc1ccc(S(N)(=O)=O)cc1",
+        "1788-08-5",
+        "BD41387"
+    ],
+    "C#Cc1cccc([N+](=O)[O-])c1": [
+        "C#Cc1cccc([N+](=O)[O-])c1",
+        "3034-94-4",
+        "BD41577"
+    ],
+    "C#CC1(O)CCCCC1": [
+        "C#CC1(O)CCCCC1",
+        "78-27-3",
+        "BD42018"
+    ],
+    "C#CCC(N)C(=O)O.Cl": [
+        "C#CCC(N)C(=O)O.Cl",
+        "16900-57-5",
+        "BD435029"
+    ],
+    "C#Cc1cccc(C(=O)OC(C)(C)C)c1": [
+        "C#Cc1cccc(C(=O)OC(C)(C)C)c1",
+        "914943-91-2",
+        "BD440102"
+    ],
+    "C#CC(C)(O)c1cc(C)on1": [
+        "C#CC(C)(O)c1cc(C)on1",
+        "1202769-66-1",
+        "BD447929"
+    ],
+    "C#Cc1ccc(C(=O)O)nc1": [
+        "C#Cc1ccc(C(=O)O)nc1",
+        "17880-57-8",
+        "BD448735"
+    ],
+    "C#Cc1cccc2cn[nH]c12": [
+        "C#Cc1cccc2cn[nH]c12",
+        "945761-99-9",
+        "BD449252"
+    ],
+    "C#CC(O)C1CCCCC1": [
+        "C#CC(O)C1CCCCC1",
+        "4187-88-6",
+        "BD449289"
+    ],
+    "C#CCOC(=O)Nc1ccc(O)cc1": [
+        "C#CCOC(=O)Nc1ccc(O)cc1",
+        "54840-14-1",
+        "BD45761"
+    ],
+    "C#CC1CCN(C(=O)OC(C)(C)C)C1": [
+        "C#CC1CCN(C(=O)OC(C)(C)C)C1",
+        "287193-00-4",
+        "BD224209"
+    ],
+    "C#Cc1ccc(CN)cc1": [
+        "C#Cc1ccc(CN)cc1",
+        "197844-23-8",
+        "BD224914"
+    ],
+    "C#Cc1ccc(OC)nc1": [
+        "C#Cc1ccc(OC)nc1",
+        "663955-59-7",
+        "BD224915"
+    ],
+    "C#Cc1ccc(F)cc1F": [
+        "C#Cc1ccc(F)cc1F",
+        "302912-34-1",
+        "BD224987"
+    ],
+    "C#Cc1cccc(C(=O)OC)c1": [
+        "C#Cc1cccc(C(=O)OC)c1",
+        "10602-06-9",
+        "BD227451"
+    ],
+    "C#CCCCCBr": [
+        "C#CCCCCBr",
+        "66977-99-9",
+        "BD227604"
+    ],
+    "C#CCOC(=O)c1ccccc1": [
+        "C#CCOC(=O)c1ccccc1",
+        "6750-04-5",
+        "BD227714"
+    ],
+    "C#Cc1c(OC)cccc1OC": [
+        "C#Cc1c(OC)cccc1OC",
+        "126829-31-0",
+        "BD228608"
+    ],
+    "C#C[C@@H](C)NC(=O)OC(C)(C)C": [
+        "C#C[C@@H](C)NC(=O)OC(C)(C)C",
+        "118080-82-3",
+        "BD228651"
+    ],
+    "C#CC[C@@H](N)C(=O)O.Cl": [
+        "C#CC[C@@H](N)C(=O)O.Cl",
+        "87205-47-8",
+        "BD22930"
+    ],
+    "C#CCCO": [
+        "C#CCCO",
+        "927-74-2",
+        "BD2325"
+    ],
+    "C#CC(C)NC(=O)OC(C)(C)C": [
+        "C#CC(C)NC(=O)OC(C)(C)C",
+        "154181-98-3",
+        "BD233913"
+    ],
+    "C#Cc1ccc(F)nc1": [
+        "C#Cc1ccc(F)nc1",
+        "853909-08-7",
+        "BD234166"
+    ],
+    "C#Cc1ccc(O)nc1": [
+        "C#Cc1ccc(O)nc1",
+        "BD234398",
+        "BD234398"
+    ],
+    "C#CC1CN(C(=O)OC(C)(C)C)C1": [
+        "C#CC1CN(C(=O)OC(C)(C)C)C1",
+        "287193-01-5",
+        "BD234699"
+    ],
+    "C#Cc1ccc(C(C)=O)s1": [
+        "C#Cc1ccc(C(C)=O)s1",
+        "658701-97-4",
+        "BD234737"
+    ],
+    "C#CCNC(=O)OCc1ccccc1": [
+        "C#CCNC(=O)OCc1ccccc1",
+        "120539-91-5",
+        "BD235144"
+    ],
+    "C#Cc1cc(F)c(F)c(F)c1": [
+        "C#Cc1cc(F)c(F)c(F)c1",
+        "158816-55-8",
+        "BD235672"
+    ],
+    "C#CCOc1cc(F)ccc1F": [
+        "C#CCOc1cc(F)ccc1F",
+        "457628-36-3",
+        "BD237604"
+    ],
+    "C#Cc1cnc2ccccn12": [
+        "C#Cc1cnc2ccccn12",
+        "943320-53-4",
+        "BD240490"
+    ],
+    "C#Cc1cccc(F)n1": [
+        "C#Cc1cccc(F)n1",
+        "1233205-73-6",
+        "BD241453"
+    ],
+    "C#Cc1ccc2ncccc2c1": [
+        "C#Cc1ccc2ncccc2c1",
+        "78593-41-6",
+        "BD241660"
+    ],
+    "C#Cc1cccc(C(=O)OCC)n1": [
+        "C#Cc1cccc(C(=O)OCC)n1",
+        "1379302-65-4",
+        "BD241676"
+    ],
+    "C#Cc1ccc2cnccc2c1": [
+        "C#Cc1ccc2cnccc2c1",
+        "1015070-57-1",
+        "BD241851"
+    ],
+    "C#CCNC(=O)c1ccc(Br)cc1": [
+        "C#CCNC(=O)c1ccc(Br)cc1",
+        "82225-32-9",
+        "BD243040"
+    ],
+    "C#Cc1ccc2ncsc2c1": [
+        "C#Cc1ccc2ncsc2c1",
+        "864376-04-5",
+        "BD244961"
+    ],
+    "C#Cc1cccc(N)c1.Cl": [
+        "C#Cc1cccc(N)c1.Cl",
+        "207226-02-6",
+        "BD245058"
+    ],
+    "C#Cc1cccc(C(N)=O)c1": [
+        "C#Cc1cccc(C(N)=O)c1",
+        "587878-75-9",
+        "BD247243"
+    ],
+    "C#Cc1cccc(NC(=O)OC(C)(C)C)c1": [
+        "C#Cc1cccc(NC(=O)OC(C)(C)C)c1",
+        "185619-66-3",
+        "BD247324"
+    ],
+    "C#Cc1ccnc(Br)c1": [
+        "C#Cc1ccnc(Br)c1",
+        "1196156-17-8",
+        "BD247641"
+    ],
+    "C#Cc1ccc(OC)cn1": [
+        "C#Cc1ccc(OC)cn1",
+        "1196155-18-6",
+        "BD247675"
+    ],
+    "C#CCON.Cl": [
+        "C#CCON.Cl",
+        "21663-79-6",
+        "BD248153"
+    ],
+    "C#Cc1csc(C)n1": [
+        "C#Cc1csc(C)n1",
+        "107263-89-8",
+        "BD249133"
+    ],
+    "C#Cc1cccc(CN)c1": [
+        "C#Cc1cccc(CN)c1",
+        "615288-78-3",
+        "BD249632"
+    ],
+    "C#Cc1cccnc1F": [
+        "C#Cc1cccnc1F",
+        "933768-06-0",
+        "BD250704"
+    ],
+    "C#CCCCCN": [
+        "C#CCCCCN",
+        "15252-45-6",
+        "BD251030"
+    ],
+    "C#CCCCCN.Cl": [
+        "C#CCCCCN.Cl",
+        "102169-54-0",
+        "BD251449"
+    ],
+    "C#CC1CCNCC1.Cl": [
+        "C#CC1CCNCC1.Cl",
+        "550378-30-8",
+        "BD253116"
+    ],
+    "C#Cc1cnc(Cl)nc1": [
+        "C#Cc1cnc(Cl)nc1",
+        "1196156-89-4",
+        "BD253914"
+    ],
+    "C#Cc1ccc(Cl)cn1.Cl": [
+        "C#Cc1ccc(Cl)cn1.Cl",
+        "1956341-52-8",
+        "BD253929"
+    ],
+    "C#Cc1ccccc1C#N": [
+        "C#Cc1ccccc1C#N",
+        "40888-26-4",
+        "BD254476"
+    ],
+    "C#CCCCI": [
+        "C#CCCCI",
+        "2468-55-5",
+        "BD257417"
+    ],
+    "C#Cc1ccc(CN)cc1.Cl": [
+        "C#Cc1ccc(CN)cc1.Cl",
+        "935528-07-7",
+        "BD259579"
+    ],
+    "C#Cc1ccc(CNC(=O)OC(C)(C)C)cc1": [
+        "C#Cc1ccc(CNC(=O)OC(C)(C)C)cc1",
+        "680190-96-9",
+        "BD259581"
+    ],
+    "C#Cc1ccccc1CNC(=O)OC(C)(C)C": [
+        "C#Cc1ccccc1CNC(=O)OC(C)(C)C",
+        "1097731-47-9",
+        "BD260005"
+    ],
+    "C#Cc1ccccc1CN.Cl": [
+        "C#Cc1ccccc1CN.Cl",
+        "2389017-90-5",
+        "BD260006"
+    ],
+    "C#Cc1cccc(CNC(=O)OC(C)(C)C)c1": [
+        "C#Cc1cccc(CNC(=O)OC(C)(C)C)c1",
+        "871023-92-6",
+        "BD260007"
+    ],
+    "C#Cc1cnc2cccnn12": [
+        "C#Cc1cnc2cccnn12",
+        "943320-61-4",
+        "BD261705"
+    ],
+    "C#Cc1ncccc1OC": [
+        "C#Cc1ncccc1OC",
+        "1256805-99-8",
+        "BD262121"
+    ],
+    "C#Cc1cc(Cl)ncc1F": [
+        "C#Cc1cc(Cl)ncc1F",
+        "1211539-66-0",
+        "BD262126"
+    ],
+    "C#Cc1ccc(-c2ccccn2)nc1": [
+        "C#Cc1ccc(-c2ccccn2)nc1",
+        "162318-34-5",
+        "BD262737"
+    ],
+    "C#CCCC(=O)OC": [
+        "C#CCCC(=O)OC",
+        "21565-82-2",
+        "BD264395"
+    ],
+    "C#CCOc1ccc(N)cc1": [
+        "C#CCOc1ccc(N)cc1",
+        "26557-78-8",
+        "BD265230"
+    ],
+    "C#CCCCNC(=O)OC(C)(C)C": [
+        "C#CCCCNC(=O)OC(C)(C)C",
+        "151978-50-6",
+        "BD265904"
+    ],
+    "C#CCNC(=O)C(F)(F)F": [
+        "C#CCNC(=O)C(F)(F)F",
+        "14719-21-2",
+        "BD265954"
+    ],
+    "C#Cc1ccc(OC)cc1CO": [
+        "C#Cc1ccc(OC)cc1CO",
+        "89414-50-6",
+        "BD269052"
+    ],
+    "C#CCNC(=O)OC(C)(C)C": [
+        "C#CCNC(=O)OC(C)(C)C",
+        "92136-39-5",
+        "BD26998"
+    ],
+    "C#Cc1cnc2ccccc2c1": [
+        "C#Cc1cnc2ccccc2c1",
+        "78593-40-5",
+        "BD270231"
+    ],
+    "C#Cc1cccc(C(=O)O)c1": [
+        "C#Cc1cccc(C(=O)O)c1",
+        "10601-99-7",
+        "BD27169"
+    ],
+    "C#Cc1ccc(C(=O)O)cc1": [
+        "C#Cc1ccc(C(=O)O)cc1",
+        "10602-00-3",
+        "BD27170"
+    ],
+    "C#Cc1ccc(C(=O)OC(C)(C)C)cc1": [
+        "C#Cc1ccc(C(=O)OC(C)(C)C)cc1",
+        "111291-97-5",
+        "BD27203"
+    ],
+    "C#CCNC1CCc2ccccc21": [
+        "C#CCNC1CCc2ccccc21",
+        "1875-50-9",
+        "BD273157"
+    ],
+    "C#Cc1ccc(C(=O)OCC)cc1": [
+        "C#Cc1ccc(C(=O)OCC)cc1",
+        "10602-03-6",
+        "BD273270"
+    ],
+    "C#CCCC(=O)O": [
+        "C#CCCC(=O)O",
+        "6089-09-4",
+        "BD2766"
+    ],
+    "C#Cc1ccc(C)cn1": [
+        "C#Cc1ccc(C)cn1",
+        "30413-61-7",
+        "BD278937"
+    ],
+    "C#Cc1cc(C)ccn1": [
+        "C#Cc1cc(C)ccn1",
+        "30413-54-8",
+        "BD278974"
+    ],
+    "C#Cc1ccc(C(=O)N2CCOCC2)cc1": [
+        "C#Cc1ccc(C(=O)N2CCOCC2)cc1",
+        "851895-20-0",
+        "BD279669"
+    ],
+    "C#CCNC(C)=O": [
+        "C#CCNC(C)=O",
+        "65881-41-6",
+        "BD280348"
+    ],
+    "C#Cc1ccc(N)cc1Cl": [
+        "C#Cc1ccc(N)cc1Cl",
+        "80690-65-9",
+        "BD280795"
+    ],
+    "C#Cc1ccc(C(=O)OC)nc1": [
+        "C#Cc1ccc(C(=O)OC)nc1",
+        "17880-61-4",
+        "BD281106"
+    ],
+    "C#Cc1ccc(C(=O)OC)cn1": [
+        "C#Cc1ccc(C(=O)OC)cn1",
+        "216444-00-7",
+        "BD281108"
+    ],
+    "C#Cc1cc(C(=O)OC)ccn1": [
+        "C#Cc1cc(C(=O)OC)ccn1",
+        "1256810-92-0",
+        "BD281110"
+    ],
+    "C#CCCCCI": [
+        "C#CCCCCI",
+        "2468-56-6",
+        "BD282144"
+    ],
+    "C#Cc1cnc(N)cn1": [
+        "C#Cc1cnc(N)cn1",
+        "457099-42-2",
+        "BD282639"
+    ],
+    "C#Cc1ccc(-c2ccc(O)cc2)cc1": [
+        "C#Cc1ccc(-c2ccc(O)cc2)cc1",
+        "1202355-37-0",
+        "BD284427"
+    ],
+    "C#Cc1cccc(Cl)n1": [
+        "C#Cc1cccc(Cl)n1",
+        "914950-09-7",
+        "BD286763"
+    ],
+    "C#Cc1cccnn1": [
+        "C#Cc1cccnn1",
+        "1017793-08-6",
+        "BD286765"
+    ],
+    "C#CC(C)N.Cl": [
+        "C#CC(C)N.Cl",
+        "42105-26-0",
+        "BD28697"
+    ]
+}
